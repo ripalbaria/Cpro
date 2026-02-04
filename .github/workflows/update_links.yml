@@ -1,9 +1,9 @@
-name: Update Cricify Links
+name: Update Ripalc Playlist
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Every 1 Hour
-  workflow_dispatch:      # Manual Button
+    - cron: '0 */1 * * *' # Har 1 ghante mein chalega
+  workflow_dispatch:      # Manual run button
 
 jobs:
   build:
@@ -32,7 +32,7 @@ jobs:
           IV_HEX: ${{ secrets.CRICIFY_IV }}
           KEY_HEX_2: ${{ secrets.CRICIFY_KEY_2 }} # Backup Key
           IV_HEX_2: ${{ secrets.CRICIFY_IV_2 }}   # Backup IV
-        # YAHAN NAME CHANGE HUAA HAI
+        # Script name is updated here
         run: python ripalc.py
 
       - name: Commit and push changes
@@ -40,5 +40,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.m3u
-          git commit -m "Auto-update playlist via ripalc.py" || exit 0
+          git commit -m "Update playlist using ripalc" || exit 0
           git push

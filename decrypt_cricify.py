@@ -4,20 +4,15 @@ import json
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
-# --- COMPLETE CONFIGURATION ---
-# Base URL ko pura path ke liye define kiya gaya hai
-BASE_URL = "https://cfyhljddgbkkufh82.top"
+# UPDATE: Reqable wala working URL use karein
+BASE_URL = "https://cfyhgdgnkkuvn92.top"
 
-# Extracted Secrets from your smali files
 KEY_HEX = "3368487a78594167534749382f68616d"
 IV_HEX = "557143766b766a656345497a38343256"
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
 def decrypt_data(encrypted_text):
-    """Plugin logic: AES/CBC/PKCS5Padding"""
     try:
         key = bytes.fromhex(KEY_HEX)
         iv = bytes.fromhex(IV_HEX)
@@ -26,53 +21,42 @@ def decrypt_data(encrypted_text):
         cipher = AES.new(key, AES.MODE_CBC, iv)
         decrypted = unpad(cipher.decrypt(ciphertext), AES.block_size)
         return decrypted.decode('utf-8')
-    except Exception:
+    except:
         return None
 
 def main():
-    # 1. Sabse pehle matches ki list fetch karein (Full URL)
-    events_list_url = f"{BASE_URL}/categories/live-events.txt"
-    print(f"📡 Fetching Cricket List from: {events_list_url}")
+    m3u_output = "#EXTM3U\n"
+    print(f"🚀 Fetching from: {BASE_URL}")
     
-    response = requests.get(events_list_url, headers=HEADERS)
-    if response.status_code != 200:
-        print("❌ Error: List download nahi ho saki.")
-        return
-
-    decrypted_list = decrypt_data(response.text)
-    if not decrypted_list:
-        print("❌ Error: List decrypt nahi ho payi.")
-        return
-
-    events = json.loads(decrypted_list)
-    
-    # 2. Loop through events and filter only Cricket
-    for event in events:
-        category = event.get('eventInfo', {}).get('eventCat', '')
+    try:
+        # Step 1: Get Cricket Matches
+        response = requests.get(f"{BASE_URL}/categories/live-events.txt", headers=HEADERS, timeout=15)
+        decrypted_list = decrypt_data(response.text)
+        if not decrypted_list: return
         
-        if category.lower() == "cricket":
-            title = event.get('title', 'Unknown Match')
-            slug = event.get('slug')
-            
-            print(f"\n🏏 MATCH: {title}")
-            
-            # 3. Dynamic Match URL (Pura Path .txt ke saath)
-            match_links_url = f"{BASE_URL}/channels/{slug}.txt"
-            
-            match_res = requests.get(match_links_url, headers=HEADERS)
-            if match_res.status_code == 200:
-                decrypted_links = decrypt_data(match_res.text)
-                if decrypted_links:
-                    stream_json = json.loads(decrypted_links)
-                    streams = stream_json.get('streamUrls', [])
+        events = json.loads(decrypted_list)
+        for event in events:
+            if event.get('eventInfo', {}).get('eventCat', '').lower() == "cricket":
+                title = event.get('title', 'Cricket Match')
+                slug = event.get('slug')
+                logo = event.get('eventInfo', {}).get('eventLogo', '')
+                
+                # Step 2: Get Match Links
+                ch_res = requests.get(f"{BASE_URL}/channels/{slug}.txt", headers=HEADERS, timeout=15)
+                dec_links = decrypt_data(ch_res.text)
+                if dec_links:
+                    streams = json.loads(dec_links).get('streamUrls', [])
                     for s in streams:
-                        # URL se extra headers hatana (| ke baad wala part)
-                        clean_url = s.get('link', '').split('|')[0]
-                        print(f"   ✅ {s.get('title')}: {clean_url}")
-                else:
-                    print(f"   ⚠️ Could not decrypt links for {slug}")
-            else:
-                print(f"   ⚠️ Match URL not found: {match_links_url}")
+                        link = s.get('link', '').split('|')[0]
+                        m3u_output += f'#EXTINF:-1 tvg-logo="{logo}", {title} ({s.get("title")})\n{link}\n'
+        
+        # Step 3: Save File
+        with open("playlist.m3u", "w", encoding='utf-8') as f:
+            f.write(m3u_output)
+        print("✅ Success: playlist.m3u created!")
+        
+    except Exception as e:
+        print(f"❌ Error: {e}")
 
 if __name__ == "__main__":
     main()

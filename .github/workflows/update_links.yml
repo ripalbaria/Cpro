@@ -1,8 +1,7 @@
 name: Update Ripalc Playlist
 
 on:
-  schedule:
-    - cron: '0 */1 * * *' # Har 1 ghante mein chalega
+  schedule:     - cron: '*/15 * * * *' # Har 20 minute me chalega
   workflow_dispatch:      # Manual run button
 
 jobs:

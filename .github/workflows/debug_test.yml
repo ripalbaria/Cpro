@@ -1,0 +1,32 @@
+name: Debug Only (Temporary)
+
+on:
+  workflow_dispatch:      # Manual button ke liye
+
+jobs:
+  debug-job:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pycryptodome
+
+      - name: Run Debug Script
+        env:
+          # Aapke Secrets yahan load honge
+          BASE_URL: ${{ secrets.BASE_URL }}
+          KEY_HEX: ${{ secrets.KEY_HEX }}
+          IV_HEX: ${{ secrets.IV_HEX }}
+          KEY_HEX_2: ${{ secrets.KEY_HEX_2 }}
+          IV_HEX_2: ${{ secrets.IV_HEX_2 }}
+        run: python debug_match.py
+

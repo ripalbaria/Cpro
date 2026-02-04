@@ -2,12 +2,17 @@ name: Update Cricify Links
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Run every hour
+    # Har 1 ghante mein script chalegi
+    - cron: '0 */1 * * *'
   workflow_dispatch: # Button to run manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # Ye zaroori hai taaki action file ko commit kar sake
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -21,12 +26,15 @@ jobs:
         run: pip install pycryptodome requests
 
       - name: Run decryption script
+        # Script wahi honi chahiye jo humne last discuss ki thi (JSON output wali)
         run: python decrypt_cricify.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.m3u
-          git commit -m "Auto-update cricket links" || exit 0
+          # Humne wapas JSON par switch kiya hai, isliye playlist.json add kar rahe hain
+          git add playlist.json
+          # Agar koi change nahi hua to error na aaye, isliye "|| exit 0" lagaya hai
+          git commit -m "Auto-update cricket JSON with DRM keys" || exit 0
           git push

@@ -1,14 +1,18 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=241b3705f104f5cd86e112b6987bc939:7267286ea3401d5472b377742894ed39
+#KODIPROP:inputstream.adaptive.license_key=a00511e28b1f92af76a1ffe81577bc02:54245ae78e6ef1a7fed775db20488e90
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", WILLOW - AQ
-https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/926qhyrwui/out/v1/8dd59c652f0844dd983d20d10e99c4a1/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/v4shsssh4c/out/v1/1eceb4cc26374a5db21247cd4479cd0e/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", PRIME VIDEO - AQ
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/att545vfjr/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", WILLOW HD
 http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", WILLOW - LQ
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebdc8a88125fbf460665d0a41a1fe5ad:2caf1b507b353683813a9781a270b2af
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="WPL - 1", WILLOW - AQ
@@ -31,14 +35,6 @@ https://tere-mere-rishta.pages.dev/LIVE/FREEMIUM/1540059764/TEL/2K/index.m3u8|Us
 https://tere-mere-rishta.pages.dev/LIVE/FREEMIUM/1540059764/TAM/2K/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&cookie=CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA;CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovLypsaXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzNzE1L2luYWxsb3ctdGF0YXdwbC0yMDI2L3RhbS8xNTQwMDU5NzY0LzE1bWluZHZybTAxYTRmY2QyODkwZDExNDk5NWE5MjJlNDQ4NTJlZDMwZjAzMGphbnVhcnkyMDI2LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njk4NjM5Mjl9fX1dfQ__;CloudFront-Signature=TGaINngODap~kR2IYV9--Oy0Wo9WZdy-ZsrvakWNZJN2HLGhuYOTI9xLG0VQ5806SyZoVY2LbWD3dPkWOFvBFWns-r-n0-~SQtvEfjgR61Oi92LceE~C5TGYSJ4dUYErKmVY74YdmcmsExFUR2Hna8INKZ2eonTH7NkjQnSxrEwss~8dWW5JT3YsVkMA4rmfaQJdTspeHCzaqcu7qW93v5MO42yan3k2a4WcZvFMztVqAf0VIlmXSWzK-F1WuhNk96Z1BPdHESjM0~4dpjXe9tkpg6IsIWVNVQY0EgbySrjUvTVSpLHxUZcsCDRGKJFvIMRkmiwKly2dhfByDK926A__;&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&User-agent=Hotstar;in.startv.hotstar/25.12.22.4.12134 (Android/5.1.1)
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="WPL - 1", HOTSTAR KAN (IND)
 https://tere-mere-rishta.pages.dev/LIVE/FREEMIUM/1540059764/KAN/2K/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&cookie=CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA;CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovLypsaXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODgxL2luYWxsb3ctdGF0YXdwbC0yMDI2L2thbi8xNTQwMDU5NzY0LzE1bWluZHZybTAxYTRmY2QyODkwZDExNDk5NWE5MjJlNDQ4NTJlZDMwZjAzMGphbnVhcnkyMDI2LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Njk4NjM4OTZ9fX1dfQ__;CloudFront-Signature=l~lx2CpxWxdEhR9BoJ42FyET0AB-WxwI5hdR69PRwi70vzp4adEeThVbwuSDn-KhKr3llQVlyD~9kb5zGRQvSvaM~7lZ4LHHO9ToeuKHBJyiup9srnUqdtxSS5jwkjLGccSzMXaUa8y3MxWWJfwltNUXGTCR8Bu9bSDVev-qkYYuJMTwkrF8GetanzmOG65nGl9J8EorCynu3sap3yDpqUI1MzwgQrnPN1D7LCgVvxLUfLXURSik9m5braSkOKBNA47ZzOkAaftCCkjUzOCGO0npULJOwbwvbknijyZIAt0BIpIjYMT7s4YSUcPerxEauSvlBqwtfyVC6VgNeNSxcg__;&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&User-agent=Hotstar;in.startv.hotstar/25.12.22.4.12134 (Android/5.1.1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f94165ab661385410e8fc2db3197a438:58d71a721aa56ebc77e4a7344d941373
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 World Cup Warm-up 1", WILLOW - AQ
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f5musbsyki/out/v1/3d0a47ce703b441da11f72d2d1adb1d6/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=795ef5a93a548aaefe02e2195c4f5065:2bd4321fc6d999af3a048de1eae1fa97
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 World Cup Warm-up 2", WILLOW - AQ
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bkyzxosbyr/out/v1/175b6645ada849b4a806859bdd8f4f8e/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d3cf394b515f80ed34305847a5e4cf3:558ece7d8b36b65dc728045f672aa5b1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSSOIrvhk54NVI8hhN8XzwOB9dGjewXP16NOiThgehg&s=10" group-title="Legends Pro T20 League 2026", WILLOW - AQ

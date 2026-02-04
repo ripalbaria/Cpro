@@ -8,16 +8,10 @@ from Crypto.Util.Padding import unpad
 # --- SECURITY: Load from GitHub Secrets ---
 BASE_URL = os.environ.get("BASE_URL")
 
-# Key Rotation Logic: Pehle Key 1 try karega, fail hone par Key 2
+# Key Rotation Logic
 KEYS_LIST = [
-    {
-        "key": os.environ.get("KEY_HEX"),      # Key 1
-        "iv": os.environ.get("IV_HEX")         # IV 1
-    },
-    {
-        "key": os.environ.get("KEY_HEX_2"),    # Key 2 (Backup)
-        "iv": os.environ.get("IV_HEX_2")       # IV 2 (Backup)
-    }
+    { "key": os.environ.get("KEY_HEX"), "iv": os.environ.get("IV_HEX") },
+    { "key": os.environ.get("KEY_HEX_2"), "iv": os.environ.get("IV_HEX_2") }
 ]
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -36,7 +30,6 @@ def try_decrypt(encrypted_text, key_hex, iv_hex):
         return None
 
 def decrypt_data(encrypted_text):
-    # Loop through all available keys
     for creds in KEYS_LIST:
         k = creds["key"]
         i = creds["iv"]
@@ -47,55 +40,95 @@ def decrypt_data(encrypted_text):
 
 def get_match_links(slug, match_title, logo):
     links_found = []
+    
+    # --- SMART SEARCH LOGIC ---
+    # Hum alag-alag possibilities ki list banayenge
+    possible_slugs = []
+    
+    # 1. Standard (Lowercase + Dashes) -> icc-t20-warm-up-2 (Most likely)
+    possible_slugs.append(slug.lower().replace(" ", "-"))
+    
+    # 2. Encoded Spaces -> ICC%20T20%20Warm-up%202
+    possible_slugs.append(slug.replace(" ", "%20"))
+    
+    # 3. Compressed -> icct20warmup2
+    possible_slugs.append(slug.lower().replace(" ", ""))
+    
+    # 4. Original (Just in case) -> ICC T20 Warm-up 2
+    possible_slugs.append(slug)
+
+    valid_response = None
+    used_slug = ""
+
+    print(f"🔎 Searching valid link for: {match_title}")
+    
+    for s in possible_slugs:
+        try:
+            ch_url = f"{BASE_URL}/channels/{s}.txt"
+            res = requests.get(ch_url, headers=HEADERS, timeout=5)
+            
+            # Agar 'Redirect to Google' na ho aur status 200 ho
+            if res.status_code == 200 and "google.com" not in res.text:
+                # Check karein ki kya ye wakai encrypted data hai?
+                if len(res.text) > 50: 
+                    valid_response = res
+                    used_slug = s
+                    print(f"✅ FOUND at slug: {s}")
+                    break
+        except:
+            continue
+
+    if not valid_response:
+        print(f"⚠️ Skipping '{match_title}' (File not found on server)")
+        return []
+
+    # --- DECRYPTION & PARSING ---
     try:
-        ch_url = f"{BASE_URL}/channels/{slug}.txt"
-        ch_res = requests.get(ch_url, headers=HEADERS, timeout=10)
-        
-        if ch_res.status_code == 200:
-            dec_links = decrypt_data(ch_res.text)
-            if dec_links:
-                streams = json.loads(dec_links).get('streamUrls', [])
-                for s in streams:
-                    stream_title = s.get('title', 'Source')
-                    raw_link = s.get('link', '')
-                    
-                    if '|' in raw_link:
-                        final_url = raw_link.split('|')[0]
-                        pipe_headers = raw_link.split('|')[1]
-                    else:
-                        final_url = raw_link
-                        pipe_headers = ""
+        dec_links = decrypt_data(valid_response.text)
+        if dec_links:
+            streams = json.loads(dec_links).get('streamUrls', [])
+            for s in streams:
+                stream_title = s.get('title', 'Source')
+                raw_link = s.get('link', '')
+                
+                if '|' in raw_link:
+                    final_url = raw_link.split('|')[0]
+                    pipe_headers = raw_link.split('|')[1]
+                else:
+                    final_url = raw_link
+                    pipe_headers = ""
 
-                    json_headers = s.get('headers')
-                    header_list = []
-                    
-                    if "User-Agent" not in str(pipe_headers) and "User-Agent" not in str(json_headers):
-                        header_list.append(f"User-Agent={HEADERS['User-Agent']}")
-                    
-                    if pipe_headers: header_list.append(pipe_headers)
-                    if json_headers:
-                        clean_json = str(json_headers).replace(";", "&").replace(" ", "")
-                        header_list.append(clean_json)
+                json_headers = s.get('headers')
+                header_list = []
+                
+                if "User-Agent" not in str(pipe_headers) and "User-Agent" not in str(json_headers):
+                    header_list.append(f"User-Agent={HEADERS['User-Agent']}")
+                
+                if pipe_headers: header_list.append(pipe_headers)
+                if json_headers:
+                    clean_json = str(json_headers).replace(";", "&").replace(" ", "")
+                    header_list.append(clean_json)
 
-                    final_header_string = "&".join(header_list)
+                final_header_string = "&".join(header_list)
+                
+                entry = ""
+                drm_key = s.get('api') 
+                
+                if drm_key:
+                    entry += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+                    entry += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
+                
+                entry += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
+                
+                if final_header_string:
+                    entry += f'{final_url}|{final_header_string}\n'
+                else:
+                    entry += f'{final_url}\n'
                     
-                    entry = ""
-                    drm_key = s.get('api') 
-                    
-                    if drm_key:
-                        entry += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
-                        entry += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
-                    
-                    entry += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
-                    
-                    if final_header_string:
-                        entry += f'{final_url}|{final_header_string}\n'
-                    else:
-                        entry += f'{final_url}\n'
-                        
-                    links_found.append(entry)
+                links_found.append(entry)
     except Exception as e:
-        print(f"Error in {slug}: {e}")
+        print(f"Error processing {used_slug}: {e}")
+        
     return links_found
 
 def main():
@@ -103,7 +136,7 @@ def main():
         print("❌ Error: Secrets not loaded!")
         return
 
-    print("🚀 Connecting to Server (Secure Mode)...")
+    print("🚀 Connecting to Server (Smart Search Mode)...")
     all_entries = []
     
     try:
@@ -111,7 +144,7 @@ def main():
         decrypted_list = decrypt_data(response.text)
         
         if not decrypted_list:
-            print("❌ Decryption failed with all keys.")
+            print("❌ Decryption failed.")
             return
         
         events = json.loads(decrypted_list)
@@ -124,15 +157,16 @@ def main():
                 slug = event.get('slug')
                 logo = event.get('eventInfo', {}).get('eventLogo', '')
                 
-                print(f"🏏 Fetching: {title}")
-                all_entries.extend(get_match_links(slug, title, logo))
+                # Function call karein jo khud sahi link dhoondhega
+                links = get_match_links(slug, title, logo)
+                all_entries.extend(links)
 
         with open("playlist.m3u", "w", encoding='utf-8') as f:
             f.write("#EXTM3U\n")
             for entry in all_entries:
                 f.write(entry)
         
-        print(f"🎉 Success! Playlist updated.")
+        print(f"🎉 Playlist updated with {len(all_entries)} streams.")
         
     except Exception as e:
         print(f"❌ Critical Error: {e}")

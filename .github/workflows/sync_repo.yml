@@ -1,0 +1,36 @@
+name: Sync to Other Repo
+
+on:
+  # Option 1: Jab bhi playlist.m3u update ho (Sabse Fast)
+  push:
+    branches:
+      - main
+    paths:
+      - 'playlist.m3u'
+  
+  # Option 2: Har 15 Minute mein check kare (Aapki Demand)
+  schedule:
+    - cron: '*/15 * * * *'
+  
+  workflow_dispatch: # Manual Button
+
+jobs:
+  push-to-mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Push playlist to Second Repo
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-file: 'playlist.m3u'
+          # --- APNI DETAILS BHAREIN ---
+          destination-username: 'Dusra-Username'
+          destination-repository-name: 'Repo-Name'
+          user-email: 'your-email@gmail.com'
+          target-branch: 'main'
+          commit-message: 'SYNC: Auto-update from Source'
+

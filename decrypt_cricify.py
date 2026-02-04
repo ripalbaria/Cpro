@@ -65,21 +65,16 @@ def main():
                                 raw_link = s.get('link', '')
                                 
                                 # --- URL aur Headers Processing ---
-                                # Step A: Link mein se | split karna
                                 if '|' in raw_link:
                                     final_url = raw_link.split('|')[0]
-                                    pipe_headers = raw_link.split('|')[1] # Link ke andar wale headers
+                                    pipe_headers = raw_link.split('|')[1]
                                 else:
                                     final_url = raw_link
                                     pipe_headers = ""
 
-                                # Step B: JSON wale 'headers' field ko uthana
-                                json_headers = s.get('headers') # Jaise "cookie=...;User-Agent=..."
-                                
-                                # Step C: Headers ko Merge karna (M3U format: |Header1=Val&Header2=Val)
+                                json_headers = s.get('headers')
                                 header_list = []
                                 
-                                # Default User-Agent agar kuch na mile
                                 if "User-Agent" not in str(pipe_headers) and "User-Agent" not in str(json_headers):
                                     header_list.append(f"User-Agent={HEADERS['User-Agent']}")
                                 
@@ -87,18 +82,42 @@ def main():
                                     header_list.append(pipe_headers)
                                 
                                 if json_headers:
-                                    # JSON headers aksar ";" ya "&" se alag hote hain, unhe "&" mein badalna zaroori hai
                                     clean_json_headers = str(json_headers).replace(";", "&").replace(" ", "")
                                     header_list.append(clean_json_headers)
 
-                                # Final Header String banana
                                 final_header_string = "&".join(header_list)
                                 
                                 # --- M3U WRITING ---
                                 
-                                # 1. DRM Tags (Agar API key hai)
+                                # 1. DRM Tags (Corrected to ClearKey)
                                 drm_key = s.get('api') 
                                 if drm_key:
+                                    # YAHAN CHANGE KIYA HAI: com.widevine.alpha -> clearkey
+                                    m3u_output += f'#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+                                    m3u_output += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
+                                
+                                # 2. EXTINF Info
+                                m3u_output += f'#EXTINF:-1 tvg-logo="{logo}" group-title="Cricket",{match_title} ({stream_title})\n'
+                                
+                                # 3. Final URL with Headers
+                                if final_header_string:
+                                    m3u_output += f'{final_url}|{final_header_string}\n'
+                                else:
+                                    m3u_output += f'{final_url}\n'
+
+                except Exception as e:
+                    print(f"⚠️ Error: {e}")
+
+        # 4. Save File
+        with open("playlist.m3u", "w", encoding='utf-8') as f:
+            f.write(m3u_output)
+        print("🎉 Success: playlist.m3u created with ClearKey DRM!")
+        
+    except Exception as e:
+        print(f"❌ Critical Error: {e}")
+
+if __name__ == "__main__":
+    main()
                                     m3u_output += f'#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n'
                                     m3u_output += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
                                 

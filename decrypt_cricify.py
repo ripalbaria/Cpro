@@ -119,6 +119,26 @@ def main():
 
 if __name__ == "__main__":
     main()
+                                m3u_output += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
+                                
+                                if final_header_string:
+                                    m3u_output += f'{final_url}|{final_header_string}\n'
+                                else:
+                                    m3u_output += f'{final_url}\n'
+
+                except Exception as e:
+                    print(f"⚠️ Error fetching channel: {e}")
+
+        # 4. Save File
+        with open("playlist.m3u", "w", encoding='utf-8') as f:
+            f.write(m3u_output)
+        print("🎉 Success: playlist.m3u grouped by Match Name!")
+        
+    except Exception as e:
+        print(f"❌ Critical Error: {e}")
+
+if __name__ == "__main__":
+    main()
                                 if final_header_string:
                                     m3u_output += f'{final_url}|{final_header_string}\n'
                                 else:

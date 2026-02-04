@@ -53,3 +53,23 @@ https://in-mc-fdlive.fancode.com/mumbai/140090_hindi_hls_1ba03ea9dd77274_1ta-di_
 https://in-mc-fdlive.fancode.com/mumbai/140090_english_hls_dfbad77bba75901_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSSOIrvhk54NVI8hhN8XzwOB9dGjewXP16NOiThgehg&s=10" group-title="Legends Pro T20 League 2026", FC - BD
 https://bd-mc-fdlive.fancode.com/mumbai/140090_english_hls_dfbad77bba75901_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e4205caffa2cdbed02a60025d6623b1:5f2a36613364cfc71589b73a2de718a1
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 Warm-up 1", WILLOW - AQ
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jybbiuq6el/out/v1/9a2d82dbd8b14499b6a94780f53f3fcb/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 Warm-up 1", TNT SPORTS - AQ
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 Warm-up 1", CRICFy LOW
+http://c1.frsports.info/AINDlol4441/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 Warm-up 1", SOLH SPORTS
+https://stream.snexus.co/live/SN_WILDLIFE/main_stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 Warm-up 1", WILLOW HD
+https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 Warm-up 1", HINDI - IN
+https://livetv-push.hotstar.com/dash/live/2002466/sshindiwv/master.mpd??|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Cookie=hdntl=exp=1765768806~acl=*sshindi*~id=35c663edaf0dd8e4a2722f619e601f24~data=hdntl~hmac=649e810bd7e273bccf4ee5866b7ddbee716bfa2d76248fcae4d7a306b04be03e&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="ICC T20 Warm-up 1", JIO HOTSTAR
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36

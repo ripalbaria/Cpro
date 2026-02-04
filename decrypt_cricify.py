@@ -5,9 +5,9 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 # --- CONFIGURATION ---
-BASE_URL = "https://cfyhgdgnkkuvn92.top" #
-KEY_HEX = "3368487a78594167534749382f68616d" #
-IV_HEX = "557143766b766a656345497a38343256" #
+BASE_URL = "https://cfyhgdgnkkuvn92.top"
+KEY_HEX = "3368487a78594167534749382f68616d"
+IV_HEX = "557143766b766a656345497a38343256"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
 
 def decrypt_data(encrypted_text):
@@ -27,7 +27,7 @@ def main():
     m3u_output = "#EXTM3U\n"
     
     try:
-        # 1. Main List Fetch Karna
+        # 1. Main List Fetch
         list_url = f"{BASE_URL}/categories/live-events.txt"
         response = requests.get(list_url, headers=HEADERS, timeout=30)
         
@@ -36,12 +36,14 @@ def main():
             return
 
         decrypted_list = decrypt_data(response.text)
-        if not decrypted_list: return
+        if not decrypted_list:
+            print("❌ Failed to decrypt main list")
+            return
         
         events = json.loads(decrypted_list)
         print(f"✅ Found {len(events)} events. Filtering Cricket...")
 
-        # 2. Cricket Matches Loop
+        # 2. Loop through events
         for event in events:
             cat = event.get('eventInfo', {}).get('eventCat', '')
             
@@ -52,7 +54,7 @@ def main():
                 
                 print(f"🏏 Processing: {match_title}")
 
-                # 3. Channel Links Fetch Karna
+                # 3. Fetch Channel Links
                 ch_url = f"{BASE_URL}/channels/{slug}.txt"
                 try:
                     ch_res = requests.get(ch_url, headers=HEADERS, timeout=10)
@@ -64,7 +66,7 @@ def main():
                                 stream_title = s.get('title', 'Source')
                                 raw_link = s.get('link', '')
                                 
-                                # --- URL aur Headers Processing ---
+                                # --- Link Parsing ---
                                 if '|' in raw_link:
                                     final_url = raw_link.split('|')[0]
                                     pipe_headers = raw_link.split('|')[1]
@@ -75,6 +77,7 @@ def main():
                                 json_headers = s.get('headers')
                                 header_list = []
                                 
+                                # Default User-Agent Check
                                 if "User-Agent" not in str(pipe_headers) and "User-Agent" not in str(json_headers):
                                     header_list.append(f"User-Agent={HEADERS['User-Agent']}")
                                 
@@ -87,18 +90,33 @@ def main():
 
                                 final_header_string = "&".join(header_list)
                                 
-                                # --- M3U WRITING ---
-                                
-                                # 1. DRM Tags (Corrected to ClearKey)
+                                # --- M3U Construction ---
                                 drm_key = s.get('api') 
                                 if drm_key:
-                                    # YAHAN CHANGE KIYA HAI: com.widevine.alpha -> clearkey
-                                    m3u_output += f'#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+                                    # ClearKey DRM Tags
+                                    m3u_output += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
                                     m3u_output += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
                                 
-                                # 2. EXTINF Info
                                 m3u_output += f'#EXTINF:-1 tvg-logo="{logo}" group-title="Cricket",{match_title} ({stream_title})\n'
                                 
+                                if final_header_string:
+                                    m3u_output += f'{final_url}|{final_header_string}\n'
+                                else:
+                                    m3u_output += f'{final_url}\n'
+
+                except Exception as e:
+                    print(f"⚠️ Error fetching channel: {e}")
+
+        # 4. Save File
+        with open("playlist.m3u", "w", encoding='utf-8') as f:
+            f.write(m3u_output)
+        print("🎉 Success: playlist.m3u created!")
+        
+    except Exception as e:
+        print(f"❌ Critical Error: {e}")
+
+if __name__ == "__main__":
+    main()
                                 # 3. Final URL with Headers
                                 if final_header_string:
                                     m3u_output += f'{final_url}|{final_header_string}\n'

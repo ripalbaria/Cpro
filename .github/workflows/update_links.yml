@@ -2,8 +2,8 @@ name: Update Cricify Links
 
 on:
   schedule:
-    - cron: '0 */1 * * *' # Har 1 ghante mein chalega
-  workflow_dispatch:      # Manual run button
+    - cron: '0 */1 * * *' # Every 1 Hour
+  workflow_dispatch:      # Manual Button
 
 jobs:
   build:
@@ -24,16 +24,21 @@ jobs:
       - name: Install dependencies
         run: pip install pycryptodome requests
 
-      - name: Run decryption script
-        run: python decrypt_cricify.py
+      - name: Run script (ripalc.py)
+        env:
+          # Secrets mapping
+          BASE_URL: ${{ secrets.CRICIFY_URL }}
+          KEY_HEX: ${{ secrets.CRICIFY_KEY }}
+          IV_HEX: ${{ secrets.CRICIFY_IV }}
+          KEY_HEX_2: ${{ secrets.CRICIFY_KEY_2 }} # Backup Key
+          IV_HEX_2: ${{ secrets.CRICIFY_IV_2 }}   # Backup IV
+        # YAHAN NAME CHANGE HUAA HAI
+        run: python ripalc.py
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          
-          # YAHAN CHANGE HAI: .json ki jagah wapas .m3u kar diya hai
           git add playlist.m3u
-          
-          git commit -m "Auto-update cricket M3U with Headers & DRM" || exit 0
+          git commit -m "Auto-update playlist via ripalc.py" || exit 0
           git push

@@ -1,0 +1,33 @@
+name: Update Cricify Links
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pycryptodome requests
+
+      - name: Run decryption script
+        run: python decrypt_cricify.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add playlist.json
+          git commit -m "Auto-update live event links" || exit 0
+          git push
+

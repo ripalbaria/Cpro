@@ -48,11 +48,12 @@ def main():
             cat = event.get('eventInfo', {}).get('eventCat', '')
             
             if cat and cat.lower() == "cricket":
+                # Is variable se Folder/Group ka naam banega
                 match_title = event.get('title', 'Cricket Match')
                 slug = event.get('slug')
                 logo = event.get('eventInfo', {}).get('eventLogo', '')
                 
-                print(f"🏏 Processing: {match_title}")
+                print(f"🏏 Processing Group: {match_title}")
 
                 # 3. Fetch Channel Links
                 ch_url = f"{BASE_URL}/channels/{slug}.txt"
@@ -97,8 +98,27 @@ def main():
                                     m3u_output += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
                                     m3u_output += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
                                 
-                                m3u_output += f'#EXTINF:-1 tvg-logo="{logo}" group-title="Cricket",{match_title} ({stream_title})\n'
+                                # YAHAN CHANGE KIYA HAI: Group Title ab Match Name hai
+                                m3u_output += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
                                 
+                                if final_header_string:
+                                    m3u_output += f'{final_url}|{final_header_string}\n'
+                                else:
+                                    m3u_output += f'{final_url}\n'
+
+                except Exception as e:
+                    print(f"⚠️ Error fetching channel: {e}")
+
+        # 4. Save File
+        with open("playlist.m3u", "w", encoding='utf-8') as f:
+            f.write(m3u_output)
+        print("🎉 Success: playlist.m3u grouped by Match Name!")
+        
+    except Exception as e:
+        print(f"❌ Critical Error: {e}")
+
+if __name__ == "__main__":
+    main()
                                 if final_header_string:
                                     m3u_output += f'{final_url}|{final_header_string}\n'
                                 else:

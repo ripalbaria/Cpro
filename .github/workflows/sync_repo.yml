@@ -1,18 +1,14 @@
 name: Sync to Other Repo
 
 on:
-  # Option 1: Jab bhi playlist.m3u update ho (Sabse Fast)
   push:
     branches:
       - main
     paths:
       - 'playlist.m3u'
-  
-  # Option 2: Har 15 Minute mein check kare (Aapki Demand)
   schedule:
-    - cron: '*/15 * * * *'
-  
-  workflow_dispatch: # Manual Button
+    - cron: '*/15 * * * *' # Har 15 minute check
+  workflow_dispatch:
 
 jobs:
   push-to-mirror:
@@ -21,16 +17,24 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      # STEP 1: Playlist ko ek alag folder me copy karein
+      - name: Prepare output folder
+        run: |
+          mkdir output
+          cp playlist.m3u output/
+
+      # STEP 2: Us folder ko dusre repo me bhej dein
       - name: Push playlist to Second Repo
         uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-file: 'playlist.m3u'
-          # --- APNI DETAILS BHAREIN ---
-          destination-username: 'bhaylorina'
+          # Ab hum file nahi, pura folder bhej rahe hain
+          source-directory: 'output'
+          
+          # YAHAN CHANGE KIYA HAI (Sahi Spelling)
+          destination-github-username: 'bhaylorina'
           destination-repository-name: 'Live'
           user-email: 'bhaylorina@gmail.com'
           target-branch: 'main'
-          commit-message: 'SYNC: Auto-update from Source'
-
+          commit-message: 'SYNC: Auto-update from Ripal'

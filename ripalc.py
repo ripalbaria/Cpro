@@ -12,14 +12,23 @@ KEYS_LIST = [
     { "key": os.environ.get("KEY_HEX_2"), "iv": os.environ.get("IV_HEX_2") }
 ]
 
-# --- IMPROVED HEADERS (To bypass Google Redirect) ---
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Referer": f"{BASE_URL}/",
     "Origin": BASE_URL,
     "Accept": "*/*",
-    "Accept-Language": "en-US,en;q=0.9",
     "Connection": "keep-alive"
+}
+
+# --- TEAM NAME MAPPING (Short Code -> Full Name) ---
+TEAM_MAP = {
+    "ind": "india", "sa": "south-africa", "aus": "australia",
+    "eng": "england", "nz": "new-zealand", "pak": "pakistan",
+    "wi": "west-indies", "afg": "afghanistan", "sl": "sri-lanka",
+    "ban": "bangladesh", "ire": "ireland", "zim": "zimbabwe",
+    "ned": "netherlands", "nep": "nepal", "sco": "scotland",
+    "nam": "namibia", "usa": "usa", "can": "canada",
+    "png": "papua-new-guinea", "oma": "oman", "uga": "uganda"
 }
 
 def decrypt_data(encrypted_text):
@@ -35,54 +44,66 @@ def decrypt_data(encrypted_text):
             continue
     return None
 
+def get_full_team_name(code):
+    """Converts 'IND' to 'india' using the map"""
+    clean_code = code.lower().strip()
+    return TEAM_MAP.get(clean_code, clean_code)
+
 def get_match_links(event):
     links_found = []
     
     slug = event.get('slug', '').strip()
     match_title = event.get('title', 'Cricket Match')
     logo = event.get('eventInfo', {}).get('eventLogo', '')
+    event_id = str(event.get('id', ''))
     
-    # Teams Info (Example: AFG vs WI)
-    team_a = event.get('eventInfo', {}).get('teamA', '').lower().replace(" ", "")
-    team_b = event.get('eventInfo', {}).get('teamB', '').lower().replace(" ", "")
+    # Raw Teams (e.g., IND, SA)
+    team_a_code = event.get('eventInfo', {}).get('teamA', '').lower().replace(" ", "")
+    team_b_code = event.get('eventInfo', {}).get('teamB', '').lower().replace(" ", "")
+    
+    # Full Names (e.g., india, south-africa)
+    team_a_full = get_full_team_name(team_a_code)
+    team_b_full = get_full_team_name(team_b_code)
     
     possible_slugs = []
 
-    # 1. JSON Slug (Priority) -> icc-t20-warm-up-2
-    if slug:
-        possible_slugs.append(slug.lower().replace(" ", "-")) 
-        possible_slugs.append(slug.replace(" ", "%20"))
-    
-    # 2. Team Based (CloudStream Style) -> afg-vs-wi
-    if team_a and team_b:
-        possible_slugs.append(f"{team_a}-vs-{team_b}")
-        possible_slugs.append(f"{team_b}-vs-{team_a}")
-    
-    # 3. Fallback -> icc-t20-warm-up-2 (Standard format)
-    possible_slugs.append("icc-t20-warm-up-2") 
+    # 1. Full Names Pattern (The Winner!)
+    if team_a_full and team_b_full:
+        possible_slugs.append(f"{team_a_full}-vs-{team_b_full}")  # india-vs-south-africa
+        possible_slugs.append(f"{team_b_full}-vs-{team_a_full}")  # south-africa-vs-india
 
-    print(f"🔎 Checking {match_title}...")
+    # 2. Short Code Pattern
+    if team_a_code and team_b_code:
+        possible_slugs.append(f"{team_a_code}-vs-{team_b_code}")  # ind-vs-sa
+    
+    # 3. Slug Pattern
+    if slug:
+        possible_slugs.append(slug.lower().replace(" ", "-"))      # icc-t20-warm-up-1
+        possible_slugs.append(slug.replace(" ", "%20"))
+
+    # 4. ID Pattern
+    if event_id:
+        possible_slugs.append(event_id)
+
+    print(f"\n🔎 Checking {match_title} ({len(possible_slugs)} patterns)...")
 
     valid_response = None
-    used_slug = ""
     
     for s in possible_slugs:
         try:
             ch_url = f"{BASE_URL}/channels/{s}.txt"
-            res = requests.get(ch_url, headers=HEADERS, timeout=5)
+            res = requests.get(ch_url, headers=HEADERS, timeout=4)
             
-            # Google Redirect aur Empty responses ko filter karo
             if res.status_code == 200 and "google.com" not in res.text:
-                if len(res.text) > 50: # Valid encrypted text
+                if len(res.text) > 50:
                     valid_response = res
-                    used_slug = s
-                    print(f"✅ LINK FOUND: {s}")
+                    print(f"   ✅ FOUND: {s}")
                     break
         except:
             continue
 
     if not valid_response:
-        print(f"⚠️ Skipped: No valid file found for {match_title}")
+        print(f"   ⚠️ Link not found for {match_title}")
         return []
 
     # --- PARSING ---
@@ -99,13 +120,11 @@ def get_match_links(event):
                 else:
                     url, headers = raw_link, ""
 
-                # Headers merge logic
                 h_list = []
                 if "User-Agent" not in headers: h_list.append(f"User-Agent={HEADERS['User-Agent']}")
                 if headers: h_list.append(headers)
                 final_headers = "&".join(h_list)
 
-                # License logic
                 entry = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
                 drm_key = s.get('api')
                 if drm_key:
@@ -124,17 +143,11 @@ def get_match_links(event):
 
 def main():
     if not BASE_URL: return
-    print("🚀 Connecting with CloudStream Headers...")
+    print("🚀 Connecting (Smart Team Mapping Mode)...")
     all_entries = []
     
     try:
         response = requests.get(f"{BASE_URL}/categories/live-events.txt", headers=HEADERS, timeout=30)
-        
-        # Check if Main List is also redirecting
-        if "google.com" in response.text:
-            print("❌ Error: Main list redirected to Google. Server blocked IP/UA.")
-            return
-
         decrypted_list = decrypt_data(response.text)
         if not decrypted_list: return
         
@@ -142,8 +155,8 @@ def main():
         print(f"✅ Found {len(events)} events.")
 
         for event in events:
-            # Filter for Cricket
             cat = event.get('eventInfo', {}).get('eventCat', '').lower()
+            # Filter for Cricket
             if "cricket" in cat:
                 all_entries.extend(get_match_links(event))
 
@@ -152,11 +165,10 @@ def main():
             for entry in all_entries:
                 f.write(entry)
         
-        print(f"🎉 Updated: {len(all_entries)} streams found.")
+        print(f"🎉 Playlist updated with {len(all_entries)} streams.")
         
     except Exception as e:
         print(f"Critical Error: {e}")
 
 if __name__ == "__main__":
     main()
-

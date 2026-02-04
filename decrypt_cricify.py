@@ -5,7 +5,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 # The endpoint found in your Reqable capture
-DATA_URL = "https://cfyhgdgnkkuvn92.top/categories/live-events.txt"
+DATA_URL = "https://cfyhgdgnkkuvn92.top/cats.txt"
 
 # Extracted Secrets from the Smali lambda methods
 SECRETS = [

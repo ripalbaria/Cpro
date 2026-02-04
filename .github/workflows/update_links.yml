@@ -2,8 +2,8 @@ name: Update Cricify Links
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows manual run
+    - cron: '0 */1 * * *' # Run every hour
+  workflow_dispatch: # Button to run manually
 
 jobs:
   build:
@@ -27,7 +27,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add playlist.json
-          git commit -m "Auto-update live event links" || exit 0
+          git add playlist.m3u
+          git commit -m "Auto-update cricket links" || exit 0
           git push
-

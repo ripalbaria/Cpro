@@ -2,10 +2,11 @@ import base64
 import requests
 import json
 import os
+import urllib.parse
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
-# --- SECURITY ---
+# --- CONFIGURATION ---
 BASE_URL = os.environ.get("BASE_URL")
 KEYS_LIST = []
 if os.environ.get("KEY_HEX"): 
@@ -13,23 +14,13 @@ if os.environ.get("KEY_HEX"):
 if os.environ.get("KEY_HEX_2"): 
     KEYS_LIST.append({ "key": os.environ.get("KEY_HEX_2"), "iv": os.environ.get("IV_HEX_2") })
 
+# --- HEADERS (Mobile App Simulation) ---
+APP_UA = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "User-Agent": APP_UA,
     "Referer": f"{BASE_URL}/",
     "Origin": BASE_URL,
-    "Accept": "*/*",
     "Connection": "keep-alive"
-}
-
-# --- TEAM MAPPER ---
-TEAM_MAP = {
-    "ind": "india", "sa": "south-africa", "aus": "australia",
-    "eng": "england", "nz": "new-zealand", "pak": "pakistan",
-    "wi": "west-indies", "afg": "afghanistan", "sl": "sri-lanka",
-    "ban": "bangladesh", "ire": "ireland", "zim": "zimbabwe",
-    "ned": "netherlands", "nep": "nepal", "sco": "scotland",
-    "nam": "namibia", "usa": "usa", "can": "canada",
-    "png": "papua-new-guinea", "oma": "oman", "uga": "uganda"
 }
 
 def decrypt_data(encrypted_text):
@@ -45,48 +36,39 @@ def decrypt_data(encrypted_text):
             continue
     return None
 
-def get_full_team_name(code):
-    return TEAM_MAP.get(code.lower().strip(), code.lower().strip())
-
 def get_match_links(event):
     links_found = []
     
-    slug = event.get('slug', '').strip()
+    # 1. Server se aya hua EXACT naam uthao (spaces aur capitals ke sath)
+    raw_slug = event.get('slug', '').strip()
     match_title = event.get('title', 'Cricket Match')
     logo = event.get('eventInfo', {}).get('eventLogo', '')
-    event_id = str(event.get('id', ''))
     
-    team_a = get_full_team_name(event.get('eventInfo', {}).get('teamA', '').lower().replace(" ", ""))
-    team_b = get_full_team_name(event.get('eventInfo', {}).get('teamB', '').lower().replace(" ", ""))
+    # 2. Slug ko URL safe banao (Space ko %20 me badlo)
+    # Example: "ICC T20 Warm-up 1" -> "ICC%20T20%20Warm-up%201"
+    safe_slug = urllib.parse.quote(raw_slug)
     
-    possible_slugs = []
-    if team_a and team_b:
-        possible_slugs.append(f"{team_a}-vs-{team_b}")
-        possible_slugs.append(f"{team_b}-vs-{team_a}")
-    if event.get('eventInfo', {}).get('teamA', '') and event.get('eventInfo', {}).get('teamB', ''):
-        possible_slugs.append(f"{event.get('eventInfo', {}).get('teamA', '').lower().replace(' ', '')}-vs-{event.get('eventInfo', {}).get('teamB', '').lower().replace(' ', '')}")
-    if slug:
-        possible_slugs.append(slug.lower().replace(" ", "-"))
-        possible_slugs.append(slug.replace(" ", "%20"))
-    if event_id:
-        possible_slugs.append(event_id)
+    print(f"🔎 Scanning: {match_title}")
+    print(f"   👉 Target File: {safe_slug}.txt")
 
-    print(f"🔎 Scanning {match_title}...")
     valid_response = None
     
-    for s in possible_slugs:
-        try:
-            ch_url = f"{BASE_URL}/channels/{s}.txt"
-            res = requests.get(ch_url, headers=HEADERS, timeout=4)
-            if res.status_code == 200 and "google.com" not in res.text and len(res.text) > 50:
-                valid_response = res
-                print(f"✅ LINK FOUND: {s}")
-                break
-        except:
-            continue
+    # Sirf wahi file mangenge jo list me likhi hai
+    try:
+        url = f"{BASE_URL}/channels/{safe_slug}.txt"
+        res = requests.get(url, headers=HEADERS, timeout=6)
+        
+        if res.status_code == 200 and "google.com" not in res.text and len(res.text) > 50:
+            valid_response = res
+            print(f"✅ FILE FOUND!")
+        else:
+            print(f"❌ File missing or blocked.")
+    except Exception as e:
+        print(f"⚠️ Connection Error: {e}")
 
     if not valid_response: return []
 
+    # --- PARSING & FORMATTING ---
     try:
         dec_links = decrypt_data(valid_response.text)
         if dec_links:
@@ -96,32 +78,28 @@ def get_match_links(event):
                 raw_link = s.get('link', '')
                 
                 if '|' in raw_link:
-                    url, headers = raw_link.split('|')
+                    url = raw_link.split('|')[0]
                 else:
-                    url, headers = raw_link, ""
+                    url = raw_link
 
-                h_list = []
-                if "User-Agent" not in headers: h_list.append(f"User-Agent={HEADERS['User-Agent']}")
-                if headers: h_list.append(headers)
-                final_headers = "&".join(h_list)
+                # Player Headers (Zaroori hai)
+                player_headers = f"User-Agent={APP_UA}&Referer={BASE_URL}/"
 
-                # --- FIX: CORRECT ARRANGEMENT ORDER ---
-                # 1. Start with EXTINF (Sabse Pehle)
+                # 1. EXTINF (Sabse Pehle)
                 entry = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
                 
-                # 2. Add KODIPROP (Uske Baad)
+                # 2. DRM / License Info
                 drm_key = s.get('api')
                 if drm_key:
-                    entry += f'#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+                    entry += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
                     entry += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
+                    entry += f'#EXTVLCOPT:http-user-agent={APP_UA}\n'
                 
-                # 3. Add URL (Sabse Niche)
-                if final_headers:
-                    entry += f'{url}|{final_headers}\n'
-                else:
-                    entry += f'{url}\n'
-                    
+                # 3. URL + Headers
+                entry += f'{url}|{player_headers}\n'
+                
                 links_found.append(entry)
+                
     except Exception as e:
         print(f"Parsing Error: {e}")
         
@@ -129,23 +107,35 @@ def get_match_links(event):
 
 def main():
     if not BASE_URL: return
-    print("🚀 Connecting (Ordered Mode)...")
+    print("🚀 Connecting (Smart Slug Mode)...")
     all_entries = []
+    
     try:
+        # Step 1: Main List Uthao
         response = requests.get(f"{BASE_URL}/categories/live-events.txt", headers=HEADERS, timeout=30)
         decrypted_list = decrypt_data(response.text)
         if not decrypted_list: return
         
         events = json.loads(decrypted_list)
+        print(f"📋 Found {len(events)} events in total.")
+
+        # Step 2: Sirf Cricket Filter Karo
         for event in events:
-            if "cricket" in event.get('eventInfo', {}).get('eventCat', '').lower():
+            cat = event.get('eventInfo', {}).get('eventCat', '').lower()
+            title = event.get('title', '').lower()
+            
+            # Filter Logic: Cricket Category OR Cricket Title
+            if "cricket" in cat or "warm" in title or "ind" in title or "t20" in title:
                 all_entries.extend(get_match_links(event))
 
+        # Step 3: Playlist Save
         with open("playlist.m3u", "w", encoding='utf-8') as f:
             f.write("#EXTM3U\n")
             for entry in all_entries:
                 f.write(entry)
-        print(f"🎉 Playlist Updated with Correct Order: {len(all_entries)} streams.")
+        
+        print(f"🎉 Playlist Updated: {len(all_entries)} streams added.")
+        
     except Exception as e:
         print(f"Critical Error: {e}")
 

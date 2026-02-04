@@ -7,14 +7,12 @@ from Crypto.Util.Padding import unpad
 
 # --- SECURITY ---
 BASE_URL = os.environ.get("BASE_URL")
-# Load Keys from Secrets
 KEYS_LIST = []
 if os.environ.get("KEY_HEX"): 
     KEYS_LIST.append({ "key": os.environ.get("KEY_HEX"), "iv": os.environ.get("IV_HEX") })
 if os.environ.get("KEY_HEX_2"): 
     KEYS_LIST.append({ "key": os.environ.get("KEY_HEX_2"), "iv": os.environ.get("IV_HEX_2") })
 
-# Headers (Browser Mode)
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Referer": f"{BASE_URL}/",
@@ -23,7 +21,7 @@ HEADERS = {
     "Connection": "keep-alive"
 }
 
-# --- TEAM NAMES DICTIONARY ---
+# --- TEAM MAPPER ---
 TEAM_MAP = {
     "ind": "india", "sa": "south-africa", "aus": "australia",
     "eng": "england", "nz": "new-zealand", "pak": "pakistan",
@@ -35,20 +33,14 @@ TEAM_MAP = {
 }
 
 def decrypt_data(encrypted_text):
-    # 1. Clean the Data (Exactly like Debug Script)
-    clean_b64 = encrypted_text.strip()
-    clean_b64 = clean_b64.replace("\n", "").replace("\r", "").replace(" ", "").replace("\t", "")
-    
-    # 2. Try All Keys
+    clean_b64 = encrypted_text.strip().replace("\n", "").replace("\r", "").replace(" ", "").replace("\t", "")
     for creds in KEYS_LIST:
         try:
             k = bytes.fromhex(creds["key"])
             i = bytes.fromhex(creds["iv"])
-            
             ciphertext = base64.b64decode(clean_b64)
             cipher = AES.new(k, AES.MODE_CBC, i)
-            decrypted = unpad(cipher.decrypt(ciphertext), AES.block_size).decode('utf-8')
-            return decrypted
+            return unpad(cipher.decrypt(ciphertext), AES.block_size).decode('utf-8')
         except:
             continue
     return None
@@ -64,54 +56,37 @@ def get_match_links(event):
     logo = event.get('eventInfo', {}).get('eventLogo', '')
     event_id = str(event.get('id', ''))
     
-    # Team Logic
-    team_a_code = event.get('eventInfo', {}).get('teamA', '').lower().replace(" ", "")
-    team_b_code = event.get('eventInfo', {}).get('teamB', '').lower().replace(" ", "")
-    
-    team_a_full = get_full_team_name(team_a_code)
-    team_b_full = get_full_team_name(team_b_code)
+    team_a = get_full_team_name(event.get('eventInfo', {}).get('teamA', '').lower().replace(" ", ""))
+    team_b = get_full_team_name(event.get('eventInfo', {}).get('teamB', '').lower().replace(" ", ""))
     
     possible_slugs = []
-
-    # Priority 1: Full Names (e.g. india-vs-south-africa) - Sabse zaroori
-    if team_a_full and team_b_full:
-        possible_slugs.append(f"{team_a_full}-vs-{team_b_full}")
-        possible_slugs.append(f"{team_b_full}-vs-{team_a_full}")
-
-    # Priority 2: Short Names (e.g. ind-vs-sa)
-    if team_a_code and team_b_code:
-        possible_slugs.append(f"{team_a_code}-vs-{team_b_code}")
-    
-    # Priority 3: Original Slug
+    if team_a and team_b:
+        possible_slugs.append(f"{team_a}-vs-{team_b}")
+        possible_slugs.append(f"{team_b}-vs-{team_a}")
+    if event.get('eventInfo', {}).get('teamA', '') and event.get('eventInfo', {}).get('teamB', ''):
+        possible_slugs.append(f"{event.get('eventInfo', {}).get('teamA', '').lower().replace(' ', '')}-vs-{event.get('eventInfo', {}).get('teamB', '').lower().replace(' ', '')}")
     if slug:
         possible_slugs.append(slug.lower().replace(" ", "-"))
         possible_slugs.append(slug.replace(" ", "%20"))
-
-    # Priority 4: Event ID
     if event_id:
         possible_slugs.append(event_id)
 
     print(f"🔎 Scanning {match_title}...")
-
     valid_response = None
     
     for s in possible_slugs:
         try:
             ch_url = f"{BASE_URL}/channels/{s}.txt"
             res = requests.get(ch_url, headers=HEADERS, timeout=4)
-            
-            if res.status_code == 200 and "google.com" not in res.text:
-                if len(res.text) > 50:
-                    valid_response = res
-                    print(f"✅ LINK FOUND: {s}")
-                    break
+            if res.status_code == 200 and "google.com" not in res.text and len(res.text) > 50:
+                valid_response = res
+                print(f"✅ LINK FOUND: {s}")
+                break
         except:
             continue
 
-    if not valid_response:
-        return []
+    if not valid_response: return []
 
-    # --- PARSING ---
     try:
         dec_links = decrypt_data(valid_response.text)
         if dec_links:
@@ -125,18 +100,22 @@ def get_match_links(event):
                 else:
                     url, headers = raw_link, ""
 
-                # Headers merge
                 h_list = []
                 if "User-Agent" not in headers: h_list.append(f"User-Agent={HEADERS['User-Agent']}")
                 if headers: h_list.append(headers)
                 final_headers = "&".join(h_list)
 
-                # License Logic
+                # --- FIX: CORRECT ARRANGEMENT ORDER ---
+                # 1. Start with EXTINF (Sabse Pehle)
                 entry = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
+                
+                # 2. Add KODIPROP (Uske Baad)
                 drm_key = s.get('api')
                 if drm_key:
-                    entry = f'#KODIPROP:inputstream.adaptive.license_type=clearkey\n#KODIPROP:inputstream.adaptive.license_key={drm_key}\n' + entry
+                    entry += f'#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+                    entry += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
                 
+                # 3. Add URL (Sabse Niche)
                 if final_headers:
                     entry += f'{url}|{final_headers}\n'
                 else:
@@ -150,30 +129,23 @@ def get_match_links(event):
 
 def main():
     if not BASE_URL: return
-    print("🚀 Connecting (Final Production Mode)...")
+    print("🚀 Connecting (Ordered Mode)...")
     all_entries = []
-    
     try:
         response = requests.get(f"{BASE_URL}/categories/live-events.txt", headers=HEADERS, timeout=30)
         decrypted_list = decrypt_data(response.text)
         if not decrypted_list: return
         
         events = json.loads(decrypted_list)
-        print(f"✅ Found {len(events)} events.")
-
         for event in events:
-            cat = event.get('eventInfo', {}).get('eventCat', '').lower()
-            # Filter for Cricket
-            if "cricket" in cat:
+            if "cricket" in event.get('eventInfo', {}).get('eventCat', '').lower():
                 all_entries.extend(get_match_links(event))
 
         with open("playlist.m3u", "w", encoding='utf-8') as f:
             f.write("#EXTM3U\n")
             for entry in all_entries:
                 f.write(entry)
-        
-        print(f"🎉 Playlist Updated: {len(all_entries)} streams added.")
-        
+        print(f"🎉 Playlist Updated with Correct Order: {len(all_entries)} streams.")
     except Exception as e:
         print(f"Critical Error: {e}")
 

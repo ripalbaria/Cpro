@@ -22,11 +22,12 @@ jobs:
 
       - name: Run Debug Script
         env:
-          # Aapke Secrets yahan load honge
-          BASE_URL: ${{ secrets.BASE_URL }}
-          KEY_HEX: ${{ secrets.KEY_HEX }}
-          IV_HEX: ${{ secrets.IV_HEX }}
-          KEY_HEX_2: ${{ secrets.KEY_HEX_2 }}
-          IV_HEX_2: ${{ secrets.IV_HEX_2 }}
+          # --- YAHAN MAINE NAAM SAHI KIYE HAIN ---
+          # Left Side = Script mein jo naam chahiye
+          # Right Side = Aapke GitHub Secrets ka asli naam
+          BASE_URL: ${{ secrets.CRICIFY_URL }}
+          KEY_HEX: ${{ secrets.CRICIFY_KEY }}
+          IV_HEX: ${{ secrets.CRICIFY_IV }}
+          KEY_HEX_2: ${{ secrets.CRICIFY_KEY_2 }}
+          IV_HEX_2: ${{ secrets.CRICIFY_IV_2 }}
         run: python debug_match.py
-

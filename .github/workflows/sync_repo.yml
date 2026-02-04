@@ -28,9 +28,9 @@ jobs:
         with:
           source-file: 'playlist.m3u'
           # --- APNI DETAILS BHAREIN ---
-          destination-username: 'Dusra-Username'
-          destination-repository-name: 'Repo-Name'
-          user-email: 'your-email@gmail.com'
+          destination-username: 'bhaylorina'
+          destination-repository-name: 'Live'
+          user-email: 'bhaylorina@gmail.com'
           target-branch: 'main'
           commit-message: 'SYNC: Auto-update from Source'
 

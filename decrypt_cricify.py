@@ -22,11 +22,13 @@ def decrypt_data(encrypted_text):
     except:
         return None
 
-def process_match(slug, match_title, logo, m3u_list):
-    """Channels ko fetch karke list mein add karne ka function"""
-    ch_url = f"{BASE_URL}/channels/{slug}.txt"
+# --- Helper Function to Avoid Indentation Errors ---
+def get_match_links(slug, match_title, logo):
+    links_found = []
     try:
+        ch_url = f"{BASE_URL}/channels/{slug}.txt"
         ch_res = requests.get(ch_url, headers=HEADERS, timeout=10)
+        
         if ch_res.status_code == 200:
             dec_links = decrypt_data(ch_res.text)
             if dec_links:
@@ -35,7 +37,7 @@ def process_match(slug, match_title, logo, m3u_list):
                     stream_title = s.get('title', 'Source')
                     raw_link = s.get('link', '')
                     
-                    # URL aur Headers alag karna
+                    # 1. URL aur Headers Separator
                     if '|' in raw_link:
                         final_url = raw_link.split('|')[0]
                         pipe_headers = raw_link.split('|')[1]
@@ -43,6 +45,7 @@ def process_match(slug, match_title, logo, m3u_list):
                         final_url = raw_link
                         pipe_headers = ""
 
+                    # 2. Header Merging
                     json_headers = s.get('headers')
                     header_list = []
                     
@@ -58,32 +61,34 @@ def process_match(slug, match_title, logo, m3u_list):
 
                     final_header_string = "&".join(header_list)
                     
-                    # Entry banana
-                    entry = ""
+                    # 3. Entry Construction
+                    entry_text = ""
                     drm_key = s.get('api') 
                     
-                    # Clearkey DRM Check
                     if drm_key:
-                        entry += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
-                        entry += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
+                        entry_text += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+                        entry_text += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
                     
-                    # Group Title ab Match Name hai
-                    entry += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
+                    # Yahan Group Title set ho raha hai
+                    entry_text += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
                     
                     if final_header_string:
-                        entry += f'{final_url}|{final_header_string}\n'
+                        entry_text += f'{final_url}|{final_header_string}\n'
                     else:
-                        entry += f'{final_url}\n'
+                        entry_text += f'{final_url}\n'
                         
-                    m3u_list.append(entry)
+                    links_found.append(entry_text)
     except Exception as e:
-        print(f"⚠️ Error fetching channel {slug}: {e}")
+        print(f"Error in {slug}: {e}")
+        
+    return links_found
 
 def main():
     print(f"🚀 Connecting to: {BASE_URL}")
-    m3u_entries = []
+    all_entries = []
     
     try:
+        # 1. Main List
         list_url = f"{BASE_URL}/categories/live-events.txt"
         response = requests.get(list_url, headers=HEADERS, timeout=30)
         
@@ -93,87 +98,32 @@ def main():
 
         decrypted_list = decrypt_data(response.text)
         if not decrypted_list:
-            print("❌ Failed to decrypt main list")
+            print("❌ Main list decryption failed")
             return
         
         events = json.loads(decrypted_list)
         print(f"✅ Found {len(events)} events. Filtering Cricket...")
 
+        # 2. Process Each Match
         for event in events:
             cat = event.get('eventInfo', {}).get('eventCat', '')
             if cat and cat.lower() == "cricket":
-                match_title = event.get('title', 'Cricket Match')
+                title = event.get('title', 'Cricket Match')
                 slug = event.get('slug')
                 logo = event.get('eventInfo', {}).get('eventLogo', '')
                 
-                print(f"🏏 Processing Group: {match_title}")
-                # Nested code ki jagah ab seedha function call hai
-                process_match(slug, match_title, logo, m3u_entries)
+                print(f"🏏 Fetching Group: {title}")
+                # Function call - No nesting mess here!
+                match_links = get_match_links(slug, title, logo)
+                all_entries.extend(match_links)
 
-        # File Save Karna
+        # 3. Save to File
         with open("playlist.m3u", "w", encoding='utf-8') as f:
             f.write("#EXTM3U\n")
-            for entry in m3u_entries:
+            for entry in all_entries:
                 f.write(entry)
-        print("🎉 Success: playlist.m3u created with Groups & DRM!")
         
-    except Exception as e:
-        print(f"❌ Critical Error: {e}")
-
-if __name__ == "__main__":
-    main()
-                                m3u_output += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
-                                
-                                if final_header_string:
-                                    m3u_output += f'{final_url}|{final_header_string}\n'
-                                else:
-                                    m3u_output += f'{final_url}\n'
-
-                except Exception as e:
-                    print(f"⚠️ Error fetching channel: {e}")
-
-        # 4. Save File
-        with open("playlist.m3u", "w", encoding='utf-8') as f:
-            f.write(m3u_output)
-        print("🎉 Success: playlist.m3u grouped by Match Name!")
-        
-    except Exception as e:
-        print(f"❌ Critical Error: {e}")
-
-if __name__ == "__main__":
-    main()
-                                m3u_output += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
-                                
-                                if final_header_string:
-                                    m3u_output += f'{final_url}|{final_header_string}\n'
-                                else:
-                                    m3u_output += f'{final_url}\n'
-
-                except Exception as e:
-                    print(f"⚠️ Error fetching channel: {e}")
-
-        # 4. Save File
-        with open("playlist.m3u", "w", encoding='utf-8') as f:
-            f.write(m3u_output)
-        print("🎉 Success: playlist.m3u grouped by Match Name!")
-        
-    except Exception as e:
-        print(f"❌ Critical Error: {e}")
-
-if __name__ == "__main__":
-    main()
-                                if final_header_string:
-                                    m3u_output += f'{final_url}|{final_header_string}\n'
-                                else:
-                                    m3u_output += f'{final_url}\n'
-
-                except Exception as e:
-                    print(f"⚠️ Error fetching channel: {e}")
-
-        # 4. Save File
-        with open("playlist.m3u", "w", encoding='utf-8') as f:
-            f.write(m3u_output)
-        print("🎉 Success: playlist.m3u created!")
+        print(f"🎉 Success! Total {len(all_entries)} links added to playlist.m3u")
         
     except Exception as e:
         print(f"❌ Critical Error: {e}")

@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="Cricket",ICC U19 World Cup 1 (WILLOW - AQ)
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/926qhyrwui/out/v1/8dd59c652f0844dd983d20d10e99c4a1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="Cricket",ICC U19 World Cup 1 (PRIME VIDEO - AQ)
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/att545vfjr/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="Cricket",ICC U19 World Cup 1 (WILLOW HD)
+http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="Cricket",WPL - 1 (WILLOW - AQ)
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/luwl1bayv6/out/v1/a34b4b4cc3e6436ebdfa722ee109a583/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="Cricket",WPL - 1 (WILLOW HD)
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="Cricket",WPL - 1 (WILLOW - LQ)
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="Cricket",WPL - 1 (HOTSTAR HIN (IND))
+https://tere-mere-rishta.pages.dev/LIVE/FREEMIUM/1540059764/HIN/2K/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="Cricket",WPL - 1 (HOTSTAR ENG (IND))
+https://tere-mere-rishta.pages.dev/LIVE/FREEMIUM/1540059764/ENG/2K/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="Cricket",WPL - 1 (HOTSTAR TEL (IND))
+https://tere-mere-rishta.pages.dev/LIVE/FREEMIUM/1540059764/TEL/2K/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="Cricket",WPL - 1 (HOTSTAR TAM (IND))
+https://tere-mere-rishta.pages.dev/LIVE/FREEMIUM/1540059764/TAM/2K/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4KZGSOPrMbZgvM5rWrJt72e-Qgki-ChWufxV3m7Zkew&s=10" group-title="Cricket",WPL - 1 (HOTSTAR KAN (IND))
+https://tere-mere-rishta.pages.dev/LIVE/FREEMIUM/1540059764/KAN/2K/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="Cricket",ICC T20 World Cup Warm-up 1 (WILLOW - AQ)
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f5musbsyki/out/v1/3d0a47ce703b441da11f72d2d1adb1d6/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/19248/image" group-title="Cricket",ICC T20 World Cup Warm-up 2 (WILLOW - AQ)
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bkyzxosbyr/out/v1/175b6645ada849b4a806859bdd8f4f8e/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSSOIrvhk54NVI8hhN8XzwOB9dGjewXP16NOiThgehg&s=10" group-title="Cricket",Legends Pro T20 League 2026 (WILLOW - AQ)
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qsmoiglvpx/out/v1/935d899a047143eeb65f23202ac5738c/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSSOIrvhk54NVI8hhN8XzwOB9dGjewXP16NOiThgehg&s=10" group-title="Cricket",Legends Pro T20 League 2026 (SonyLiv English)
+https://sonymtmnew.akamaized.net/hls/live/2022318/DAI14ME-V3/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSSOIrvhk54NVI8hhN8XzwOB9dGjewXP16NOiThgehg&s=10" group-title="Cricket",Legends Pro T20 League 2026 (SonyLiv Hindi)
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI37ME-V3/master.m3u8?hdnea=exp=1770143404~acl=/*~id=27886704182369646992396395306567~hmac=d9d07b955c00b8f94e581209a377be9b94212c4dac215ba2d855cd86cdb5817b
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSSOIrvhk54NVI8hhN8XzwOB9dGjewXP16NOiThgehg&s=10" group-title="Cricket",Legends Pro T20 League 2026 (FC - HIN)
+https://in-mc-fdlive.fancode.com/mumbai/140089_hindi_hls_526a536c2444546_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSSOIrvhk54NVI8hhN8XzwOB9dGjewXP16NOiThgehg&s=10" group-title="Cricket",Legends Pro T20 League 2026 (FC - ENG)
+https://in-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHSSOIrvhk54NVI8hhN8XzwOB9dGjewXP16NOiThgehg&s=10" group-title="Cricket",Legends Pro T20 League 2026 (FC - BD)
+https://bd-mc-fdlive.fancode.com/mumbai/140089_english_hls_3c1abd5aef39468_1ta-di_h264/index.m3u8

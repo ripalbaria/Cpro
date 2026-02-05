@@ -1,29 +1,33 @@
-import base64
 import requests
+import base64
 import json
 import os
 import urllib.parse
+from datetime import datetime, timedelta
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 # --- CONFIGURATION ---
-BASE_URL = os.environ.get("BASE_URL")
-KEYS_LIST = []
-if os.environ.get("KEY_HEX"): 
-    KEYS_LIST.append({ "key": os.environ.get("KEY_HEX"), "iv": os.environ.get("IV_HEX") })
-if os.environ.get("KEY_HEX_2"): 
-    KEYS_LIST.append({ "key": os.environ.get("KEY_HEX_2"), "iv": os.environ.get("IV_HEX_2") })
+BASE_URL = os.environ.get("BASE_URL", "https://cfyhgdgnkkuvn92.top")
 
-# --- HEADERS ---
-APP_UA = "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+# Decryption Keys
+KEYS_LIST = [
+    { "key": "3368487a78594167534749382f68616d", "iv": "557143766b766a656345497a38343256" },
+    { "key": "4d7165594743543441594b6f484b7254", "iv": "6f484b725451755078387a6c386f4a2b" }
+]
+
+# Headers for FETCHING the list (Server se baat karne ke liye zaroori hai)
 HEADERS = {
-    "User-Agent": APP_UA,
+    "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
     "Referer": f"{BASE_URL}/",
     "Origin": BASE_URL,
     "Connection": "keep-alive"
 }
 
+# --- HELPER FUNCTIONS ---
+
 def decrypt_data(encrypted_text):
+    if not encrypted_text: return None
     try:
         clean_b64 = encrypted_text.strip().replace("\n", "").replace("\r", "").replace(" ", "").replace("\t", "")
         for creds in KEYS_LIST:
@@ -39,107 +43,146 @@ def decrypt_data(encrypted_text):
         pass
     return None
 
-def get_match_links(event):
-    links_found = []
+def convert_utc_to_ist(utc_time_str):
+    try:
+        if not utc_time_str: return ""
+        clean_time = utc_time_str.split(" +")[0]
+        utc_dt = datetime.strptime(clean_time, "%Y/%m/%d %H:%M:%S")
+        ist_dt = utc_dt + timedelta(hours=5, minutes=30)
+        return ist_dt.strftime("%I:%M %p")
+    except:
+        return ""
+
+def get_smart_filename(event):
+    """Filename Guesser"""
+    guesses = []
     
-    raw_slug = event.get('slug', '').strip()
-    match_title = event.get('title', 'Cricket Match')
+    # 1. Event ID
+    eid = str(event.get('id', ''))
+    if eid:
+        guesses.append(eid)
+        guesses.append(f"match-{eid}")
+    
+    # 2. Slug
+    slug = event.get('slug', '').strip()
+    if slug:
+        guesses.append(slug)
+        guesses.append(urllib.parse.quote(slug))
+        guesses.append(slug.replace(" ", "-").lower())
+    
+    # 3. Team Names
+    team_a = event.get('eventInfo', {}).get('teamA', '').strip()
+    team_b = event.get('eventInfo', {}).get('teamB', '').strip()
+    
+    if team_a and team_b:
+        t_a = team_a.lower().replace(" ", "")
+        t_b = team_b.lower().replace(" ", "")
+        guesses.append(f"{t_a}-vs-{t_b}")
+        guesses.append(f"{t_a}-v-{t_b}")
+        guesses.append(f"{t_a}{t_b}")
+        
+    return guesses
+
+def fetch_match_streams(event):
+    entries = []
+    
+    title = event.get('title', 'Cricket Match')
     logo = event.get('eventInfo', {}).get('eventLogo', '')
     
-    if not raw_slug: return []
+    # Time Grouping
+    ist_time = convert_utc_to_ist(event.get('startTime', ''))
+    group_title = f"{title} [{ist_time}]" if ist_time else title
 
-    # --- TRIALS: Server ke nakhre handle karne ke liye 3 tarike ---
-    slug_variations = [
-        urllib.parse.quote(raw_slug),         # 1. Standard: ICC%20T20...
-        raw_slug,                             # 2. Raw: ICC T20... (Requests handle karega)
-        raw_slug.replace(" ", "+"),           # 3. Plus: ICC+T20...
-        raw_slug.lower().replace(" ", "-"),   # 4. Hyphen: icc-t20...
-    ]
+    print(f"   🏏 Processing: {group_title}")
 
-    print(f"🔎 Scanning: {match_title}")
+    # Hunt for File
+    valid_data = None
+    filenames = get_smart_filename(event)
     
-    valid_response = None
-    
-    # Har variation try karo jab tak file na mile
-    for s in slug_variations:
+    for fname in filenames:
         try:
-            url = f"{BASE_URL}/channels/{s}.txt"
-            res = requests.get(url, headers=HEADERS, timeout=5)
-            
-            if res.status_code == 200 and "google.com" not in res.text and len(res.text) > 50:
-                print(f"✅ FILE FOUND using: {s}.txt")
-                valid_response = res
-                break # Mil gaya! Loop roko.
+            for ext in [".txt", ""]:
+                url = f"{BASE_URL}/channels/{fname}{ext}"
+                res = requests.get(url, headers=HEADERS, timeout=3)
+                if res.status_code == 200 and "google.com" not in res.text and len(res.text) > 50:
+                    valid_data = decrypt_data(res.text)
+                    if valid_data: break
+            if valid_data: break
         except:
             continue
 
-    if not valid_response:
-        print(f"❌ Failed to find file for: {raw_slug}")
+    if not valid_data:
         return []
 
-    # --- PARSING ---
+    # Parse JSON
     try:
-        dec_links = decrypt_data(valid_response.text)
-        if dec_links:
-            streams = json.loads(dec_links).get('streamUrls', [])
-            for s in streams:
-                stream_title = s.get('title', 'Source')
-                raw_link = s.get('link', '')
-                
-                if '|' in raw_link:
-                    url = raw_link.split('|')[0]
-                else:
-                    url = raw_link
-
-                player_headers = f"User-Agent={APP_UA}&Referer={BASE_URL}/"
-
-                # M3U Entry Construction
-                entry = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{match_title}", {stream_title}\n'
-                
-                drm_key = s.get('api')
-                if drm_key:
-                    entry += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
-                    entry += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
-                    entry += f'#EXTVLCOPT:http-user-agent={APP_UA}\n'
-                
-                entry += f'{url}|{player_headers}\n'
-                links_found.append(entry)
-                
-    except Exception as e:
-        print(f"Parsing Error: {e}")
+        data = json.loads(valid_data)
+        streams = data.get('streamUrls', [])
         
-    return links_found
+        for s in streams:
+            stream_name = s.get('title', 'Link')
+            raw_link = s.get('link', '')
+            
+            # --- STRICT RAW MODE: Use Link As-Is ---
+            # Hum kuch nahi jodenge. Agar JSON me headers hain to wo 'raw_link' me hi honge.
+            # Agar nahi hain, to nahi honge.
+            final_url = raw_link
+
+            # --- M3U Construction ---
+            # 1. EXTINF
+            entry = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group_title}", {title} ({stream_name})\n'
+            
+            # 2. KODIPROP (DRM Keys are necessary for player to know how to unlock)
+            drm_key = s.get('api')
+            if drm_key:
+                entry += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+                entry += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
+            
+            # 3. URL (The Raw Link)
+            entry += f'{final_url}\n'
+            
+            entries.append(entry)
+
+    except Exception as e:
+        print(f"      ⚠️ Error: {e}")
+
+    return entries
 
 def main():
-    if not BASE_URL: return
-    print("🚀 Connecting (Multi-Try Mode)...")
+    print("🚀 Starting Generator (Strict Raw Mode)...")
     all_entries = []
     
     try:
-        response = requests.get(f"{BASE_URL}/categories/live-events.txt", headers=HEADERS, timeout=30)
-        decrypted_list = decrypt_data(response.text)
-        if not decrypted_list: return
+        res = requests.get(f"{BASE_URL}/categories/live-events.txt", headers=HEADERS, timeout=15)
+        raw_data = decrypt_data(res.text)
         
-        events = json.loads(decrypted_list)
-        print(f"📋 Found {len(events)} events.")
+        if not raw_data: return
 
+        events = json.loads(raw_data)
+        
         for event in events:
+            # Filter
             cat = event.get('eventInfo', {}).get('eventCat', '').lower()
             title = event.get('title', '').lower()
             
-            # Wahi filter jo pehle kaam kar raha tha
-            if "cricket" in cat or "warm" in title or "ind" in title or "t20" in title:
-                all_entries.extend(get_match_links(event))
+            if 'cricket' in cat or 'cricket' in title or 'ind' in title or 'zim' in title or 'warm' in title:
+                match_entries = fetch_match_streams(event)
+                all_entries.extend(match_entries)
 
-        with open("playlist.m3u", "w", encoding='utf-8') as f:
+        # Save
+        timestamp = (datetime.utcnow() + timedelta(hours=5, minutes=30)).strftime('%Y-%m-%d %I:%M %p IST')
+        
+        with open("playlist.m3u", "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
+            f.write(f"# UPDATED: {timestamp}\n\n")
             for entry in all_entries:
                 f.write(entry)
         
-        print(f"🎉 Playlist Updated: {len(all_entries)} streams added.")
-        
+        print(f"🎉 Playlist Updated! {len(all_entries)} streams.")
+
     except Exception as e:
-        print(f"Critical Error: {e}")
+        print(f"❌ Error: {e}")
 
 if __name__ == "__main__":
     main()
+

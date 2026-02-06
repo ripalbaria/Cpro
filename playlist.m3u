@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-06 11:32 AM IST
+# UPDATED: 2026-02-06 12:44 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,3 +15,13 @@ http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (CRICFy LIVE)
+o
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (CRICFy NBA)
+o
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (CRICFy FAST)
+o
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (HOME CAM)
+o
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (AWAY CAM)
+o

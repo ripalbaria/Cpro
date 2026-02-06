@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-06 05:32 PM IST
+# UPDATED: 2026-02-06 07:05 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,11 +35,7 @@ o
 o
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (AWAY CAM)
 o
-#EXTINF:-1 tvg-logo="https://media.oneturf.news/media/attachments/1770008411977_t20wc.jpeg" group-title="ICC T20 Warm-up 1", ICC T20 Warm-up 1 (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75c743e29b1a27b389d2929fa129f334:5523ee9f9c8a2866d88fd8883567074a
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/yblf9olk4m/out/v1/a556803202e4453c87443608644e577e/cenc.mpd
-#EXTINF:-1 tvg-logo="https://media.oneturf.news/media/attachments/1770008411977_t20wc.jpeg" group-title="ICC T20 Warm-up 1", ICC T20 Warm-up 1 (ICC TV - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/manifest.mpd?vcfilter=1fe48479-7718-4a83-a0ba-5619b1230708
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/8/8c/ODOMMO_Bangladesh_T20_Cup_2026_allmode.png" group-title="Odommo Bangladesh T20 Cup", Odommo Bangladesh T20 Cup (T SPORTS HD)
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1770390125&u=41bece4c-c0b5-4cec-bc87-3e4727035b45&token=cda06391162c4aa816ec1677f34aaf6e
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/8/8c/ODOMMO_Bangladesh_T20_Cup_2026_allmode.png" group-title="Odommo Bangladesh T20 Cup", Odommo Bangladesh T20 Cup (CRICFy LIVE)
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1770389790&u=41bece4c-c0b5-4cec-bc87-3e4727035b45&token=de05bd13bb10e5ab2ec7ade52d299cf4

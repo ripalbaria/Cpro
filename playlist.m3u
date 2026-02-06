@@ -1,16 +1,16 @@
 #EXTM3U
-# UPDATED: 2026-02-07 01:20 AM IST
+# UPDATED: 2026-02-07 02:10 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (CRICFy LIVE)
-o
+https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (CRICFy NBA)
-o
+https://instreams.pro/US/NBA3/index.m3u8?st=SportzX?|Referer=https://instreams.click/&Origin=https://instreams.click
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (CRICFy FAST)
-o
+https://broadcasthub.click//hls/DfF4IkIqKvOP/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (HOME CAM)
-o
+https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (AWAY CAM)
-o
+https://edgestreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/8/8c/ODOMMO_Bangladesh_T20_Cup_2026_allmode.png" group-title="Odommo Bangladesh T20 Cup", Odommo Bangladesh T20 Cup (T SPORTS HD)
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1770390125&u=41bece4c-c0b5-4cec-bc87-3e4727035b45&token=cda06391162c4aa816ec1677f34aaf6e
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/8/8c/ODOMMO_Bangladesh_T20_Cup_2026_allmode.png" group-title="Odommo Bangladesh T20 Cup", Odommo Bangladesh T20 Cup (CRICFy LIVE)

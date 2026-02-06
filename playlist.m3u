@@ -1,10 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-02-06 04:20 PM IST
+# UPDATED: 2026-02-06 05:08 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d7a73de8c41b3ba9125a6544e5f89bf:8f93b0a810e89801ef8fa1fbb4cd59d2
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/kbndcj80tn/out/v1/31fc126027704d56bd0e09134a19085a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=877617f1ea62ca9ac76619546f096859:3a03fa93b748da09572f453f3fe84d45
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3cdrtyqywa/out/v1/4e46945512aa454dbe98a75cd849bc15/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (PRIME VIDEO - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
@@ -35,3 +35,11 @@ o
 o
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (AWAY CAM)
 o
+#EXTINF:-1 tvg-logo="https://media.oneturf.news/media/attachments/1770008411977_t20wc.jpeg" group-title="ICC T20 Warm-up 1", ICC T20 Warm-up 1 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=75c743e29b1a27b389d2929fa129f334:5523ee9f9c8a2866d88fd8883567074a
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/yblf9olk4m/out/v1/a556803202e4453c87443608644e577e/cenc.mpd
+#EXTINF:-1 tvg-logo="https://media.oneturf.news/media/attachments/1770008411977_t20wc.jpeg" group-title="ICC T20 Warm-up 1", ICC T20 Warm-up 1 (ICC TV - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
+https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/manifest.mpd?vcfilter=1fe48479-7718-4a83-a0ba-5619b1230708

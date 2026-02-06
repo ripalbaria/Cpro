@@ -1,10 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-02-06 10:28 AM IST
+# UPDATED: 2026-02-06 11:32 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a00511e28b1f92af76a1ffe81577bc02:54245ae78e6ef1a7fed775db20488e90
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/v4shsssh4c/out/v1/1eceb4cc26374a5db21247cd4479cd0e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (PRIME VIDEO - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2

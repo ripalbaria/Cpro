@@ -1,30 +1,6 @@
 #EXTM3U
-# UPDATED: 2026-02-06 09:36 PM IST
+# UPDATED: 2026-02-06 10:35 PM IST
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=877617f1ea62ca9ac76619546f096859:3a03fa93b748da09572f453f3fe84d45
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3cdrtyqywa/out/v1/4e46945512aa454dbe98a75cd849bc15/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (PRIME VIDEO - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/clients/dash/enc/att545vfjr/out/v1/450d606c6a17471f84d09372f55004e2/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (ICC TV - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
-https://livem-d-02-icc-ne.akamaized.net/variant/v1/dai-event-prd-pal-west/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/manifest.mpd?vcfilter=ab179ffc-6dbd-4cdc-bc0c-a31e13745497
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (WILLOW - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
-https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (CRICFy LOW)
-http://195.178.110.25/hls/uggg.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (STAR SPORTS - IND)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd1ea6a1c1fb5dcdb709434e0826bbc0:f57f22cba32739ce7beb1fab3f3d060b
-https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd?__hdnea__=st=1770339472~exp=1770425872~acl=/*~hmac=713989796719e185e4ef6206f7b3fe95cce0a7c9d6ea6f3003b56092e84c95bb
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11182/image" group-title="ICC U19 World Cup 1", ICC U19 World Cup 1 (HOTSTAR HIN (IND))
-https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/index2.m3u8?|Cookie=hdntl=exp=1770448717~acl=%2f*~id=f6c28565bcfb944e56ce79c0ce896718~data=hdntl~hmac=91c3e86e272c1bd6032e0e5540a718b9124f8d75bc3f982118c49d47a62e7200&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (CRICFy LIVE)
 o
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Milwaukee Bucks vs Indiana Pacers", Milwaukee Bucks vs Indiana Pacers (CRICFy NBA)

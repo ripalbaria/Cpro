@@ -7,16 +7,26 @@ from datetime import datetime, timedelta
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
-# --- CONFIGURATION ---
-BASE_URL = os.environ.get("BASE_URL", "https://cfyhsgskskb96.top")
+# --- CONFIGURATION (FROM SECRETS) ---
+BASE_URL = os.getenv("CRIC_BASE_URL")
 
-# Decryption Keys
-KEYS_LIST = [
-    { "key": "3368487a78594167534749382f68616d", "iv": "557143766b766a656345497a38343256" },
-    { "key": "4d7165594743543441594b6f484b7254", "iv": "6f484b725451755078387a6c386f4a2b" }
-]
+# Decryption Keys (Loaded from Secrets)
+# Humne dynamic list banayi hai taaki secrets se data utha sake
+KEYS_LIST = []
 
-# Headers for FETCHING the list (Server se baat karne ke liye zaroori hai)
+# Key Set 1
+k1 = os.getenv("CRIC_KEY_1")
+i1 = os.getenv("CRIC_IV_1")
+if k1 and i1:
+    KEYS_LIST.append({ "key": k1, "iv": i1 })
+
+# Key Set 2
+k2 = os.getenv("CRIC_KEY_2")
+i2 = os.getenv("CRIC_IV_2")
+if k2 and i2:
+    KEYS_LIST.append({ "key": k2, "iv": i2 })
+
+# Headers
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
     "Referer": f"{BASE_URL}/",
@@ -124,8 +134,6 @@ def fetch_match_streams(event):
             raw_link = s.get('link', '')
             
             # --- STRICT RAW MODE: Use Link As-Is ---
-            # Hum kuch nahi jodenge. Agar JSON me headers hain to wo 'raw_link' me hi honge.
-            # Agar nahi hain, to nahi honge.
             final_url = raw_link
 
             # --- M3U Construction ---
@@ -149,10 +157,15 @@ def fetch_match_streams(event):
     return entries
 
 def main():
-    print("🚀 Starting Generator (Strict Raw Mode)...")
+    print("🚀 Starting Generator (Strict Raw Mode with Secrets)...")
     all_entries = []
     
     try:
+        # Check if secrets loaded
+        if not BASE_URL or not KEYS_LIST:
+            print("❌ Error: CRIC Secrets missing! Check GitHub Settings.")
+            return
+
         res = requests.get(f"{BASE_URL}/categories/live-events.txt", headers=HEADERS, timeout=15)
         raw_data = decrypt_data(res.text)
         
@@ -185,3 +198,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

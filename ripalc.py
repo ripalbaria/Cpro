@@ -8,7 +8,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 # --- CONFIGURATION ---
-BASE_URL = os.environ.get("BASE_URL", "https://cfyhgdgnkkuvn92.top")
+BASE_URL = os.environ.get("BASE_URL", "https://cfyhsgskskb96.top")
 
 # Decryption Keys
 KEYS_LIST = [

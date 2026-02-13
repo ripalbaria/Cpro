@@ -1,4 +1,4 @@
-name: Update Ripalc Playlist
+Name: Update Ripalc Playlist
 
 on:
   schedule:
@@ -25,14 +25,13 @@ jobs:
         run: pip install pycryptodome requests
 
       - name: Run script (ripalc.py)
+        # 👇 Sirf ye secrets section update kiya hai
         env:
-          # Secrets mapping
-          BASE_URL: ${{ secrets.CRICIFY_URL }}
-          KEY_HEX: ${{ secrets.CRICIFY_KEY }}
-          IV_HEX: ${{ secrets.CRICIFY_IV }}
-          KEY_HEX_2: ${{ secrets.CRICIFY_KEY_2 }} # Backup Key
-          IV_HEX_2: ${{ secrets.CRICIFY_IV_2 }}   # Backup IV
-        # Script name is updated here
+          CRIC_BASE_URL: ${{ secrets.CRIC_BASE_URL }}
+          CRIC_KEY_1: ${{ secrets.CRIC_KEY_1 }}
+          CRIC_IV_1: ${{ secrets.CRIC_IV_1 }}
+          CRIC_KEY_2: ${{ secrets.CRIC_KEY_2 }}
+          CRIC_IV_2: ${{ secrets.CRIC_IV_2 }}
         run: python ripalc.py
 
       - name: Commit and push changes

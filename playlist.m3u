@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-13 08:32 PM IST
+# UPDATED: 2026-02-13 09:30 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,8 +53,8 @@ https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozill
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ouvsldlmum/out/v1/5f837b3c17174e9297d5dc9e7534e484/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 3", ICC T20 World Cup 3 (PRIME VIDEO - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
-https://a20aivottepl-a.akamaihd.net/syd-nitro/clients/dash/enc/wv2ipszuik/out/v1/51e65f7749fe4cc78f6c108fa09ff29c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e2135bf415cfea9ea3e6b26a6fce8fc3:2671da359a0a860668baca2e34f243f6
+https://ABA3UZVAAAAAAAAMKB4SLZCLMVKHR.ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/nh7kyk4bbl/out/v1/d25c047441ed467595c8085109e0d73f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 3", ICC T20 World Cup 3 (ICC ENGLISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85411a37b603294ad2f9cd79b3eb559:a1ba6a2e83e553191e0bedaec5c83773

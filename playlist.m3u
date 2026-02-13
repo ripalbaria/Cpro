@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-14 12:32 AM IST
+# UPDATED: 2026-02-14 01:23 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,3 +73,5 @@ https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozill
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="Volendam vs PSV Eindhoven", Volendam vs PSV Eindhoven (CRICFy LIVE)
+https://play.ltwxsc.com/live/sd-6MuT7hpBYnJaMeJDBU.m3u8?txSecret=59b86ff55b7c5ca4c072541a2dc62b0c&txTime=698F9E6D

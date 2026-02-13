@@ -1,17 +1,7 @@
 #EXTM3U
-# UPDATED: 2026-02-08 06:38 PM IST
+# UPDATED: 2026-02-13 12:03 PM IST
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Toronto Raptors vs Indiana Pacers", Toronto Raptors vs Indiana Pacers (TSN - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="Volendam vs PSV Eindhoven", Volendam vs PSV Eindhoven (TNT SPORTS 1 - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
-https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Toronto Raptors vs Indiana Pacers", Toronto Raptors vs Indiana Pacers (CRICFy LIVE )
-https://gg.poocloud.in/nba_torontoraptors/tracks-v1a1/mono.ts.m3u8?|Referer=https://ppv.to/&Origin=https://ppv.to
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Toronto Raptors vs Indiana Pacers", Toronto Raptors vs Indiana Pacers (CRICFy NBA )
-https://edge2caster.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Toronto Raptors vs Indiana Pacers", Toronto Raptors vs Indiana Pacers (CRICFy FAST )
-https://azplay.live/hls/NBA4/index.m3u8?|Referer=https://arizonaplay.club/&Origin=https://arizonaplay.club
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Toronto Raptors vs Indiana Pacers", Toronto Raptors vs Indiana Pacers (HOME CAM)
-https://locked.pixelpanel.online/play/P0O9KwmZmP6zNIefvca0T9QznlKd_kyHADj5OqQ40HKU2PnFvI8KUA6KOyXkzyJhnWDFX3OG7h551KL7poBf-A/.m3u8?|Referer=https://pixelsport.tv/&Origin=https://pixelsport.tv&User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:144.0)+Gecko/20100101+Firefox/144.0
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Toronto Raptors vs Indiana Pacers", Toronto Raptors vs Indiana Pacers (AWAY CAM)
-https://locked.pixelpanel.online/play/P0O9KwmZmP6zNIefvca0T9QznlKd_kyHADj5OqQ40HKU2PnFvI8KUA6KOyXkzyJhqAymGqpPuVt5vbPymmOrhw/.m3u8?|Referer=https://pixelsport.tv/&Origin=https://pixelsport.tv&User-Agent=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:144.0)+Gecko/20100101+Firefox/144.0
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd

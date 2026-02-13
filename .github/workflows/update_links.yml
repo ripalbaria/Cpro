@@ -1,4 +1,4 @@
-Name: Update Ripalc Playlist
+name: Update Ripalc Playlist
 
 on:
   schedule:

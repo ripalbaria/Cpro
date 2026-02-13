@@ -11,7 +11,6 @@ from Crypto.Util.Padding import unpad
 BASE_URL = os.getenv("CRIC_BASE_URL")
 
 # Decryption Keys (Loaded from Secrets)
-# Humne dynamic list banayi hai taaki secrets se data utha sake
 KEYS_LIST = []
 
 # Key Set 1
@@ -39,7 +38,9 @@ HEADERS = {
 def decrypt_data(encrypted_text):
     if not encrypted_text: return None
     try:
+        # Data safai (Newline/Spaces hatana)
         clean_b64 = encrypted_text.strip().replace("\n", "").replace("\r", "").replace(" ", "").replace("\t", "")
+        
         for creds in KEYS_LIST:
             try:
                 k = bytes.fromhex(creds["key"])
@@ -64,7 +65,7 @@ def convert_utc_to_ist(utc_time_str):
         return ""
 
 def get_smart_filename(event):
-    """Filename Guesser"""
+    """Filename Guesser - UPDATED FOR NUMBERS"""
     guesses = []
     
     # 1. Event ID
@@ -73,12 +74,22 @@ def get_smart_filename(event):
         guesses.append(eid)
         guesses.append(f"match-{eid}")
     
-    # 2. Slug
+    # 2. Slug & Title
     slug = event.get('slug', '').strip()
+    
     if slug:
-        guesses.append(slug)
-        guesses.append(urllib.parse.quote(slug))
-        guesses.append(slug.replace(" ", "-").lower())
+        # A. Normal Slug
+        guesses.append(slug) # raw
+        guesses.append(urllib.parse.quote(slug)) # url encoded (%20 style)
+        guesses.append(slug.replace(" ", "-").lower()) # hyphenated
+        
+        # B. Numbered Variations (THE FIX: Trying 1 to 5)
+        for i in range(1, 6):
+            # Try: "icc t20 world cup 1" -> "icc%20t20...%201"
+            guesses.append(urllib.parse.quote(f"{slug} {i}"))
+            
+            # Try: "icc-t20-world-cup-1"
+            guesses.append(f"{slug.replace(' ', '-')}-{i}")
     
     # 3. Team Names
     team_a = event.get('eventInfo', {}).get('teamA', '').strip()
@@ -87,9 +98,12 @@ def get_smart_filename(event):
     if team_a and team_b:
         t_a = team_a.lower().replace(" ", "")
         t_b = team_b.lower().replace(" ", "")
-        guesses.append(f"{t_a}-vs-{t_b}")
-        guesses.append(f"{t_a}-v-{t_b}")
-        guesses.append(f"{t_a}{t_b}")
+        base_vs = f"{t_a}-vs-{t_b}"
+        guesses.append(base_vs)
+        
+        # Try numbered team names too
+        for i in range(1, 4):
+            guesses.append(f"{base_vs}-{i}")
         
     return guesses
 
@@ -111,17 +125,25 @@ def fetch_match_streams(event):
     
     for fname in filenames:
         try:
+            # Try both extensions: .txt and empty
             for ext in [".txt", ""]:
                 url = f"{BASE_URL}/channels/{fname}{ext}"
+                
+                # Debug print to see what is being tried (Optional)
+                # print(f"      Trying: {fname}{ext}")
+                
                 res = requests.get(url, headers=HEADERS, timeout=3)
                 if res.status_code == 200 and "google.com" not in res.text and len(res.text) > 50:
                     valid_data = decrypt_data(res.text)
-                    if valid_data: break
+                    if valid_data: 
+                        print(f"      ✅ FOUND: {fname}{ext}")
+                        break
             if valid_data: break
         except:
             continue
 
     if not valid_data:
+        print("      ❌ No stream file found.")
         return []
 
     # Parse JSON
@@ -140,24 +162,24 @@ def fetch_match_streams(event):
             # 1. EXTINF
             entry = f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group_title}", {title} ({stream_name})\n'
             
-            # 2. KODIPROP (DRM Keys are necessary for player to know how to unlock)
+            # 2. KODIPROP (DRM Keys)
             drm_key = s.get('api')
             if drm_key:
                 entry += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
                 entry += f'#KODIPROP:inputstream.adaptive.license_key={drm_key}\n'
             
-            # 3. URL (The Raw Link)
+            # 3. URL
             entry += f'{final_url}\n'
             
             entries.append(entry)
 
     except Exception as e:
-        print(f"      ⚠️ Error: {e}")
+        print(f"      ⚠️ JSON Error: {e}")
 
     return entries
 
 def main():
-    print("🚀 Starting Generator (Strict Raw Mode with Secrets)...")
+    print("🚀 Starting Generator (Smart Numbering Added)...")
     all_entries = []
     
     try:
@@ -167,9 +189,15 @@ def main():
             return
 
         res = requests.get(f"{BASE_URL}/categories/live-events.txt", headers=HEADERS, timeout=15)
+        if res.status_code != 200:
+            print(f"❌ Failed to fetch categories: {res.status_code}")
+            return
+            
         raw_data = decrypt_data(res.text)
         
-        if not raw_data: return
+        if not raw_data: 
+            print("❌ Category Decryption Failed")
+            return
 
         events = json.loads(raw_data)
         

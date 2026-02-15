@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-15 05:18 PM IST
+# UPDATED: 2026-02-15 06:28 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (PRIME VIDEO - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -17,14 +17,18 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com
 https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (CRICFy LIVE)
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (PRIME ENG - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/pnes4dv2ag/out/v1/e21d21ec21e34c7192049a44ee3de428/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (PRIME HIN - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531599a595f0a03ced73300beaec99b7:f5a77d391847790f46059cbb092d575b
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/utvv87801b/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b6057828fdda7d780ffdf70850ec185:1239bdcb086701de9c91436bd0d30b1e
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/blytet5gvy/out/v1/254ccfbe3a9f4d319997dd71d10209d5/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (PRIME VIDEO - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/ct8pml1x7b/out/v1/a3f76c40f2c74804876697c4c284780f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=cdefc6fad932ed074f7dd13707c6239f:725eb404c1f67c37b1663482ac11e890
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fgoejo9dlu/out/v1/feff44fd74294c4a9a97d3c054cf9be9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8|Referer=https://sportslivenow.top/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (WILLOW HD)

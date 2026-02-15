@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-15 01:20 PM IST
+# UPDATED: 2026-02-15 02:07 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (PRIME VIDEO - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,6 +15,8 @@ https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://
 https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (CRICFy LIVE)
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (LEMAR TV HD)
+https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b252808dc20a3fcbe9fa74132483099f:49474936470c10863dae06a1e92b7afa

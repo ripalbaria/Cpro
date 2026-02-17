@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-02-17 11:16 AM IST
+# UPDATED: 2026-02-17 12:33 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7,8 +7,8 @@
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/6xiloeqm22/out/v1/455da68c5210476b9d77bc03ccf82163/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (PRIME VIDEO - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e388fd9cf1c145acf6c73439ddd9008:4c4c4edae20d36abe959932d74f6f68f
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/6xiloeqm22/out/v1/455da68c5210476b9d77bc03ccf82163/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=77c7355985551e0e53b14794b7e0b877:ef86a1a5444585a103b8cce925ddc549
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bbwxgfum2o/out/v1/bedaa948e7a24dc0b5fd5d7b38534d8c/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (WILLOW - LQ)
@@ -22,7 +22,7 @@ https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=Kg
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (PRIME VIDEO - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jiputaffgk/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2", ICC T20 World Cup 2 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4d4735fcdf0fff9e23c62ee17b6ffa1:23e374883cf1f0baecb444224cada559

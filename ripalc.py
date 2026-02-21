@@ -7,8 +7,55 @@ from datetime import datetime, timedelta
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
+# ==========================================
+# 🌟 FIREBASE AUTO-URL ENGINE (Added from screenshot)
+# ==========================================
+def get_firebase_base_url():
+    print("🔵 [Auto] Fetching Dynamic URL from Firebase...")
+    url = "https://firebaseremoteconfig.googleapis.com/v1/projects/963020218535/namespaces/firebase:fetch"
+    
+    headers = {
+        "accept": "application/json",
+        "x-android-package": "com.cricfy.tv",
+        "x-goog-api-key": "AIzaSyAh9jkEU0E_UYxH0m_BKAt-uUSTiTpQhb8",
+        "content-type": "application/json; charset=utf-8",
+        "user-agent": "okhttp/5.0.0-alpha.12"
+    }
+    
+    payload = {
+        "appInstanceId": "e368b85dbdd148bdb73f1c5fecfdd3e2",
+        "appInstanceIdToken": "",
+        "appId": "1:963020218535:android:47ec53252c64fb3c9c7b82",
+        "countryCode": "US",
+        "languageCode": "en-US",
+        "platformVersion": "30",
+        "timeZone": "UTC",
+        "appVersion": "5.0",
+        "appBuild": "50",
+        "packageName": "com.cricfy.tv",
+        "sdkVersion": "22.1.0",
+        "analyticsUserProperties": {}
+    }
+    
+    try:
+        res = requests.post(url, headers=headers, json=payload, timeout=10)
+        if res.status_code == 200:
+            data = res.json()
+            entries = data.get("entries", {})
+            api_url = entries.get("cric_api1") or entries.get("cric_api2")
+            if api_url:
+                clean_url = api_url.rstrip("/")
+                print(f"   🎉 SUCCESS! Auto-URL Detected: {clean_url}")
+                return clean_url
+    except Exception as e:
+        print(f"   ❌ Firebase Error: {e}")
+        
+    print("   ⚠️ Fetch failed. Using fallback URL.")
+    return "https://indspl.site"
+
 # --- CONFIGURATION ---
-BASE_URL = os.getenv("CRIC_BASE_URL")
+# Base URL ab Github secrets ki jagah seedha Firebase se aayega
+BASE_URL = get_firebase_base_url()
 KEYS_LIST = []
 
 k1 = os.getenv("CRIC_KEY_1")

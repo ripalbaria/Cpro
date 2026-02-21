@@ -17,7 +17,7 @@ def get_firebase_base_url():
     headers = {
         "accept": "application/json",
         "x-android-package": "com.cricfy.tv",
-        "x-goog-api-key": "AIzaSyAh9jkEU0E_UYxH0m_BKAt-uUSTiTpQhb8",
+        "x-goog-api-key": "AIzaSyAh9jkEU0E_UYxH0m_BKAt-uUSTiTPqhb8",
         "content-type": "application/json; charset=utf-8",
         "user-agent": "okhttp/5.0.0-alpha.12"
     }

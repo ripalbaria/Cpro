@@ -8,7 +8,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 # ==========================================
-# 🌟 FIREBASE AUTO-URL ENGINE (Added from screenshot)
+# 🌟 FIREBASE AUTO-URL ENGINE (Added Active Check)
 # ==========================================
 def get_firebase_base_url():
     print("🔵 [Auto] Fetching Dynamic URL from Firebase...")
@@ -42,16 +42,31 @@ def get_firebase_base_url():
         if res.status_code == 200:
             data = res.json()
             entries = data.get("entries", {})
-            api_url = entries.get("cric_api1") or entries.get("cric_api2")
-            if api_url:
-                clean_url = api_url.rstrip("/")
-                print(f"   🎉 SUCCESS! Auto-URL Detected: {clean_url}")
-                return clean_url
+            
+            # Dono URLs nikal liye
+            url1 = entries.get("cric_api1")
+            url2 = entries.get("cric_api2")
+            
+            # Active Link Checker (Jo zinda hoga wahi return karega)
+            for api_url in [url1, url2]:
+                if api_url:
+                    clean_url = api_url.rstrip("/")
+                    print(f"   🔄 Checking URL: {clean_url} ...")
+                    try:
+                        # 3 second timeout ke sath check karega ki site chal rahi hai ya nahi
+                        requests.get(clean_url, timeout=3)
+                        print(f"   🎉 SUCCESS! Active Auto-URL Detected: {clean_url}")
+                        return clean_url
+                    except requests.exceptions.RequestException:
+                        print(f"   ⚠️ URL {clean_url} is dead/blocked. Trying next...")
+                        continue # Pehla fail hua to loop dusre par jayega
+                        
     except Exception as e:
         print(f"   ❌ Firebase Error: {e}")
         
-    print("   ⚠️ Fetch failed. Using fallback URL.")
-    return "https://indspl.site"
+    print("   ⚠️ Fetch failed or all URLs dead. Using fallback URL.")
+    # Fallback ko abhi working wale pe set kar diya hai just in case
+    return "https://cfykskgdjk100.top"
 
 # --- CONFIGURATION ---
 # Base URL ab Github secrets ki jagah seedha Firebase se aayega

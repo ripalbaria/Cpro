@@ -1,9 +1,15 @@
 #EXTM3U
-# UPDATED: 2026-03-02 02:41 AM IST
+# UPDATED: 2026-03-02 03:04 AM IST
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11222/image" group-title="women-cricket2", women-cricket2 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9854668c16b3ef7efe6facbf91fd8af2:fc899a5c275cbb1060d6d9d61cd52ecd
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11222/image" group-title="women-cricket2", women-cricket2 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (WILLOW - AQ)
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/hp0lefwcem/out/v1/925bb83b4490417fa9c536dde0104939/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (HUB SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -39,5 +45,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.m
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772346617~exp=1772433017~acl=/*~hmac=38ab7ca1a9ff6caaeaeff463959a2e308c295fc750a1a596f1e199515ba3e733|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=plaYtv/7.1.7 (Linux;Android 13) AndroidXMedia3/1.1.1&cookie=__hdnea__=st=1772346617~exp=1772433017~acl=/*~hmac=38ab7ca1a9ff6caaeaeff463959a2e308c295fc750a1a596f1e199515ba3e733
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2b", ICC T20 World Cup 2b (STAR KAN - IN)
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772346617~exp=1772433017~acl=/*~hmac=38ab7ca1a9ff6caaeaeff463959a2e308c295fc750a1a596f1e199515ba3e733|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=plaYtv/7.1.7 (Linux;Android 13) AndroidXMedia3/1.1.1&cookie=__hdnea__=st=1772346617~exp=1772433017~acl=/*~hmac=38ab7ca1a9ff6caaeaeff463959a2e308c295fc750a1a596f1e199515ba3e733
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Indiana Pacers vs Memphis Grizzlies", Indiana Pacers vs Memphis Grizzlies ()
-ok
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Indiana Pacers vs Memphis Grizzlies", Indiana Pacers vs Memphis Grizzlies (CRICFy LIVE)
+https://edgestreams.pro/hls/zeafwqvhfe69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Indiana Pacers vs Memphis Grizzlies", Indiana Pacers vs Memphis Grizzlies (CRICFy HD)
+https://instreams.pro/US/NBA5/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Indiana Pacers vs Memphis Grizzlies", Indiana Pacers vs Memphis Grizzlies (CRICFy SD)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8

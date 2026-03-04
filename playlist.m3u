@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-04 07:54 PM IST
+# UPDATED: 2026-03-04 08:31 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11222/image" group-title="women-cricket2", women-cricket2 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21,12 +21,6 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/75cpfftavv/out/v
 https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8|Referer=https://sportslivenow.top/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (HUB SPORTS )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
-https://bks02.starhubgo.com/bpk-token/1aa@ieky51nxib5phbtop0xjruq5x1crc45oignjfvba/bpk-tv/HubSports4HDnew/output/manifest.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (WILLOW - LQ)
-https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://google.com/&Origin=https://google.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 1", ICC T20 World Cup 1 (CRICFy LIVE.)
 https://stream1.liveland.af/hls/tv/tolo-sport/chunklist3.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2b", ICC T20 World Cup 2b (WILLOW - AQ)
@@ -51,3 +45,5 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.m
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772346617~exp=1772433017~acl=/*~hmac=38ab7ca1a9ff6caaeaeff463959a2e308c295fc750a1a596f1e199515ba3e733|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=plaYtv/7.1.7 (Linux;Android 13) AndroidXMedia3/1.1.1&cookie=__hdnea__=st=1772346617~exp=1772433017~acl=/*~hmac=38ab7ca1a9ff6caaeaeff463959a2e308c295fc750a1a596f1e199515ba3e733
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2b", ICC T20 World Cup 2b (STAR KAN - IN)
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772346617~exp=1772433017~acl=/*~hmac=38ab7ca1a9ff6caaeaeff463959a2e308c295fc750a1a596f1e199515ba3e733|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=plaYtv/7.1.7 (Linux;Android 13) AndroidXMedia3/1.1.1&cookie=__hdnea__=st=1772346617~exp=1772433017~acl=/*~hmac=38ab7ca1a9ff6caaeaeff463959a2e308c295fc750a1a596f1e199515ba3e733
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Los Angeles Clippers vs Indiana Pacers", Los Angeles Clippers vs Indiana Pacers ()
+ok

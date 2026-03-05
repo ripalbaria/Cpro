@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-05 08:32 PM IST
+# UPDATED: 2026-03-05 09:30 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11222/image" group-title="women-cricket2", women-cricket2 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,9 +35,3 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.m
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11185/image" group-title="ICC T20 World Cup 2b", ICC T20 World Cup 2b (STAR KAN - IN)
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Los Angeles Clippers vs Indiana Pacers", Los Angeles Clippers vs Indiana Pacers (CRICFy LIVE)
-https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Los Angeles Clippers vs Indiana Pacers", Los Angeles Clippers vs Indiana Pacers (CRICFy HD)
-https://instreams.pro/US/NBA6/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/132/image" group-title="Los Angeles Clippers vs Indiana Pacers", Los Angeles Clippers vs Indiana Pacers (CRICFy SD)
-https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8

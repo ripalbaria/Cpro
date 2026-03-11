@@ -1,13 +1,15 @@
 #EXTM3U
-# UPDATED: 2026-03-11 01:30 PM IST
+# UPDATED: 2026-03-11 02:28 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Sacramento Kings vs Indiana Pacers", Sacramento Kings vs Indiana Pacers (CRICFy LIVE)
-https://mainstreams.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Sacramento Kings vs Indiana Pacers", Sacramento Kings vs Indiana Pacers (CRICFy HD)
-https://instreams.pro/US/NBA10/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Sacramento Kings vs Indiana Pacers", Sacramento Kings vs Indiana Pacers (CRICFy SD)
-https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=4c1cb172e3dd56d27b7914a26803d8d1:dbd9280a6254f1abf1e45571d6325385
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/sar5qef6wv/out/v1/29e2f2b691a845a5bfe0c25775ef89bd/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb76f3b8bbd4b8e18d5c1a79b52395b:dfdac30ebbfa63b4326de4ca462e9fa3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/yjhgnfk2sz/out/v1/3a995adfa3444f1ba12ee630365a4ffe/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (FANCODE - BD)
+https://bd-mc-flive.fancode.com/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/720p.m3u8?hdntl=Expires=1773301877~_GO=Generated~acl=/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/*~Signature=AQQqLwTTSevlIg2v8srf35FUbK-X7kJqmsvKmP_PG-bZK4SRU-pWk97kYGIF7FhAnsRUM-WeMJx9RamRsjXADZoNG4UN
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (FANCODE - IN)
+https://in-mc-flive.fancode.com/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/720p.m3u8?hdntl=Expires=1773301877~_GO=Generated~acl=/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/*~Signature=AQQqLwTTSevlIg2v8srf35FUbK-X7kJqmsvKmP_PG-bZK4SRU-pWk97kYGIF7FhAnsRUM-WeMJx9RamRsjXADZoNG4UN

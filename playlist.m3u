@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-13 01:01 PM IST
+# UPDATED: 2026-03-13 01:35 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9,6 +9,8 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/sar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb76f3b8bbd4b8e18d5c1a79b52395b:dfdac30ebbfa63b4326de4ca462e9fa3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/yjhgnfk2sz/out/v1/3a995adfa3444f1ba12ee630365a4ffe/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (TAPMAD - AQ)
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (FANCODE - BD)
 https://bd-mc-flive.fancode.com/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/720p.m3u8?hdntl=Expires=1773301877~_GO=Generated~acl=/mumbai/141406_english_hls_3b0adf748056499_1ta-di_h264/*~Signature=AQQqLwTTSevlIg2v8srf35FUbK-X7kJqmsvKmP_PG-bZK4SRU-pWk97kYGIF7FhAnsRUM-WeMJx9RamRsjXADZoNG4UN
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (FANCODE - IN)

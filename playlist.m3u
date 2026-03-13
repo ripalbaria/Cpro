@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-13 10:33 PM IST
+# UPDATED: 2026-03-13 11:20 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,9 +19,3 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/gm32be3toh/out
 https://bd-mc-flive.fancode.com/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/720p.m3u8?hdntl=Expires=1773474245~_GO=Generated~acl=/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/*~Signature=AR77L-Yyr9Cdj5X_0so3HpmxTUDWXrASgqUxhTGBOrJaU6SPgB5oUrj5FOVZ7FqeaDZnyCZIHYhGDYKbrr-wcsI214oJ
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (FANCODE - IN)
 https://bd-mc-flive.fancode.com/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/720p.m3u8?hdntl=Expires=1773474245~_GO=Generated~acl=/mumbai/141407_english_hls_ab5ff6c24a21542_1ta-di_h264/*~Signature=AR77L-Yyr9Cdj5X_0so3HpmxTUDWXrASgqUxhTGBOrJaU6SPgB5oUrj5FOVZ7FqeaDZnyCZIHYhGDYKbrr-wcsI214oJ
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Phoenix Suns", Indiana Pacers vs Phoenix Suns (CRICFy LIVE)
-https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Phoenix Suns", Indiana Pacers vs Phoenix Suns (CRICFy HD)
-https://instreams.pro/US/NBA2/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Phoenix Suns", Indiana Pacers vs Phoenix Suns (CRICFy SD)
-https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8

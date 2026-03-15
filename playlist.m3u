@@ -1,22 +1,6 @@
 #EXTM3U
-# UPDATED: 2026-03-16 03:16 AM IST
+# UPDATED: 2026-03-16 03:44 AM IST
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b01896dfc4f780aa0e61765af00128b1:0390e22ecb9b6ef93ddf8f7cd3b38461
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8ntichuuto/out/v1/f7b575d5d9a949f9a4e164f635ebb9c7/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (TAPMAD - AQ)
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f7430f6e207ffda0e204db0349943588:ee9cb47568de5421a7dccc2583d472b8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hiypgex6mh/out/v1/2137ebd11df64d189b8c75022c18db1c/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW HD)
-http://195.178.110.27/hls/FUUUQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (PTV SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="New Zealand vs South Africa", New Zealand vs South Africa (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258

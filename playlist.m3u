@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-18 02:54 AM IST
+# UPDATED: 2026-03-18 03:28 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="New Zealand vs South Africa", New Zealand vs South Africa (TNT SPORTS 2 - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11,3 +11,5 @@ https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="New York Knicks vs Indiana Pacers", New York Knicks vs Indiana Pacers ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

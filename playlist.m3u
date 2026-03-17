@@ -1,14 +1,12 @@
 #EXTM3U
-# UPDATED: 2026-03-17 01:34 PM IST
+# UPDATED: 2026-03-17 02:36 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="New Zealand vs South Africa", New Zealand vs South Africa (TNT SPORTS 2 - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="New Zealand vs South Africa", New Zealand vs South Africa (TNT SPORTS 4 - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="New Zealand vs South Africa", New Zealand vs South Africa (SonyLiv)
+https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdnea=exp=1773772204~acl=/*~id=2a039e99eb135597c8d50ca5ebb62949-1773729000104~hmac=04154674e5fcf1942344ec21c3d80f79b1e33970772fdf7c6a687d17432848a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875

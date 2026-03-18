@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-18 06:11 PM IST
+# UPDATED: 2026-03-18 07:34 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="New Zealand vs South Africa", New Zealand vs South Africa (TNT SPORTS 2 - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11,9 +11,5 @@ https://sonymtmnew.akamaized.net/hls/live/2037141/DAI21-criclive/master.m3u8?hdn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="New York Knicks vs Indiana Pacers", New York Knicks vs Indiana Pacers (CRICFy LIVE)
-https://mainstreams.pro/hls/zayrtezafgvdv68.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="New York Knicks vs Indiana Pacers", New York Knicks vs Indiana Pacers (CRICFy HD)
-https://instreams.pro/US/NBA4/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="New York Knicks vs Indiana Pacers", New York Knicks vs Indiana Pacers (CRICFy SD)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Portland Trail Blazers", Indiana Pacers vs Portland Trail Blazers ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

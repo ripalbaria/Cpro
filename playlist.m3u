@@ -1,11 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-26 05:02 PM IST
+# UPDATED: 2026-03-26 06:07 PM IST
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Los Angeles Lakers", Indiana Pacers vs Los Angeles Lakers (CRICFy LIVE)
-https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Los Angeles Lakers", Indiana Pacers vs Los Angeles Lakers (CRICFy HD)
-https://instreams.pro/US/NBA2/index.m3u8?st=SportzX|Referer=https://instreams.click/&Origin=https://instreams.click
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Los Angeles Lakers", Indiana Pacers vs Los Angeles Lakers (CRICFy SD)
-https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Hyderabad Kingsmen", Lahore Qalandars vs Hyderabad Kingsmen ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

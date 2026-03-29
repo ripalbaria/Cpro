@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-29 04:02 PM IST
+# UPDATED: 2026-03-29 04:33 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
@@ -19,5 +19,7 @@ https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
 https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Quetta Gladiators vs Hyderabad Kingsmen", Quetta Gladiators vs Hyderabad Kingsmen (SD SERVER)
 http://195.178.110.2/hls/LYYYQQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Quetta Gladiators vs Hyderabad Kingsmen", Quetta Gladiators vs Hyderabad Kingsmen (T SPORTS HD)
+http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

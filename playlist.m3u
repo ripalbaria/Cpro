@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-29 07:38 PM IST
+# UPDATED: 2026-03-29 08:20 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,6 +47,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6hyelcoor8/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (SKY CRICKET HD)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (SKY CRICKET - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kick.com/api/v2/channels/%s
+dillzy11
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (SD SERVER)
 http://195.178.110.25/hls/uuuuut.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (STAR ENG - IN)

@@ -1,8 +1,22 @@
 #EXTM3U
-# UPDATED: 2026-03-29 07:07 PM IST
+# UPDATED: 2026-03-29 07:38 PM IST
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86d4a4392e6115df1bfa3e6821752df7:460198a34912b18d2e491319906ec967
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mdlltgo13z/out/v1/bc4179a35ed9463caedec5d8a5200417/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings (WILLOW - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86d4a4392e6115df1bfa3e6821752df7:460198a34912b18d2e491319906ec967
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mdlltgo13z/out/v1/bc4179a35ed9463caedec5d8a5200417/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings (PSL URDU - AQ)
+https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings (PSL ENGLISH - AQ)
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings (PTV SPORTS HD)
+https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings (TAMASHA - PK)
+https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Quetta Gladiators vs Hyderabad Kingsmen", Quetta Gladiators vs Hyderabad Kingsmen (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -21,5 +35,27 @@ https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e
 http://195.178.110.2/hls/LYYYQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Quetta Gladiators vs Hyderabad Kingsmen", Quetta Gladiators vs Hyderabad Kingsmen (T SPORTS HD)
 http://103.175.242.10:8080/tsports1/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa392dd68481103587fcc21bcb6d205a:9c796aecdd9d606d6f877e36b3f0753e
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/6hyelcoor8/out/v1/5f4dacfb19bf410296d2d46cded7c4d2/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (WILLOW - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa392dd68481103587fcc21bcb6d205a:9c796aecdd9d606d6f877e36b3f0753e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6hyelcoor8/out/v1/5f4dacfb19bf410296d2d46cded7c4d2/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (WILLOW - HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (SD SERVER)
+http://195.178.110.25/hls/uuuuut.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (STAR ENG - IN)
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f|drmScheme=com.clearkey.alpha&drmLicense={"keys":[{"kty":"oct","kid":"BDunueENVLSyqNbyfozoUA","k":"3El5bgVKNjzQpiow3BF0uA"},{"kty":"oct","kid":"BPrDkEVEXraXNSQ_lCh0GA","k":"P4zBYUo_TJ1yysR-MrN2mg"},{"kty":"oct","kid":"ll3C3bHYUTiteHmZp_MMpQ","k":"hZaVB25n_pYYNrVk221onA"},{"kty":"oct","kid":"Wn0ikNuuU3KfbAeltIwiYw","k":"dD5VWgV2H5dNraLNjnYgRQ"}],"type":"temporary"}|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&cookie=__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (STAR HIN - IN)
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f|drmScheme=com.clearkey.alpha&drmLicense={"keys":[{"kty":"oct","kid":"v1OSik2xU-mUMeNb00oRsQ","k":"RyiTynsaxfB_H3ezi5Y1mA"},{"kty":"oct","kid":"dN9AOJ6EXZC3DYMQqKL9Rw","k":"YhFOprSOaO7dUtUZB0YwLA"},{"kty":"oct","kid":"QAExmUtEXYyIFyAiSHYP2g","k":"LVbLbwenW5r_Fl1TSuK_xA"},{"kty":"oct","kid":"eS-mOiWVXuix39u83jT7oA","k":"WE7cGJrFabdvslcX8e4GGA"}],"type":"temporary"}|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&cookie=__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (STAR TAM - IN)
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f|drmScheme=com.clearkey.alpha&drmLicense={"keys":[{"kty":"oct","kid":"xQd2nzzuVaqY540Ho98qzA","k":"mq5mlBrTAYjOaPvJR-ojew"},{"kty":"oct","kid":"bd-gc367UgCHsqTGnEPnFg","k":"Eu18XjsWLIyQ6zL6j3a5Ew"},{"kty":"oct","kid":"InLAvGsuXLCQsfVZluACbA","k":"lDkjk03h1VNqsBxn_KizNw"},{"kty":"oct","kid":"jowS2VARUbei-lCjSvLNxg","k":"lQBcI6A09Y5gO-_n_ZSoOA"}],"type":"temporary"}|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&cookie=__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (STAR TEL - IN)
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f|drmScheme=com.clearkey.alpha&drmLicense={"keys":[{"kty":"oct","kid":"-AcaOVJ7Uw6K3pYbu1EVfQ","k":"zUyZK3C9aJpUfT4AB2eaew"},{"kty":"oct","kid":"yRG_UGqUUNivKpdPDlagQA","k":"qA3hwkxwlMaLfcsCbwq5kg"},{"kty":"oct","kid":"SehLnt_YU3m5DIG30tPSvw","k":"GcgtP_CU-gavlYIKFXLstQ"},{"kty":"oct","kid":"AuGchN9hUZKRP5Yiw5ECjg","k":"FDITvaOIGg0wfIwTUbr4Tg"}],"type":"temporary"}|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&cookie=__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Mumbai Indians vs Kolkata Knight Riders", Mumbai Indians vs Kolkata Knight Riders (STAR KAN - IN)
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f|drmScheme=com.clearkey.alpha&drmLicense={"keys":[{"kty":"oct","kid":"Knk6sqJfV0qb6HREMBVfOQ","k":"0LilMk2fFxSqDk-ZoP3vZg"},{"kty":"oct","kid":"DS81C8jiXMqr4-MjrH71CQ","k":"UWr0CkEN_ZmZxR0jepk70g"},{"kty":"oct","kid":"mm0Fj6QLVGCpRheJAOtEyw","k":"eR10RBEM7DLXMcoMM6xsFQ"},{"kty":"oct","kid":"5fYxOufYVIeoWCU7a3JXsw","k":"-RtPArUTgoDtHeFnSwZWOw"}],"type":"temporary"}|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0&cookie=__hdnea__=st=1774747761~exp=1774834161~acl=/*~hmac=b980234cd673a80375bf0d7c2a4e6f352c31a167835f56d6399e06430de3078f

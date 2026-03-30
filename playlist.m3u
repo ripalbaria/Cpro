@@ -1,5 +1,21 @@
 #EXTM3U
-# UPDATED: 2026-03-30 06:08 PM IST
+# UPDATED: 2026-03-30 07:38 PM IST
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcf479dce804483b35c00658d135bac0:07d52667cd9d7a8294aeb65f0211f586
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xuhexd0axc/out/v1/f448c404f8df4b7e981df6d539a3a0c1/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings (SKY CRICKET HD)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings (FOX CRICKET - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kick.com/api/v2/channels/%s
+gift15gta
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings (SD SERVER)
+http://195.178.110.25/hls/HHHHHH.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings (STAR HIN - IN)
+https://jcevents-hotstar.pages.dev/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&cookie=hdntl=exp=1774917005~acl=%2f*~id=6d43e761798d36ec05a613eb9ce9f8e6~data=hdntl~hmac=49c2d7ef63598c16319a388939cb28edd92ab9ae5bbb752533ea6d96c35cc970&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings (STAR TEL - IN)
+https://jcevents-hotstar.pages.dev/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&cookie=hdntl=exp=1774917005~acl=%2f*~id=6d43e761798d36ec05a613eb9ce9f8e6~data=hdntl~hmac=49c2d7ef63598c16319a388939cb28edd92ab9ae5bbb752533ea6d96c35cc970&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings (STAR TAM - IN)
+https://jcevents-hotstar.pages.dev/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&cookie=hdntl=exp=1774917005~acl=%2f*~id=6d43e761798d36ec05a613eb9ce9f8e6~data=hdntl~hmac=49c2d7ef63598c16319a388939cb28edd92ab9ae5bbb752533ea6d96c35cc970&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com

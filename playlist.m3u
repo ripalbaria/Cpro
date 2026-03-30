@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-03-30 09:45 AM IST
+# UPDATED: 2026-03-30 11:42 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Lahore Qalandars vs Karachi Kings", Lahore Qalandars vs Karachi Kings (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,3 +55,5 @@ https://mainstreams.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.o
 https://instreams.live/US/NBA2/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Miami Heat", Indiana Pacers vs Miami Heat (CRICFy SD)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Rajasthan Royals vs Chennai Super Kings", Rajasthan Royals vs Chennai Super Kings ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

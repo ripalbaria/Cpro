@@ -1,3 +1,11 @@
 #EXTM3U
-# UPDATED: 2026-03-31 05:32 AM IST
+# UPDATED: 2026-03-31 08:57 AM IST
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Punjab Kings vs Gujarat Titans", Punjab Kings vs Gujarat Titans ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Peshawar Zalmi", Islamabad United vs Peshawar Zalmi ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/28/image/dark" group-title="India vs Hong Kong", India vs Hong Kong ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

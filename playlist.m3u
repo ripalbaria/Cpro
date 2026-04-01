@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-02 12:05 AM IST
+# UPDATED: 2026-04-02 01:11 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -51,5 +51,9 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
 https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141|cookie=__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Chicago Bulls vs Indiana Pacers", Chicago Bulls vs Indiana Pacers ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Chicago Bulls vs Indiana Pacers", Chicago Bulls vs Indiana Pacers (CRICFy LIVE)
+https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Chicago Bulls vs Indiana Pacers", Chicago Bulls vs Indiana Pacers (CRICFy HD)
+https://instreams.live/US/NBA6/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Chicago Bulls vs Indiana Pacers", Chicago Bulls vs Indiana Pacers (CRICFy SD)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8

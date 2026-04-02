@@ -1,14 +1,48 @@
 #EXTM3U
-# UPDATED: 2026-04-02 05:35 PM IST
+# UPDATED: 2026-04-02 07:23 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Rawalpindiz vs Karachi Kings", Rawalpindiz vs Karachi Kings (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Rawalpindiz vs Karachi Kings", Rawalpindiz vs Karachi Kings (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=734044b9d3828b949eee3411fea9d483:8f5f0167ce13ea788cce19f552f812a3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jmcpnhnqaa/out/v1/245398c496c449eba548bc3176b599eb/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Rawalpindiz vs Karachi Kings", Rawalpindiz vs Karachi Kings (PSL ENGLISH - AQ)
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Rawalpindiz vs Karachi Kings", Rawalpindiz vs Karachi Kings (PSL URDU - AQ)
+https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Rawalpindiz vs Karachi Kings", Rawalpindiz vs Karachi Kings (PTV SPORTS HD)
+https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Rawalpindiz vs Karachi Kings", Rawalpindiz vs Karachi Kings (TAMASHA - PK)
+https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=986e2a9cba0cdcdc0fce71908249ae63:f5035dff716cd2a0e9392bb10c126a98
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/woq7brvajz/out/v1/86f8068f569543858d2093c80d35bfa8/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (SKY CRICKET HD)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (STAR ENG - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9|cookie=__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (STAR HIN - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9|cookie=__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (STAR TAM - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9|cookie=__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (STAR TEL - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9|cookie=__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (STAR KAN - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
+https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9|cookie=__hdnea__=st=1775134989~exp=1775156589~acl=/*~hmac=97ad0a96fe671b15cc4883cd1dc9dad3b61107f0de7aabad072ac783cda88fa9&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Quetta Gladiators", Islamabad United vs Quetta Gladiators (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247

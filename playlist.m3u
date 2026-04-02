@@ -1,59 +1,15 @@
 #EXTM3U
-# UPDATED: 2026-04-02 10:55 AM IST
+# UPDATED: 2026-04-02 12:15 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Hyderabad Kingsmen", Multan Sultans vs Hyderabad Kingsmen (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4385fd6e239fcc50d72d64ee99a2e18:bd512bc382ed7936781b07cb1d26e3e0
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eclr6dt4qh/out/v1/af51016eb6f84d8fb2d16afd7f823469/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Hyderabad Kingsmen", Multan Sultans vs Hyderabad Kingsmen (PSL ENGLISH - AQ)
-https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Hyderabad Kingsmen", Multan Sultans vs Hyderabad Kingsmen (PSL URDU - AQ)
-https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Hyderabad Kingsmen", Multan Sultans vs Hyderabad Kingsmen (WILLOW - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Hyderabad Kingsmen", Multan Sultans vs Hyderabad Kingsmen (TAMASHA - PK)
-https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=749618dc54f5bc958a67e38339147bf4:e746efd1bcc637ae2008043357c7ff6e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zw4c5ukci9/out/v1/00ca9d82ccf441cbbfcb84a235eca9e1/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (CRICBUZZ ENG - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149662/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775134851~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149662,debug4xx%3afalse,country%3aAE~hmac=e9d47e6df3653b61458d600a6b397130a79bbd64d7e630335220ce403bd52828
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (CRICBUZZ HIN - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149662/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775134851~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149662,debug4xx%3afalse,country%3aAE~hmac=e9d47e6df3653b61458d600a6b397130a79bbd64d7e630335220ce403bd52828
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (SKY CRICKET HD)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (CRICFy LIVE)
-http://195.178.110.25/hls/fafafaQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (STAR ENG - IN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141|cookie=__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (STAR HIN - IN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141|cookie=__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (STAR TAM - IN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141|cookie=__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (STAR TEL - IN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141|cookie=__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Lucknow Super Giants vs Delhi Capitals", Lucknow Super Giants vs Delhi Capitals (STAR KAN - IN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
-https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141|cookie=__hdnea__=st=1775049122~exp=1775135522~acl=/*~hmac=d869bd18e8e6e573dfe44100cee60540718fe01e84e4678da42ada11e95e7141&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Chicago Bulls vs Indiana Pacers", Chicago Bulls vs Indiana Pacers (CRICFy LIVE)
-https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Chicago Bulls vs Indiana Pacers", Chicago Bulls vs Indiana Pacers (CRICFy HD)
-https://instreams.live/US/NBA6/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Chicago Bulls vs Indiana Pacers", Chicago Bulls vs Indiana Pacers (CRICFy SD)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Rawalpindiz vs Karachi Kings", Rawalpindiz vs Karachi Kings (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Quetta Gladiators", Islamabad United vs Quetta Gladiators (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25/image/dark" group-title="Cambridge United vs Swindon Town", Cambridge United vs Swindon Town (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-02 02:12 PM IST
+# UPDATED: 2026-04-02 03:12 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9,7 +9,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Kolkata Knight Riders vs Sunrisers Hyderabad", Kolkata Knight Riders vs Sunrisers Hyderabad (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Quetta Gladiators", Islamabad United vs Quetta Gladiators (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Quetta Gladiators", Islamabad United vs Quetta Gladiators (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Quetta Gladiators", Islamabad United vs Quetta Gladiators (WILLOW - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3ab0b339a3793b694756221f489e556:d60001d5b773d766df8c717701fda847
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u6h6kvmpix/out/v1/672ef74518df43b896d9a89abc11b5cd/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Quetta Gladiators", Islamabad United vs Quetta Gladiators (PSL ENGLISH - AQ)
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Quetta Gladiators", Islamabad United vs Quetta Gladiators (PSL URDU - AQ)
+https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Islamabad United vs Quetta Gladiators", Islamabad United vs Quetta Gladiators (TAMASHA - PK)
+https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25/image/dark" group-title="Cambridge United vs Swindon Town", Cambridge United vs Swindon Town (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

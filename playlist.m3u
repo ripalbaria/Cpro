@@ -1,13 +1,53 @@
 #EXTM3U
-# UPDATED: 2026-04-03 07:17 PM IST
+# UPDATED: 2026-04-03 08:03 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf4a5c832ba137a31310a5f4f3870cce:50a644fbe5f123ebf74454c272766861
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (WILLOW ENG - AQ)
+https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149684/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775309959~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149684,debug4xx:false,country:AE~hmac=4b684370c04d109e4e7088c4e22f20c0caeed68e703ea4f5c889c2d57eb38192
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (WILLOW HIN - AQ)
+https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149684/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775309959~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149684,debug4xx:false,country:AE~hmac=4b684370c04d109e4e7088c4e22f20c0caeed68e703ea4f5c889c2d57eb38192
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (SKY CRICKET HD)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Lahore Qalandars", Multan Sultans vs Lahore Qalandars (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+http://195.178.110.25/hls/rfffQ.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (STAR ENG - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775222161~exp=1775243761~acl=/*~hmac=3b7c42d8bd56d7b60eae822c83cc79390bef5a04337a2cec03966acf186c50cd|cookie=__hdnea__=st=1775224847~exp=1775246447~acl=/*~hmac=ac1ece3bca8825b6ae0d54702a21d503559799593c2e5f03e6901ecfebc7c5c2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (STAR HIN - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775222161~exp=1775243761~acl=/*~hmac=3b7c42d8bd56d7b60eae822c83cc79390bef5a04337a2cec03966acf186c50cd|cookie=__hdnea__=st=1775224847~exp=1775246447~acl=/*~hmac=ac1ece3bca8825b6ae0d54702a21d503559799593c2e5f03e6901ecfebc7c5c2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (STAR KAN - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775222161~exp=1775243761~acl=/*~hmac=3b7c42d8bd56d7b60eae822c83cc79390bef5a04337a2cec03966acf186c50cd|cookie=__hdnea__=st=1775224847~exp=1775246447~acl=/*~hmac=ac1ece3bca8825b6ae0d54702a21d503559799593c2e5f03e6901ecfebc7c5c2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (STAR TAM - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775222161~exp=1775243761~acl=/*~hmac=3b7c42d8bd56d7b60eae822c83cc79390bef5a04337a2cec03966acf186c50cd|cookie=__hdnea__=st=1775224847~exp=1775246447~acl=/*~hmac=ac1ece3bca8825b6ae0d54702a21d503559799593c2e5f03e6901ecfebc7c5c2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (STAR TEL - IN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775222161~exp=1775243761~acl=/*~hmac=3b7c42d8bd56d7b60eae822c83cc79390bef5a04337a2cec03966acf186c50cd|cookie=__hdnea__=st=1775224847~exp=1775246447~acl=/*~hmac=ac1ece3bca8825b6ae0d54702a21d503559799593c2e5f03e6901ecfebc7c5c2&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Lahore Qalandars", Multan Sultans vs Lahore Qalandars (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=588bd7dc74db5d293d56de88ff51bbbb:4de42d17a6f484405b15e18dd607f676
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k2699dsdaw/out/v1/95ae1e16f1574a86be6e4da822100025/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Lahore Qalandars", Multan Sultans vs Lahore Qalandars (PSL ENG - AQ)
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Lahore Qalandars", Multan Sultans vs Lahore Qalandars (PSL URDU - AQ)
+https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="Multan Sultans vs Lahore Qalandars", Multan Sultans vs Lahore Qalandars (TAMASHA - PK)
+https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Delhi Capitals vs Mumbai Indians", Delhi Capitals vs Mumbai Indians (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Charlotte Hornets vs Indiana Pacers", Charlotte Hornets vs Indiana Pacers (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

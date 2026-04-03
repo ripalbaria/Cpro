@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-03 08:03 PM IST
+# UPDATED: 2026-04-03 08:56 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,6 +15,10 @@ https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149684/master.m3u8?
 https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149684/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775309959~acl=/*~id=xunivamy@denipl.com~data=hdntl,flavour:CB,matchId:149684,debug4xx:false,country:AE~hmac=4b684370c04d109e4e7088c4e22f20c0caeed68e703ea4f5c889c2d57eb38192
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (FOX CRICKET HD)
+https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (IPL HINDI - HD)
+https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-ipltata.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (CRICFy LIVE)
 http://195.178.110.25/hls/rfffQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="Chennai Super Kings vs Punjab Kings", Chennai Super Kings vs Punjab Kings (STAR ENG - IN)

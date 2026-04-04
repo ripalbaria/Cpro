@@ -1,43 +1,43 @@
 #EXTM3U
-# UPDATED: 2026-04-04 03:50 PM IST
+# UPDATED: 2026-04-04 04:26 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="New Zealand Women vs South Africa Women", New Zealand Women vs South Africa Women (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f9bf2fc5edef8f9c01b2d080645fa06f:37ef689ddf8619259b02368d2b538b86
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gkte6ghqa9/out/v1/70f3278bc2bc4fdaaf07715fe5bd10bc/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ ENG - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (CRICBUZZ ENG - AQ)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ HIN - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (CRICBUZZ HIN - AQ)
 https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149695/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775379903~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149695,debug4xx%3afalse,country%3aAE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX CRICKET)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (FOX CRICKET)
 https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR HINDI HD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (STAR HINDI HD)
 https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-ipltata.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (CRICFy LIVE)
 http://195.178.110.25/hls/DCCCQQQQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR ENG - IN)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (STAR ENG - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775282192~exp=1775303792~acl=/*~hmac=b7b1830742c771e117f416ebc5a7c090934854598cf3668dd3980976f499e63c|cookie=__hdnea__=st=1775295904~exp=1775317504~acl=/*~hmac=12e61c794a9c1fb322cda0b72a37730af43d708ce51066ef31f46d52698532e0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR HIN - IN)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (STAR HIN - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775282192~exp=1775303792~acl=/*~hmac=b7b1830742c771e117f416ebc5a7c090934854598cf3668dd3980976f499e63c|cookie=__hdnea__=st=1775295904~exp=1775317504~acl=/*~hmac=12e61c794a9c1fb322cda0b72a37730af43d708ce51066ef31f46d52698532e0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR TAM - IN)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (STAR TAM - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775282192~exp=1775303792~acl=/*~hmac=b7b1830742c771e117f416ebc5a7c090934854598cf3668dd3980976f499e63c|cookie=__hdnea__=st=1775295904~exp=1775317504~acl=/*~hmac=12e61c794a9c1fb322cda0b72a37730af43d708ce51066ef31f46d52698532e0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR TEL - IN)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (STAR TEL - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775282192~exp=1775303792~acl=/*~hmac=b7b1830742c771e117f416ebc5a7c090934854598cf3668dd3980976f499e63c|cookie=__hdnea__=st=1775295904~exp=1775317504~acl=/*~hmac=12e61c794a9c1fb322cda0b72a37730af43d708ce51066ef31f46d52698532e0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR KAN - IN)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 11", IPL 11 (STAR KAN - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775282192~exp=1775303792~acl=/*~hmac=b7b1830742c771e117f416ebc5a7c090934854598cf3668dd3980976f499e63c|cookie=__hdnea__=st=1775295904~exp=1775317504~acl=/*~hmac=12e61c794a9c1fb322cda0b72a37730af43d708ce51066ef31f46d52698532e0&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0

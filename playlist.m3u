@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-05 05:56 PM IST
+# UPDATED: 2026-04-05 07:03 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,12 +35,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e|cookie=__hdnea__=st=1775382306~exp=1775468706~acl=/*~hmac=986459458372b914673f1df926696f51cc5a125f64fab08626921086c734a595&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=242a0612eb2cf817fa69cd18ee140450:bef3f38b21b088a7f0644b5169fcfcae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tug1yvvlko/out/v1/809fadb196f043b8988ac1505100a204/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=da72912e65cf1077a732616c17c9943d:65374c514729172b57bc243897078f91
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oes6ybfnm1/out/v1/9f29cb13a8f04ad38bfe900a18d0ed35/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (CRICBUZZ ENG - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149699/master.m3u8?|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775379903~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149695,debug4xx%3afalse,country%3aAE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc
+https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149721/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (CRICBUZZ HIN - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149699/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=100.42.240.25&cookie=hdntl=exp=1775379903~acl=%2f*~id=xunivamy%40denipl.com~data=hdntl,flavour%3aCB,matchId%3a149695,debug4xx%3afalse,country%3aAE~hmac=d9b4e38e10f1344fa9a3ef37f87920243c7cf9808ba64516e7c23cb32dfd40cc
+https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149721/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (STAR ENG - IN)
@@ -65,8 +65,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775298824~exp=1775320424~acl=/*~hmac=797238bcea2f8463ac803734a474acadbf350532ebabe151f2a9c179628036c5|cookie=__hdnea__=st=1775310318~exp=1775331918~acl=/*~hmac=a5d9ed33de41288c7f2eb12676871bdba802abfd852baf3c565fa28496875389&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4204a7d9424f8df74834ec527fc7a88c:82f01ece85a35ee63dc9e5439195a060
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jcajfekesq/out/v1/d32008caa1934f359d26b595fb303a88/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=55722a2e6d8dd9f8fa7ba665e508cf78:cd9e3e681a273ce4b82af86e85772b80
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/egzri6ewen/out/v1/624fcfd9bb744b8c8b3338dec50d4f5a/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL ENG - AQ)
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL URDU - AQ)

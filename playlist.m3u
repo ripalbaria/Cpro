@@ -1,14 +1,14 @@
 #EXTM3U
-# UPDATED: 2026-04-06 05:32 PM IST
+# UPDATED: 2026-04-06 07:13 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baddc3119d7cab50853adf9d2299d961:adfcc1f4fbc3bcbe56a8fc0c31921922
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gw0wf3rp71/out/v1/21f066e10b854c9fa0c99c9c5d881836/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b83f5ca011de1ebfd8a121c84961ca01:609ca477cab538803f2a4289f7e55c24
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ ENG - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29
+https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149732/master.m3u8?hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ HIN - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149710/master.m3u8?hdntl=exp=1775467524~acl=/*~id=a61b5a07-bf57-4f17-85ba-c8c446a1080f~data=hdntl~hmac=022976054f9ce7e6e98c94dd7195e3b89f99c7cf60cfd2c945bd265a7f33ff5b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29
+https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149732/master.m3u8?hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
@@ -35,8 +35,8 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e|cookie=__hdnea__=st=1775382306~exp=1775468706~acl=/*~hmac=986459458372b914673f1df926696f51cc5a125f64fab08626921086c734a595&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55722a2e6d8dd9f8fa7ba665e508cf78:cd9e3e681a273ce4b82af86e85772b80
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/egzri6ewen/out/v1/624fcfd9bb744b8c8b3338dec50d4f5a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=837843d1228803337dea37c6568b8b18:43c6d2482a66e35b4a58a3b829bd478d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL ENG - AQ)
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL URDU - AQ)

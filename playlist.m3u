@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-06 07:13 PM IST
+# UPDATED: 2026-04-06 08:03 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,23 +16,23 @@ http://195.178.110.25/hls/DCCCQQQQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR ENG - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e|cookie=__hdnea__=st=1775382306~exp=1775468706~acl=/*~hmac=986459458372b914673f1df926696f51cc5a125f64fab08626921086c734a595&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR HIN - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e|cookie=__hdnea__=st=1775382306~exp=1775468706~acl=/*~hmac=986459458372b914673f1df926696f51cc5a125f64fab08626921086c734a595&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR TAM - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e|cookie=__hdnea__=st=1775382306~exp=1775468706~acl=/*~hmac=986459458372b914673f1df926696f51cc5a125f64fab08626921086c734a595&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR TEL - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e|cookie=__hdnea__=st=1775382306~exp=1775468706~acl=/*~hmac=986459458372b914673f1df926696f51cc5a125f64fab08626921086c734a595&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR KAN - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1775369634~exp=1775391234~acl=/*~hmac=0578d70c0b22cd184725c7bd99238e0e7ed3dcbb841aa168ec31bbf16b71df1e|cookie=__hdnea__=st=1775382306~exp=1775468706~acl=/*~hmac=986459458372b914673f1df926696f51cc5a125f64fab08626921086c734a595&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=837843d1228803337dea37c6568b8b18:43c6d2482a66e35b4a58a3b829bd478d

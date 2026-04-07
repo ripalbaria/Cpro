@@ -1,14 +1,14 @@
 #EXTM3U
-# UPDATED: 2026-04-07 06:10 PM IST
+# UPDATED: 2026-04-07 07:40 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b83f5ca011de1ebfd8a121c84961ca01:609ca477cab538803f2a4289f7e55c24
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=eeb93ab4a721511857d823b652939a92:5a9b1a1272fb5bb2d08ddbc25fae0fc1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nwhydqiejb/out/v1/64918808c05b4176bcb0159a54346475/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ ENG - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149732/master.m3u8?hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29
+https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149743/master.m3u8|X-Forwarded-For=100.42.240.25&Cookie=hdntl=exp=1775569741~acl=%2f*~id=49e5df07-33d4-4b90-9b81-b79544f651f6~data=hdntl~hmac=d332c94c92aa40797f572fc0203d622d92814ea9500ce3a81dafc62660c708e2&user-agent=jass/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ HIN - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149732/master.m3u8?hdntl=exp=1775567860~acl=/*~id=52092b4a-fc59-4c6f-b51a-831253fed535~data=hdntl~hmac=af89c05d28a73555d9190bc6ab93e592ee15496af3dc1d52ec2164cb880cd71b|X-Forwarded-For=100.42.240.25&User-Agent=MXPlayer%2F1.87.0+%28Linux%3B+Android+14%3B+en-US%3B+M8241J56CG+Build%2FKR7.241112.184%29
+https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149743/master.m3u8|X-Forwarded-For=100.42.240.25&Cookie=hdntl=exp=1775569741~acl=%2f*~id=49e5df07-33d4-4b90-9b81-b79544f651f6~data=hdntl~hmac=d332c94c92aa40797f572fc0203d622d92814ea9500ce3a81dafc62660c708e2&user-agent=jass/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
@@ -16,23 +16,23 @@ http://195.178.110.25/hls/DCCCQQQQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR ENG - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd|cookie=__hdnea__=st=1775566807~exp=1775588407~acl=/*~hmac=7a3946e90f000edcfd08ed4de36ecb4979439eb843a48df4bd71654152a3fc75&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR HIN - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd|cookie=__hdnea__=st=1775566807~exp=1775588407~acl=/*~hmac=7a3946e90f000edcfd08ed4de36ecb4979439eb843a48df4bd71654152a3fc75&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR TAM - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd|cookie=__hdnea__=st=1775566807~exp=1775588407~acl=/*~hmac=7a3946e90f000edcfd08ed4de36ecb4979439eb843a48df4bd71654152a3fc75&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR TEL - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd|cookie=__hdnea__=st=1775566807~exp=1775588407~acl=/*~hmac=7a3946e90f000edcfd08ed4de36ecb4979439eb843a48df4bd71654152a3fc75&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR KAN - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd|cookie=__hdnea__=st=1775482205~exp=1775503805~acl=/*~hmac=415b2cd4d71812d5e8899e670e216ceb9e323143fd3ce0d5d7a697555a9b641c&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd|cookie=__hdnea__=st=1775566807~exp=1775588407~acl=/*~hmac=7a3946e90f000edcfd08ed4de36ecb4979439eb843a48df4bd71654152a3fc75&referer=https://www.jiotv.com/&User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=837843d1228803337dea37c6568b8b18:43c6d2482a66e35b4a58a3b829bd478d
@@ -45,3 +45,5 @@ https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TAMASHA - PK)
 https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Minnesota Timberwolves", Indiana Pacers vs Minnesota Timberwolves (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

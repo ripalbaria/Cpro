@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-10 03:45 PM IST
+# UPDATED: 2026-04-10 04:44 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,11 +53,3 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TAMASHA - PK)
 https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Brooklyn Nets vs Indiana Pacers", Brooklyn Nets vs Indiana Pacers (CRICFy LIVE)
-https://instreams.live/US/NBA3/index.m3u8?st=SportzX|Referer=https://streamfree.click/&Origin=https://streamfree.click
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Brooklyn Nets vs Indiana Pacers", Brooklyn Nets vs Indiana Pacers (CRICFy HD)
-https://mainstreams.pro/hls/hfsdqtaxvb67.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Brooklyn Nets vs Indiana Pacers", Brooklyn Nets vs Indiana Pacers (HOME CAM)
-https://webcast-cdn.b-cdn.net/newz/newz/154.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Brooklyn Nets vs Indiana Pacers", Brooklyn Nets vs Indiana Pacers (AWAY CAM)
-https://pro.packcast.top/newz/5xyJcnUCNM3JjTT2/156.m3u8

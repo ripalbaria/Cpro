@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-12 06:00 PM IST
+# UPDATED: 2026-04-12 07:09 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -39,14 +39,18 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mp
 https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8a4acb421aa98dcb5748cd92a8dcb39:c226dc3bde109562804e214bf89d0d7f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eajgowpkve/out/v1/1e448b3f09884547b77af6c9056b404d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ec31e8a0ed9597f6e7f9732ce4e7c88c:169e244c2c08a4de6e274a5c8ea9f619
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nze1joywnu/out/v1/d626ba5f1a07483b8c6d10372911dd19/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (CRICBUZZ ENG - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149790/master.m3u8|cookie=hdntl=exp=1775986490~acl=%2f*~id=5f6820fc-0a2a-46b3-9a40-911744cf338e~data=hdntl~hmac=fdc7793a857e0e0a75d3260e1069c14d45683c3758346e3bc2de92b26ea6899d&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25
+https://livevideos.cricbuzz.com/hls/live/2123398/WCB-CA/9241/149812/master.m3u8|cookie=hdntl=exp=1776070320~acl=%2f*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (CRICBUZZ HIN - AQ)
-https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149790/master.m3u8|cookie=hdntl=exp=1775986490~acl=%2f*~id=5f6820fc-0a2a-46b3-9a40-911744cf338e~data=hdntl~hmac=fdc7793a857e0e0a75d3260e1069c14d45683c3758346e3bc2de92b26ea6899d&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25
+https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149812/master.m3u8|cookie=hdntl=exp=1776070320~acl=%2f*~id=5ff9c0a2-5fa1-43f2-aa74-47026a8103a4~data=hdntl~hmac=128f183c74e63e39498a689799333d833b28abfcee7ffffd4a479df52f23cc52&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Chrome/146.0.0.0%20Safari/537.36&X-Forwarded-For=100.42.240.25
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (SKY NZ - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (STAR ENG - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c

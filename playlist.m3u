@@ -1,10 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-04-15 06:14 PM IST
+# UPDATED: 2026-04-15 07:44 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d187872df30a9360f639da8903fde73:1c3fbee6fee104e18fa65c1c75fae42c
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9csh3lm5hi/out/v1/115c36157e1243bba41d120bd298dbf5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1d6d9c164f50d0c058c38ea2574b55ab:007b6b520787fcc78a6a56fd6a149df2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8kgmavmivc/out/v1/394cc62641f1452bb1f5919a9114a57a/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a70902dcc79493f98d00064d93e8460:eb950593a82a15994676e4431113b551
@@ -15,8 +15,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 http://195.178.110.37/hls/LJJJQQQQq.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbbe573c303a8e1d3b09fd2eb2ff2749:8f4b6a6bb322c33afa6b096d20f0c297
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/sdrrf1ybh8/out/v1/90596312358241ba8a7276f658269cb0/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=887ae0752cfba3417cbcc9bf8f963ef4:030ca1f19660ae470e73a2fc3b845dc8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j0wcwtmnnu/out/v1/6052eee13e6f43009ba6bb5c1df57a59/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL ENG - AQ)
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL URDU - AQ)

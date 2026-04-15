@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-15 11:14 PM IST
+# UPDATED: 2026-04-16 12:17 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -31,3 +31,15 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (CRICFy LIVE)
 http://93.123.109.82/hls/HOOOO.m3u8|Referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8494e1b33bc32413ccf06da43dab1e18:cc4c3280bbfaf97da35004ed296f1699
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jbksiyyogj/out/v1/091cc2a45cba4dfe8c16d1842ec4019e/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (PSL ENGLISH - AQ)
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (PSL URDU - AQ)
+https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (TAMASHA - PK)
+https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (T SPORTS HD)
+http://103.175.242.10:8080/tsports1/index.m3u8

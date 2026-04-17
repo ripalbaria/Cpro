@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-17 07:35 PM IST
+# UPDATED: 2026-04-17 08:42 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9,12 +9,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/e0s1ohyu2t/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d43c0cbfaf9fa9334c3ce2d477ab22ee:6a161f989374f4ccecd6736c4a6a4f41
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/e0s1ohyu2t/out/v1/7a645e0b4e0449f2a8953ca6e474e435/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX CRICKET HD)
+https://cdn.damitv.pro/iptv-proxy/streamed/play?source=admin&id=ppv-gujarat-titans-vs-kolkata-knight-riders&streamNo=2
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS NZ)
-https://tflixcdn.site/SKYCRICKET/index.fmp4.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
-http://195.178.110.55/hls/keeeqqqqQ.m3u8|Referer=http://www.fawanews.sc/
+http://195.178.110.55/hls/FERRR.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=49eff653bfb18cc24d68e9569930cd23:1e02ca6526ecc9c927d0972201ab63a0
@@ -30,7 +30,9 @@ https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TAMASHA - PK)
 https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Al-Ahli vs Johor Darul Tazim", Al-Ahli vs Johor Darul Tazim (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+https://live.vivo200.com/live/hd-en-1-4531040.m3u8?txSecret=5ca87150f90ab2effc19f7c07e10eb1d&txTime=69E28CE4|Referer=https://player.787200.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/463/image/dark" group-title="Al-Ahli vs Johor Darul Tazim", Al-Ahli vs Johor Darul Tazim (SPORTCLUB HD)
+https://cdn.damitv.pro/stream/Sport%20Klub%201
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="banvsnz", banvsnz (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7

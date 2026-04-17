@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-17 01:38 PM IST
+# UPDATED: 2026-04-17 03:14 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32,7 +32,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="banvsnz", banvsnz (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="banvsnz", banvsnz (FANCODE - BD)
 https://bd-mc-fblive.fancode.com/mumbai/142066_english_hls_7f8785aea031495_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="banvsnz", banvsnz (T SPORTS - HD)
@@ -41,3 +41,5 @@ http://sm-monirul.top/AyNa/play.php?id=fc95d30e-5323-4c12-bb38-7a1e3f04acc2&e=.m
 https://np-mc-fblive.fancode.com/mumbai/142066_english_hls_7f8785aea031495_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="banvsnz", banvsnz (T SPORTS - SD)
 https://buy.ottbangla.com/4k/amd/stream.php?id=T-Sports
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="banvsnz", banvsnz (SKY SPORTS NZ)
+https://cdn.damitv.pro/stream/Sky%20Sport%202

@@ -1,16 +1,14 @@
 #EXTM3U
-# UPDATED: 2026-04-18 02:38 PM IST
+# UPDATED: 2026-04-18 03:28 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d43c0cbfaf9fa9334c3ce2d477ab22ee:6a161f989374f4ccecd6736c4a6a4f41
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/e0s1ohyu2t/out/v1/7a645e0b4e0449f2a8953ca6e474e435/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=37552b55f620758d16945215d71e8419:7f3f418aaeca0f05a3291bb5c9db2992
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aluw6sbekd/out/v1/9d1d6c30ffb54e49ada82f217509d5f0/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d43c0cbfaf9fa9334c3ce2d477ab22ee:6a161f989374f4ccecd6736c4a6a4f41
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/e0s1ohyu2t/out/v1/7a645e0b4e0449f2a8953ca6e474e435/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX CRICKET HD)
-https://cdn.damitv.pro/iptv-proxy/streamed/play?source=admin&id=ppv-gujarat-titans-vs-kolkata-knight-riders&streamNo=2
+#KODIPROP:inputstream.adaptive.license_key=37552b55f620758d16945215d71e8419:7f3f418aaeca0f05a3291bb5c9db2992
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/aluw6sbekd/out/v1/9d1d6c30ffb54e49ada82f217509d5f0/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)

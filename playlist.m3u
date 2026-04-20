@@ -1,16 +1,18 @@
 #EXTM3U
-# UPDATED: 2026-04-20 05:33 PM IST
+# UPDATED: 2026-04-20 07:38 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf8dc1675617f4e166c6caecd68fad93:6bd5dd50f57c78fc7386aa286e391d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uxfgeomshq/out/v1/821a400ce1774390830544a8b83391ff/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b423817670d6a5c883baca247286a26b:385964b47c3e00da4c322184a4ef10b8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x9qixsryxv/out/v1/130bd90dfebd445397a9f63d9610f789/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ ENG - AQ)
-https://iplstream.noon.com/hls/live/2098770/NOON/9241/151829/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23&cookie=hdntl=exp=1776679696~acl=%2f*~id=0f315406-f1c9-43f7-a925-01554eb0416f~data=hdntl~hmac=1640614048e473889bc238f24c637743843b589052be065453ebaf61b8838b93
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ad896249791503a935612006bbbff58:904d91b7dc5b652ea8a2dbfebc79fc63
+https://dck1-ak-livedazn.akamaized.net/out/v1/761f422bb93edb7b/96b42035fc1c4567a91116260310da87/index.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
-http://195.178.110.55/hls/FERRR.m3u8|Referer=http://www.fawanews.sc/
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/EGbV71nCnscCcrpn6KgMb8qNpJ78nutbWp341Hyzts-ALiTCWAbqADwexPu_QEPMAXjH6phSnn8n4nD-TEyBMDj2zuIILcv7R0H6hJvSXD7DAxaebNgcaSUFvgmZ2v7hP_0n4fLkgvh-bxyMVKFUoMGcNPzITPDr6JY2wWD1-JjZEMq6X7SSavGB8TBSUtc5ovX4pHAM5IW4btiax5N3UlzemfYoqhXA218foVy6a7cV1MF0hB7dZLelkHdzEzCqsjkeJwH9xUjU5iZRa9ysWRXdX1-17O8u0OdTPiHas7AGKehDbpq_k4O-V9IJznxD/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247

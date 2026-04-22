@@ -1,20 +1,18 @@
 #EXTM3U
-# UPDATED: 2026-04-22 09:17 PM IST
+# UPDATED: 2026-04-22 10:16 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7740cce3149c7ddd809bebbaa88e9265:22e20434432a7a9b868a1dd77f990ec0
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gxdufzucae/out/v1/36bedd1c99be4ddda1c3f48efd44eb99/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
-https://vsd273.okcdn.ru/cmaf/15486383098623/sig/12CtEuwN3v8/expires/1776947340856/srcIp/152.59.145.24/urls/185.226.55.89/clientType/36/srcAg/CHROME/mid/14109681141759/get/hls_14109681141759.wzcVJYGf6DI.m3u8
+https://cdn.damitv.live/ppv-extract/play?url=https%3A%2F%2Fembedsports.top%2Fembed%2Fadmin%2Fppv-lucknow-super-giants-vs-rajasthan-royals%2F2
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW HIN - AQ)
 https://forthwall.zenostreams-cdn-001.com/out/v1/c1bfb892ebaf2a48e70e9d2d352d5847/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX CRICKET HD)
-https://cdn.damitv.live/ppv-extract/play?url=https%3A%2F%2Fpooembed.eu%2Fembed%2Fipl%2F2026-04-21%2Fsrh-dc
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (JIO HIN - AQ)
-https://valverdeaethegoat.hogix28221.workers.dev/live.m3u8|User-agent=Mozilla/5.0 (Linux; Android 13; RMX3363 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Hyscvwnv/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36&referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev
+https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8|referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
-http://195.178.110.40/hls/UPPPZQQ.m3u8|Referer=http://www.fawanews.sc/
+http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247

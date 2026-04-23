@@ -1,10 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-04-23 06:14 PM IST
+# UPDATED: 2026-04-23 07:53 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7740cce3149c7ddd809bebbaa88e9265:22e20434432a7a9b868a1dd77f990ec0
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gxdufzucae/out/v1/36bedd1c99be4ddda1c3f48efd44eb99/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=72e996f31b04e633c00ec579c8fb39e9:4b87096cb3e8e359097aa6092fb1f455
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/88tcrziisd/out/v1/14a712da109749bc8160010644e21708/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://cdn.damitv.live/ppv-extract/play?url=https%3A%2F%2Fembedsports.top%2Fembed%2Fadmin%2Fppv-lucknow-super-giants-vs-rajasthan-royals%2F2
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW HIN - AQ)
@@ -15,8 +15,8 @@ https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8|referer=https://matcheslink
 http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75960941f09c31e77d7e3c0f2dca9551:3d9c0cf3b7b559ab2866670f2034a303
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zgagchgakq/out/v1/fb7b0011aa0b475d90033febc954b759/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=46a0a2c3a580cc0c9fe5bf8f990ef3d9:87b70bf2e8dda1f6b48ef283f0c13459
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fjnwrl8qdw/out/v1/106d1fbdb889432a844b85fc3223415b/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL ENG - PAK)
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL URDU - PAK)

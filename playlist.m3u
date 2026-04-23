@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-24 02:57 AM IST
+# UPDATED: 2026-04-24 03:35 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13,20 +13,6 @@ https://forthwall.zenostreams-cdn-001.com/out/v1/c1bfb892ebaf2a48e70e9d2d352d584
 https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8|referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
 http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=46a0a2c3a580cc0c9fe5bf8f990ef3d9:87b70bf2e8dda1f6b48ef283f0c13459
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fjnwrl8qdw/out/v1/106d1fbdb889432a844b85fc3223415b/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL ENG - PAK)
-https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL URDU - PAK)
-https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TAMASHA - PK)
-https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TapMad English - AQ)
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_9a5s8d2f5/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TapMad Urdu - AQ)
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_P2U8B2G5T6/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f90b2f4017e35819c63e97d8fdd05343:baeaff287a35b0d6e416953ce9867beb

@@ -1,18 +1,38 @@
 #EXTM3U
-# UPDATED: 2026-04-24 06:12 PM IST
+# UPDATED: 2026-04-24 07:46 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=72e996f31b04e633c00ec579c8fb39e9:4b87096cb3e8e359097aa6092fb1f455
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/88tcrziisd/out/v1/14a712da109749bc8160010644e21708/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
-https://cdn.damitv.live/ppv-extract/play?url=https%3A%2F%2Fembedsports.top%2Fembed%2Fadmin%2Fppv-lucknow-super-giants-vs-rajasthan-royals%2F2
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW HIN - AQ)
-https://forthwall.zenostreams-cdn-001.com/out/v1/c1bfb892ebaf2a48e70e9d2d352d5847/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=010fb417309c2465556825c02413a153:1f95533191c36d9c2ee0d2e4d4c476e9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g1dfcfuab2/out/v1/3e19da83817d4e24911c982e1416ab50/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ NOON)
+https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX SPORTS FHD)
+https://cdn.damitv.live/iptv-proxy/streamed/play?source=admin&id=ppv-royal-challengers-bengaluru-vs-gujarat-titans&streamNo=1
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX CRICKET HD)
-https://lchd-314.zenostreams-cdn-001.com/fox501.m3u8|referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
+https://billatv.modsdone.com/starshare.php?id=1856.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW HIN HD)
+http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR SPORTS 4K)
 http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG HD)
+https://cdn.damitv.live/stream/Willow%20Cricket
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SuperSport Cricket)
+https://cdn.damitv.live/stream/SuperSport%20Cricket
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93332b97f31bcf5b2128ff061b5076a9:a97bd64779a3c4ebf4cdcafb76814382
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cwvnguaq52/out/v1/5ee8530358e1400ab8f33d8a932830ee/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL ENG - PAK)
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL URDU - PAK)
+https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TAMASHA - PK)
+https://tencentcdn7.tamashaweb.com/v1/019beffa3f101567ee93346674d021/019bff96b0e415fc600b1b67f81951/TMSH_APP2_DIRTY.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TapMad English - AQ)
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_9a5s8d2f5/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (TapMad Urdu - AQ)
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_P2U8B2G5T6/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="banvsnz", banvsnz (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258

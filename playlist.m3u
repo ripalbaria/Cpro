@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-26 06:04 PM IST
+# UPDATED: 2026-04-26 07:20 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,12 +23,12 @@ http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts
 https://cdn.damitv.live/stream/Willow%20Cricket
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dedbf883004d1468d70fb008ff2430d0:ac7928fcd566ddebdf2b63cb4d1daeb6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpspuirqoc/out/v1/a047840f50a84f47ba6d765d910ffc5b/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (WILLOW HIN - AQ)
+#KODIPROP:inputstream.adaptive.license_key=7cb361793a6e99ded8ca042a499b7f45:8efbe47bdb7cbea560d3abfe3a933cf8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjnd301okd/out/v1/ea7ec99915184a66bb1e7e49fe14baa7/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (STARZPLAY - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b554932375b255b9a70be27acf822808:15ce76bf0ae86b12205bb00f0324ac9e
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/a511cb4e7b1b4fb0994a6842db0b8f7a/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
+https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (FOX SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a70902dcc79493f98d00064d93e8460:eb950593a82a15994676e4431113b551
@@ -57,8 +57,8 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_P2U8B2G5T6/m
 https://a.yukrgfdf.shop/hls/UGGGT.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdac31d19649487e505bd380dff32f0b:88f5e191762be218b6877e0654504767
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/udk7nhtb0g/out/v1/774ab4e788554098ac88ada82e5e8eb7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f4150e58250f7043dcaf8bd4cb8ca90e:94455b76b9d769ef1b19d6907e25be84
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/v2jzbc2mx7/out/v1/bebde99776494e7ab8a9346598204be6/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (TapMad English - AQ)
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_9a5s8d2f5/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 2", PSL 2 (TapMad Urdu - AQ)

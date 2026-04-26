@@ -1,10 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-04-26 02:26 PM IST
+# UPDATED: 2026-04-26 03:14 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1fdfa22f8178fbeb884d688729b5d71f:0a7f1b23797d9eaadd735c88f60424de
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tmogb8d6mr/out/v1/a308127095ef4670b3a52a01e084861e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f4214190ce30ed81af4628c998438fb1:bf37f9f11320229a054cf795b880b54d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdbiww0yq8/out/v1/fef7df2f68424809883abfa4c7cf7e63/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR HIN - AQ)
 https://lchd-314.zenostreams-cdn-001.com/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJzdGFyLXNwb3J0LTEtaGluZGkiLCJleHAiOjE3NzcxMTk2MDN9.b1DJQGdQ6x78Wh2moeYHZ-ChJzmXAn-Q9RQYEW2thf0/star-sport-1-hindi.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX SPORTS - AQ)
@@ -43,8 +43,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 http://195.178.110.76/hls/ZDDDZQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a6f0f6a7d9d36dddeb36f475c862d97:8697d6e10e41b97e987dd0631cbaac6a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y7hrokvyvt/out/v1/5ada062c4c8a40689a0e670445685aaa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3f703d3e2c30747e8557fe881ce42924:6081851bbe7b5e5d084171e96f0cb318
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aeg9a1fkmb/out/v1/44c646fb33434a77bf69987679a96c89/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL ENG - PAK)
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11170/image/dark" group-title="PSL 1", PSL 1 (PSL URDU - PAK)

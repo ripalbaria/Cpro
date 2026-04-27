@@ -1,18 +1,20 @@
 #EXTM3U
-# UPDATED: 2026-04-27 06:26 PM IST
+# UPDATED: 2026-04-27 08:27 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4214190ce30ed81af4628c998438fb1:bf37f9f11320229a054cf795b880b54d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdbiww0yq8/out/v1/fef7df2f68424809883abfa4c7cf7e63/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c7eb71c5e977e3511c17904e67b38b58:a66e312204618b6ea4628e10756468c5
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k1gboyaxft/out/v1/6c9c035218f049c9b0f9165425b63db6/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW HIN - AQ)
+https://lchd-314.zenostreams-cdn-001.com/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ3aWxsb3ctaGluIiwiZXhwIjoxNzc3MzA2NDc2fQ.ygUSlWaBCYLO9RM2FvqlOPsYIH2010CPxvWH4BVn2ik/willow-hin.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SPORTZPLAY - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (NOON SPORTS - AQ)
-https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01(Linux;Android13)AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX SPORTS - AQ)
-https://lchd-314.zenostreams-cdn-001.com/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmb3gtc3BvcnRzLTUwMSIsImV4cCI6MTc3NzIwNTIxOH0.4TuYOa6IVzgA8REwhEv5AU0fcn2H2jhysjdVCmnjJzY/fox-sports-501.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICBUZZ ENG - AQ)
+https://lchd-314.zenostreams-cdn-001.com/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJ3aWxsb3ctZW5nIiwiZXhwIjoxNzc3MzA2NDI4fQ.0Q4wj-PzBkkfp4OlQOCOJxwoJZmg-WoLK3kMko55xTg/willow-eng.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX SPORTS HD)
+https://watch.damitv.live/ppv-extract/play?url=https%3A%2F%2Fpooembed.eu%2Fembed%2Fipl%2F2026-04-27%2Fdc-rcb
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS HD)
 https://cdn4.zohanayaan.com:1686/hls/cric.m3u8?md5=dFR4E58TAe7rX-fsruvNhQ&expires=1777117093|User-Agent=Mozilla/5.0 (Linux; Android 15; 23106RN0DA Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.55 Mobile Safari/537.36&Referer=https://stellarthread.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW HIN HD)

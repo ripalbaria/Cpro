@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-04-28 05:33 AM IST
+# UPDATED: 2026-04-28 09:32 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,11 +59,11 @@ https://cdn.damitv.live/stream/Sky%20Sport%201?e=.m3u8
 https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1777319279:KeyName=prod_live_events:Signature=4qPXj5aWH9-mVZL45zWGriQAa3yXkaI6ARwh70wECV9vnAs9nT6V9xDtOzkxLpqZSyiZ4w09S90ckcFh37CDCA
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="banvsnz", banvsnz (TNT SPORTS - SD)
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1645.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Bangladesh Women vs Sri Lanka Women", Bangladesh Women vs Sri Lanka Women (FANCODE - HD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Bangladesh Women vs Sri Lanka Women", Bangladesh Women vs Sri Lanka Women (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Bangladesh Women vs Sri Lanka Women", Bangladesh Women vs Sri Lanka Women (FANCODE - SD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Bangladesh Women vs Sri Lanka Women", Bangladesh Women vs Sri Lanka Women (FANCODE - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd

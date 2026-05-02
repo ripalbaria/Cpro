@@ -1,10 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-05-02 06:12 PM IST
+# UPDATED: 2026-05-02 07:27 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e413afe9c10e7ddacdbf33945b81e3a:35035b1bf86353e3cd53689cc0058234
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8smvlfeeg/out/v1/d635ebb97da7408badbcb0fc7f448e41/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=853f3648541578a64d73665594568d2a:9f5a98e26094f397d1d7cefd41d1ebfc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdtysddt3h/out/v1/8a7efdb4fd4746758d9d631fd6252bc4/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX SPORTS HD)

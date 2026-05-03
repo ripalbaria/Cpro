@@ -1,16 +1,18 @@
 #EXTM3U
-# UPDATED: 2026-05-03 02:37 PM IST
+# UPDATED: 2026-05-03 03:44 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=853f3648541578a64d73665594568d2a:9f5a98e26094f397d1d7cefd41d1ebfc
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kdtysddt3h/out/v1/8a7efdb4fd4746758d9d631fd6252bc4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3addc1c607648f03c0617764b62c4491:27b18a0eb79f9ebe65ce84e3616080aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s3x4axmhdq/out/v1/786071c7f0dc4e7aa418ecc793cb470d/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (NOON SPORTS - AQ)
+https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01%20(Linux;Android%2013)%20AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX SPORTS HD)
 https://hghndasw.dg7yhiudjydg.shop/sec/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW0iOiJmb3gtc3BvcnRzLTUwMSIsImV4cCI6MTc3NzczODQ3NX0.TMptQ9FhvLNdgkwGEcbT_0pv-p8SoyGBjwWBU41VCYk/fox-sports-501.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (CRICFy LIVE)
-https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD&uid=999&pass=999
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=-6SSxk7kqmtMKW4vRlFbpg&expires=1777805423|Referer=https://teachtrendhub.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW HIN HD)
 http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR SPORTS 4K)

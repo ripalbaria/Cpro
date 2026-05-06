@@ -1,10 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-05-06 04:46 PM IST
+# UPDATED: 2026-05-06 06:38 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89d123dcd7e8749f5dc2e40fe6300f8f:c6ce0aee9567471f181becfdee346b07
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6x6wufbl6q/out/v1/91da49eda4bd48bfb82c3b16d1a97d70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ef4828a787a483a1c7b3dfb0348549eb:6e1beea97c21c4a5be178be098a7a3d9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7uk7kcx8hc/out/v1/5abb539d810f4f1faef0547d1282b0e9/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6

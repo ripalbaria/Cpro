@@ -1,18 +1,18 @@
 #EXTM3U
-# UPDATED: 2026-05-11 07:05 PM IST
+# UPDATED: 2026-05-11 09:47 PM IST
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
-https://dice-live-oc.akamaized.net/hdntl=exp=1778479839~acl=%2F*~id=c52d0b69-3c58-4413-b232-bbcc30356f04~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2OCZlaWQ9OTM5OTU5Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=c1e6210ae1d481c8b6d83ef80e8008939a5ad0900b6e7ee90a4d12acf39f1ddc/dash/live/2093715/219027-321028/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=972c0f230e5cffd3f79dce694a1e2052:69340051ae5c04e1fdd16d6f62c5a59f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/zdkmm4fqqh/out/v1/314343225df34e4eb8c128a327b8652a/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=3ed5893f1ef5ef9e10752f5c4109831b:3821ba9324380636b69af7dfaff15e28
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zby4qvj81a/out/v1/f5eb719ff47e45c088e29803b9020eb2/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://dice-live-oc.akamaized.net/hdntl=exp=1778587825~acl=%2F*~id=11065933-048f-4261-a5a5-0b5871557227~data=hdntl,aXA9MjA4Ljg3LjI0MS4yMjEmZXhwPTE3Nzg1MDE0NTUmZWlkPTkzOTk4NyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=b4c011074c3216fce24f8e91e89ee940515333adb07a43881f570fb076657ccd/dash/live/2093710/219026-321025/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (KAYO HINDI - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3356fbe9735158679f44c9c219e74abb:cd9fbf926965283a687fdeb2acfa21cf
-https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/9cd76b42af874557abc77e009ce2218d/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=0eea833f3b0b54d88a082aba5eb4c4a5:b8d0d84f77739e345c0d7aa982faa189
+https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/6cae46a137544991a86d4bb65dc75c17/index.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (NOON SPORTS - AQ)
 https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01%20(Linux;Android%2013)%20AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
@@ -23,8 +23,6 @@ https://bhghgh.gbgdhdffhf.shop/starhindi.m3u8|referer=https://estraaw.pages.dev
 http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR SPORTS 4K)
 http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG HD)
-https://cdn.damitv.live/stream/Willow%20Cricket
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ccb285ed029f274f9c6d1b0a2bb390e:ec51e638d4c86a79e4ac449a606df916

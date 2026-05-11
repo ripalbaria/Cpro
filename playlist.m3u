@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-11 04:33 AM IST
+# UPDATED: 2026-05-11 05:34 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -25,24 +25,6 @@ http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts
 http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG HD)
 https://cdn.damitv.live/stream/Willow%20Cricket
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (WILLOW ENG - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33f0135bc99bd90a1356c18086a7f9c0:923c0db66811b455400da2682c903b37
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjo2efuu08/out/v1/37c363392c5c4820b1af1056273ab74c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (SKY SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
-https://dice-live-oc.akamaized.net/hdntl=exp=1778479837~acl=%2F*~id=f982c1bc-036d-4277-baf9-6df46863b3ee~data=hdntl,aXA9MTA4LjE4MS4wLjEwOSZleHA9MTc3ODM5MzQ2NyZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=a0a3328a3b0e5421968984ebacecaf3ebf8fac58bf8a7ff905f235b2076347d9/dash/live/2093720/219029-321032/manifest-d.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (KAYO SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3356fbe9735158679f44c9c219e74abb:cd9fbf926965283a687fdeb2acfa21cf
-https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/9cd76b42af874557abc77e009ce2218d/index.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (SKY SPORTS HD)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (SKY CRICKET HD)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 2", IPL 2 (CRICFy LIVE)
-http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d32bd4f3fc167ecb264eae96fa6b42d:66646c6ddedaeef0e7d0815e0d92340a
@@ -56,7 +38,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (TAPMAD - AQ)
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
+ok
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dfee37194f68ca94d9a06fe879d1f0a:7a0a9c76b8db3d68c8e14eb8adddf57a

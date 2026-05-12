@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-12 10:21 AM IST
+# UPDATED: 2026-05-12 01:04 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -25,8 +25,8 @@ http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts
 http://datahub11.com:80/live/Jen12345/Jen54321/703299.ts
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ccb285ed029f274f9c6d1b0a2bb390e:ec51e638d4c86a79e4ac449a606df916
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w79eb64z9q/out/v1/3d3825802ff749f1be3b0fd6b5c6eb70/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=48c1d42a53539a0a0524de896ab70ba0:abeb4b59211e4763bd117bb797b5e7ff
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxs52yebmi/out/v1/dbde95b8bdc14d4a8a5f4c242b9b8240/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistan", Bangladesh vs Pakistan (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe

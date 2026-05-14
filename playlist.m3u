@@ -1,18 +1,18 @@
 #EXTM3U
-# UPDATED: 2026-05-14 05:44 PM IST
+# UPDATED: 2026-05-14 08:09 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5965e952ed6d29d9e4db3d41c5e6faa1:3727cbcd916f074b0345e533093dfa62
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6ehp4ocx4k/out/v1/e780f620aabe452cb607054c866ad32f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ada0b4daeff6a32ab78f9f4d0d54fa5c:623ccb3d6f11e602e32267ff2559eb9d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e8ilzxrcj2/out/v1/6417447d46264073a6284dfd09e944b2/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
-https://dice-live-oc.akamaized.net/hdntl=exp=1778758219~acl=%2f*~id=c7cd7823-86a9-4fb3-b1b9-77b287bc40bb~data=hdntl,aXA9MjA4Ljg3LjI0Mi4xMTEmZXhwPTE3Nzg2NzE4NDgmZWlkPTkzNjQ2NCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD14UlJxbzl8YmNhZWE3Y2YtYzMzNy00MDM5LTgxNTgtM2MxY2U0OWU3MjkzJmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=5316976585f84acae4c2761846403d5d2407714372ca863af330ad9451a4671f/dash/live/2093715/219027-321028/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1778826287~acl=%2f*~id=3ba8b898-d114-45f4-9e2e-8e7551fcd493~data=hdntl,aXA9MTA4LjE4MS40LjY5JmV4cD0xNzc4NzM5OTE2JmVpZD05MzY0MTgmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9eFJScW85fGJjYWVhN2NmLWMzMzctNDAzOS04MTU4LTNjMWNlNDllNzI5MyZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=53c888802c83140db1d017869281fd216e0a7ec26a6fc4cab9338df1fd7da0f9/dash/live/2093715/219027-321028/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (KAYO HINDI - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18e0a678b70572ca99f9efe1f297f5a:ddf3933d1fbc8c5d1f84870c3b56a22c
-https://dck1-ac-live.cdn.indazn.com/out/v1/814bffb9b389f652/0fb45955afd944b19d988688141c0da3/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=2233b72332765f888a43983a98deec5c:2cc1b1862998c1f22190121c36149a7f
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/3bef222785684b458a800836ac836063/index.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (NOON SPORTS - AQ)
 https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8?|user-agent=Cricbuzz/7.00.01%20(Linux;Android%2013)%20AndroidXMedia3/1.5.1&X-Forwarded-For=1.178.20.23
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)

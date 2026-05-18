@@ -1,18 +1,22 @@
 #EXTM3U
-# UPDATED: 2026-05-18 06:23 PM IST
+# UPDATED: 2026-05-18 09:44 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b4ac61aafc5b8135d898982ee663299:d36d16f4ce93cd31c076fb02c4aad855
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sfche5daty/out/v1/3c0f30a135754ba08230dddce05d06b4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=6f0b4c4ac94fada600f92176fd456d85:0b67cd5528d2f033926f5fb360d4472e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znkhxs2etv/out/v1/632f4a3be3b244c7a23957cd0441f39b/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
-https://dice-live-oc.akamaized.net/hdntl=exp=1779070452~acl=%2F*~id=6b7ee9f0-7edd-4c57-bc78-800cff2e09b4~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgyJmVpZD05MzkxOTcmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=7ca2a63f4cd71f4cf3a24c71c8ee747d377a706a625387cf6f8b1d4feb311f1e/dash/live/2093717/219028-321030/manifest-d.mpd
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=%2F*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093710/219026-321025/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (KAYO HINDI - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fb171243e6e5ee08212ce4faf379735:a4770988ed0eb252a1617e70cb930997
-https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/f426d5121a5e42dd967c0253defec25e/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=969b7a8459455095b5d7cc271005c0f9:e1a35a8ad35eaa924ae6f8a9c6ff66ac
+https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/f458d9fd26a44392b9ccfef5941f8de3/index.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY SPORTS 4k)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
+https://dice-live-oc.akamaized.net/hdntl=exp=1779183827~acl=%2F*~id=7ac1263d-ecfc-4ece-a992-5a240cae1b39~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTcmZWlkPTkzNjA5OCZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=40dded8521658eabd3f48b423ce3f1397f5b0c8b81f67973e719df3bb65feab7/dash/live/2093666/294921-318514/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (STAR HINDI HD)

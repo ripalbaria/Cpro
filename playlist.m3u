@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-19 11:03 AM IST
+# UPDATED: 2026-05-19 02:15 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -40,14 +40,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eukvsskogt/out/v1
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistann", Bangladesh vs Pakistann (SKY SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
-https://dice-live-oc.akamaized.net/hdntl=exp=1779158077~acl=%2F*~id=49805124-7de7-433c-b410-bcc0164e59f4~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNyZlaWQ9OTM2NTc2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=335907a80e190b660c61c6c4b158c55ade2bd1e8894bcaa419ae45efa9b22329/dash/live/2093715/219027-321028/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=/*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093715/219027-321028/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistann", Bangladesh vs Pakistann (FANCODE - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistann", Bangladesh vs Pakistann (TAPMAD - BD)
-https://cdn16lhr.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjYgMzo1OTowMCBBTSZoYXNoX3ZhbHVlPUlBd1BtNCtKZmZQd1FvY3BhdU9LOEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistann", Bangladesh vs Pakistann (FANCODE - BD)
-https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8
+https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistann", Bangladesh vs Pakistann (TOFFEE - BD)
-https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1779035383:KeyName=prod_live_events:Signature=Kr38dsw0IGXIXhtxxMxkUXhl9FzcqFvi3Lw_j7JqClJ6qJsyk2O2TfK9KOYiP2sfkvsHbIQguB3XlLQ0Gro4DQ
+https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1779208664:KeyName=prod_live_events:Signature=txWQoBfsk6d7zN5lPi8VeTjdrh_-HKCfkw_AjtWbDOVzoeZ1rctELlF2XbJnXL4TJfG6pwCZ4fTkT7Qr7Ej0DA
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Bangladesh vs Pakistann", Bangladesh vs Pakistann (TAMASHA - AQ)
+https://cdn16lhr.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjYgMzo1OTowMCBBTSZoYXNoX3ZhbHVlPUlBd1BtNCtKZmZQd1FvY3BhdU9LOEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D

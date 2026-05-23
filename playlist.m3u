@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-24 03:03 AM IST
+# UPDATED: 2026-05-24 04:02 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG  - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,11 +19,3 @@ https://dck1-ac-live.cdn.indazn.com/out/v1/761f422bb93edb7b/4b1684199726448b999c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7f414c066d3d8c3f19930764fad7d56:506e73d4cc003b77ad133f667f91c3da
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/q5v89jit0t/out/v1/7ed6a82342dd4f5dbb941ca39978d680/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Glamorgan vs Gloucestershire", Glamorgan vs Gloucestershire (WILLOW ENG - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=afa0939149e6e0efec4f554c852495f7:7bd8f866cba0832589cd56b66ee9671f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avyusxyuv1/out/v1/7cff5b11a7be4dceb73f2adebf22c2e2/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Glamorgan vs Gloucestershire", Glamorgan vs Gloucestershire (SKY SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
-https://dice-live-oc.akamaized.net/hdntl=exp=1779630449~acl=%2F*~id=652a6b96-929b-4330-8938-88425d7edb82~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3OSZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=6f927ef69c2397d894e60e133a42995aed4601a41dc24bf746a93054e5f7c06b/dash/live/2093722/219032-321033/manifest-d.mpd

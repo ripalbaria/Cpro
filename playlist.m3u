@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-24 03:35 PM IST
+# UPDATED: 2026-05-24 05:09 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG  - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,5 +47,7 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 http://datahub11.com:80/live/Jen12345/Jen54321/703300.ts
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="England Women vs New Zealand Women", England Women vs New Zealand Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Middlesex vs Surrey", Middlesex vs Surrey (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Middlesex vs Surrey", Middlesex vs Surrey (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=318990a4c9001a643e48138292a3ab1c:e69f62b154a95d5a96b77de655e27c1a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mvdbju6gle/out/v1/08b75aacdf904ac4b83619c811153fd1/cenc.mpd

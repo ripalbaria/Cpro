@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-28 02:31 PM IST
+# UPDATED: 2026-05-28 06:12 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG  - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -31,8 +31,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/2gvz3ny1qt/out/v1/7f41f2d7317249de95ed9dfa4103bde4/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Ireland vs New Zealandd", Ireland vs New Zealandd (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=738abe1e048c4c1457e592cd5fe781b5:ef5e8ef6ce1f0b5813911212673969d2
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6le5p4wncm/out/v1/276f12039b4d4fb2a85693c85b6e7bb2/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0db4d11e43d4bd35a3f140a1017b6ea5:c1de4d7ebf91363d4163abf3551004ea
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7ndg3sjve8/out/v1/3d50900a5506439a9dab00523c52678c/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Ireland vs New Zealandd", Ireland vs New Zealandd (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875

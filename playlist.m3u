@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-29 07:17 PM IST
+# UPDATED: 2026-05-29 10:53 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG  - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -7,8 +7,8 @@
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l58o2adfeu/out/v1/e5b078607e7740849585b052c2b65b0b/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (KAYO HINDI - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03b7771184005501ba6d66c24eac1414:bfbc4f689e14c75c4cd3c85c2192b2a1
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/b950ea05fb764eea969d5d9b28271ef8/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=f1f97a734b1752ae9c3639310b105278:57e0135e10a8ed3246b8306ada268954
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (FOX CRICKET - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
@@ -39,9 +39,21 @@ https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/vugre
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="England Women vs India Women", England Women vs India Women (CRICFy LIVE)
 http://193.47.62.59/hls/tiiiqqQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark" group-title="Pakistan Women vs West Indies Women", Pakistan Women vs West Indies Women (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Worcestershire vs Warwickshire", Worcestershire vs Warwickshire (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark" group-title="Pakistan Women vs West Indies Women", Pakistan Women vs West Indies Women (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7ed8d4a1fa2eb471a6be55fe2d2d248:0145bec68bc41a8a0b9533044b44d39c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark" group-title="Pakistan Women vs West Indies Women", Pakistan Women vs West Indies Women (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=084bee707497996158e4ec6d9cad40e4:2eb98071bf8c006ef8b5a5487151d843
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out/v1/8e02e7de7e9245c4b54f304c1159878d/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Worcestershire vs Warwickshire", Worcestershire vs Warwickshire (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dbf323ec371ce38d430efeaaa6184ba:66ef6973a92efe14913c71ce9ede23a4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtxbctgmqq/out/v1/bf7d4c5d83994cbf9f5880b4a2e35011/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Worcestershire vs Warwickshire", Worcestershire vs Warwickshire (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1bf53f0e2da724b504b95bca66383b3:1515fe638c326271c136927d544f730d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/fvxrjswsiy/out/v1/49ac9c9b383c4e33b148903af8cf9302/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

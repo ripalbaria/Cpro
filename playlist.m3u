@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-29 12:12 PM IST
+# UPDATED: 2026-05-29 04:03 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG  - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -31,8 +31,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/2gvz3ny1qt/out/v1/7f41f2d7317249de95ed9dfa4103bde4/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Ireland vs New Zealandd", Ireland vs New Zealandd (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0db4d11e43d4bd35a3f140a1017b6ea5:c1de4d7ebf91363d4163abf3551004ea
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7ndg3sjve8/out/v1/3d50900a5506439a9dab00523c52678c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7fe9792a2c0458b691dbb3d77d6578e6:83214d32370f8036f8c908eb461c6866
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/qxn2bopstd/out/v1/67e98eff07ca4469a4f8d6fbbd9b0e34/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Ireland vs New Zealandd", Ireland vs New Zealandd (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
@@ -47,11 +47,5 @@ https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/vugre
 https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="England Women vs India Women", England Women vs India Women (CRICFy LIVE)
 http://193.47.62.59/hls/tiiiqqQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark" group-title="Ireland Women vs West Indies Women", Ireland Women vs West Indies Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8efb598152a3dda469de1db7f8e39ef:c7fc113aada68d3db2b26770d927c63d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bodwwcgnsa/out/v1/f4c85e7dd9f747c8aae3872aafe12799/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark" group-title="Ireland Women vs West Indies Women", Ireland Women vs West Indies Women (WILLOW - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39433e7b30a608cab3d0c6e20961b21e:eb73360afc178a8601675c524f7c9322
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/7ciyqehzgy/out/v1/754ce60746a44a2fb93082e55d1c3e37/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark" group-title="Pakistan Women vs West Indies Women", Pakistan Women vs West Indies Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

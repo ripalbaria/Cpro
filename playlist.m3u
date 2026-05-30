@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-30 11:12 PM IST
+# UPDATED: 2026-05-31 12:15 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG  - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,5 +55,7 @@ https://bd-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-d
 https://np-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Zimbabwe vs India", Zimbabwe vs India (FC - SL)
 https://lk-mc-fblive.fancode.com/mumbai/142668_english_hls_6f3ac729b210192_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Sussex vs Middlesex", Sussex vs Middlesex (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Sussex vs Middlesex", Sussex vs Middlesex (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56524b11e4b2c5492308ebdc3a4f46ba:1a53959fa8b3bee779786ef53a29b054
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/by2jedviky/out/v1/6b3caf27646b46119a0defe04954aed0/cenc-sd.mpd

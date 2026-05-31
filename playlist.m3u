@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-05-31 11:14 PM IST
+# UPDATED: 2026-06-01 12:19 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11165/image/dark" group-title="IPL 1", IPL 1 (WILLOW ENG  - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,3 +55,5 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/d3ww7g58sz/out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25a1e1872f82e561711fb89ea164f026:cdc63f31e6f81adc9f00619eabe0389f
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/c4ck5kteis/out/v1/da7a8562befe49dc988ede4ea2f16a88/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark" group-title="Ireland Women vs West Indies Women", Ireland Women vs West Indies Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

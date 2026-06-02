@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-02 04:29 PM IST
+# UPDATED: 2026-06-02 08:19 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="England Women vs India Women", England Women vs India Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11,15 +11,13 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2118981/EnglandW3005/ENG/std_mdh
 https://sonymtmnew-akamaized.pages.dev/hls/live/2118981/EnglandW3005/HIN/std_mdh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6fe922179b44dca4bfc12e4e1d2caf43:d8b49573a73a95f6e9c953ea863fbdd5
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s5104uu3v4/out/v1/cd63c754b02b46498f244fa70939f351/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=56816fa6c2b3fa65a5de766d52f08b7f:07c1b41782e4321883a06b73629200a0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kr46ndje4l/out/v1/9833c1deedb64791b99615a4aefefb66/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (TAPMAD - AQ)
+https://pastebin.com/raw/bMkU2ThD?e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android 10; Pixel 3 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (FOX CRICKET - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01c9bbf8137e58378a5ead514998a7b4:fb01e61809e80e5e93a889cd31daab22
-https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/d65feac5647949e6b45b2674d4715398/index.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (TAPMAD - AQ)
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (WILLOW - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb3142736e3391af20f60faa7adcab4a:d93791db4f056820a8212e86e464b41a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/d3ww7g58sz/out/v1/10ce3e7f7a1f466cb150efd016fba7a4/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=7645ce9f48e840fcbe6950b3b8c2f43a:daa5b5b1484241cc86eb2a7e7e1a5113
+https://dice-live-ap.akamaized.net/hdntl=exp=1780484039~acl=*dash%2flive%2f2102613%2f303006-322308%2f*!*dash%2flive%2f2102613-b%2f303006-322308-b%2f*~id=8b11c4f2-caaf-4f0e-950c-175af1e721f5~data=hdntl,dWlkPWo2S0RpaHw5MTI3MWM3Yy0xMDI5LTQ2MjQtYjllZS04YWNiNjNkMzI2ODMmaXA9MzkuNTguMTM1LjE0NiZleHA9MTc4MDQ4NDA2OSZlaWQ9MzAzMDA2JmNpZD1kY2UucGNiJm9pZD00NjYmdHlwZT1MSVZF~hmac=a2fb92d4ea918a91f8d5893251d92a6ea070ce3414b074d09f0ebcd476b4680d/dash/live/2102613/303006-322308/manifest-d.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (SD SERVER)
+http://193.47.62.41/hls/GGYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/

@@ -1,14 +1,6 @@
 #EXTM3U
-# UPDATED: 2026-06-02 11:57 PM IST
+# UPDATED: 2026-06-03 02:57 AM IST
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="England Women vs India Women", England Women vs India Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e59d71527da753e98bccaeba761ed23e:141219a8b44c2be17af967fb909ab2eb
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ap100z7ju8/out/v1/bd83499afa5c4526a20e8f1813a9ac77/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="England Women vs India Women", England Women vs India Women (SonyLiv English)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2118981/EnglandW3005/ENG/std_mdh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="England Women vs India Women", England Women vs India Women (SonyLiv Hindi)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2118981/EnglandW3005/HIN/std_mdh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56816fa6c2b3fa65a5de766d52f08b7f:07c1b41782e4321883a06b73629200a0
@@ -21,3 +13,11 @@ https://pastebin.com/raw/bMkU2ThD?e=.m3u8|User-agent=Mozilla/5.0 (Linux; Android
 https://dice-live-ap.akamaized.net/hdntl=exp=1780484039~acl=*dash%2flive%2f2102613%2f303006-322308%2f*!*dash%2flive%2f2102613-b%2f303006-322308-b%2f*~id=8b11c4f2-caaf-4f0e-950c-175af1e721f5~data=hdntl,dWlkPWo2S0RpaHw5MTI3MWM3Yy0xMDI5LTQ2MjQtYjllZS04YWNiNjNkMzI2ODMmaXA9MzkuNTguMTM1LjE0NiZleHA9MTc4MDQ4NDA2OSZlaWQ9MzAzMDA2JmNpZD1kY2UucGNiJm9pZD00NjYmdHlwZT1MSVZF~hmac=a2fb92d4ea918a91f8d5893251d92a6ea070ce3414b074d09f0ebcd476b4680d/dash/live/2102613/303006-322308/manifest-d.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (SD SERVER)
 http://193.47.62.41/hls/GGYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/33666/image/dark" group-title="Pakistan Women vs West Indies Women", Pakistan Women vs West Indies Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Surrey vs Middlesex", Surrey vs Middlesex (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

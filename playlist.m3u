@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-04 05:15 PM IST
+# UPDATED: 2026-06-04 07:53 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13,8 +13,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/p5j53ixyin/out
 http://193.47.62.42/hls/zzzzQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (PTV SPORTS)
 http://95.133.241.239:8089/crc1/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780572907~acl=/hls/*~hmac=586ce226669065b21f3c6c2b9bdd7596796644899d167facb132775bcfb51fa8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (T SPORTS HD)
 https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)

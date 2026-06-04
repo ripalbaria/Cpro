@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-04 10:31 AM IST
+# UPDATED: 2026-06-04 02:27 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,11 +35,3 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Surrey vs Middlesex", Surrey vs Middlesex (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6dbefd509465e93e955025b732e62dd9:ad58369a26cf57973b4d978306755175
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lnulcd2lgj/out/v1/7378cee26ab94cac8ac6a4882f91561d/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Surrey vs Middlesex", Surrey vs Middlesex (WILLOW - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e16ca9754d74c54979e905ec9873578f:b5c84dbdb9cab38176be7023f1bf58be
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eaaqpgto4b/out/v1/9c1377658a0b41de9744f63af91147f5/cenc-sd.mpd

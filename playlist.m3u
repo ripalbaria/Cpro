@@ -1,20 +1,6 @@
 #EXTM3U
-# UPDATED: 2026-06-05 05:27 AM IST
+# UPDATED: 2026-06-05 08:08 AM IST
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a16958406ffe1b9e8c7089f65d1ddfb6:4ac976c3bae40f3babc9469bf9da0638
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8d9vjaxzhx/out/v1/6f1b142bb9944750aceb597b73682e4c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (WILLOW - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d5c368a160b6ded3658d86ccbd2e6071:242bbd69511260b72e1b531e98d8d9c4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/p5j53ixyin/out/v1/ca7a0cd170ae466aacf345a9e0735623/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (SD SERVER)
-http://193.47.62.42/hls/zzzzQQ.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (PTV SPORTS)
-http://95.133.241.239:8089/crc1/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Pakistan vs Australia", Pakistan vs Australia (T SPORTS HD)
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e24d997a3d30c3a4cc98125302382c23:45dea9acb0dcf1f56c86a3881bc3957d
@@ -50,4 +36,6 @@ http://193.47.62.42/hls/nnnn.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SonyLiv)
 https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Tajikistan vs India", Tajikistan vs India ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

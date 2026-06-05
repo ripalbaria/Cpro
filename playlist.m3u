@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-05 07:09 PM IST
+# UPDATED: 2026-06-05 09:45 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -39,11 +39,9 @@ http://193.47.62.42/hls/nnnn.m3u8|Referer=http://www.fawanews.sc/
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000301/Cricket_0506/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Tajikistan vs India", Tajikistan vs India ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Indonesia vs Oman", Indonesia vs Oman (CRICFy LIVE)
-https://pul-tenm.nbs3g.com/live/sd-1-4544882.m3u8?txSecret=99d82e529bf849e74652a5e50e41f88f&txTime=6A241779
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Indonesia vs Oman", Indonesia vs Oman (CRICFy HD)
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Indonesia vs Oman", Indonesia vs Oman (CRICFy SD)
-http://193.47.62.50/hls/YOOOZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Tajikistan vs India", Tajikistan vs India (CRICFy LIVE)
+https://pul-tenm.nbs3g.com/live/sd-1-4548224.m3u8?txSecret=a3c1ae3ede5d4710673c0bd44e7410e6&txTime=6A243413
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Tajikistan vs India", Tajikistan vs India (SD SERVER)
+http://193.47.62.50/hls/jjjRQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Tajikistan vs India", Tajikistan vs India (HD SERVER)
+https://feijing-xzbforanchor.52kq.top/live/sd-1-4548224.m3u8

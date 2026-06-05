@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-05 12:21 PM IST
+# UPDATED: 2026-06-05 04:07 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,18 +23,20 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=669b23cbba35ebaad1ec922de0bf6d0d:24a79d379cf88466d815d586307d7196
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/070jtyxmje/out/v1/36409c4b5008437ab7ed61c124bc0860/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW ALT)
+#KODIPROP:inputstream.adaptive.license_key=91f327289dd4a52031399fcdca3f65b2:b382baa77c6f7724799009f403701d0c
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ijymfkmsh9/out/v1/b405475cd043409d9b0bf6790f6de857/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=669b23cbba35ebaad1ec922de0bf6d0d:24a79d379cf88466d815d586307d7196
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/070jtyxmje/out/v1/36409c4b5008437ab7ed61c124bc0860/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=91f327289dd4a52031399fcdca3f65b2:b382baa77c6f7724799009f403701d0c
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ijymfkmsh9/out/v1/b405475cd043409d9b0bf6790f6de857/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY CRICKET HD)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (FOX CRICKET HD)
 https://cdn9859.shop/foxcricket.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SD SERVER)
 http://193.47.62.42/hls/nnnn.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SonyLiv)
-https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000301/Cricket_0506/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="Tajikistan vs India", Tajikistan vs India ()

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-06 11:27 PM IST
+# UPDATED: 2026-06-07 12:38 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,19 +63,15 @@ http://193.47.62.42/hls/zzzzQQ.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
 https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="New Zealand Women vs Bangladesh Women", New Zealand Women vs Bangladesh Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Durham vs Northamptonshire", Durham vs Northamptonshire (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d438bf764b06dd616d06c17aa98cd115:1a8fcea4984eb8d4662de5b883a5257c
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/utoa6eetpo/out/v1/63a28583cf5948d6aa03ebee67bfae05/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fa27fe69b05926ef9ce5cacad7a3f9a:05ca249f6547d00dcc569287709a90ba
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5ikn4yhxk7/out/v1/c4f0ef88fad646b2b950832bf2c2fa0a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fa27fe69b05926ef9ce5cacad7a3f9a:05ca249f6547d00dcc569287709a90ba
-https://ABDFYR5AAAAAAAAMILAGBLGEO7MZ4.ta.emt-cf.live.pv-cdn.net/IAD/f38a2053dffd4a1fa9ee418b4caa6af4/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_d0321d55-7045-4841-8bb9-73439d54d9b1_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/5ikn4yhxk7/out/v1/c4f0ef88fad646b2b950832bf2c2fa0a/cenc.mpd?aws.sessionId=5e034afd-00ad-4421-b90f-782c324c5276
+#KODIPROP:inputstream.adaptive.license_key=e03f5c9711fc98bb954b9a551d82c9cb:56446106ad018092a4c52f10bdf5f4f0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r29meefn8j/out/v1/4c39bc3b30ca411da700e889aa6ee843/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Durham vs Northamptonshire", Durham vs Northamptonshire (SKY CRICKET HD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Durham vs Northamptonshire", Durham vs Northamptonshire (SKY SPORT NZ)
 https://cdn9859.shop/skynz3.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Durham vs Northamptonshire", Durham vs Northamptonshire (SonyLiv)
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000299/Football0606/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=59cf78eaf7593a62d8ecaf60d99d4341-1780771800134
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="West Indies Women vs India Women", West Indies Women vs India Women ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

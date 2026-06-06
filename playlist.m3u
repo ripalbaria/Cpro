@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-06 10:24 PM IST
+# UPDATED: 2026-06-06 11:27 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,11 +75,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5ikn4yhxk7/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7fa27fe69b05926ef9ce5cacad7a3f9a:05ca249f6547d00dcc569287709a90ba
 https://ABDFYR5AAAAAAAAMILAGBLGEO7MZ4.ta.emt-cf.live.pv-cdn.net/IAD/f38a2053dffd4a1fa9ee418b4caa6af4/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_d0321d55-7045-4841-8bb9-73439d54d9b1_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/5ikn4yhxk7/out/v1/c4f0ef88fad646b2b950832bf2c2fa0a/cenc.mpd?aws.sessionId=5e034afd-00ad-4421-b90f-782c324c5276
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Durham vs Northamptonshire", Durham vs Northamptonshire (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23499/image" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (T SPORTS HD)
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1780145861&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8bbe8b546fa058429efacc41be2fb8b1
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23499/image" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (FANCODE HD)
-https://fncd.kuvuslov.cymru/mumbai/142943_english_hls_d6188d7e3625356_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/23499/image" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (FANCODE - IN)
-https://fncd.kuvuslov.cymru/mumbai/142943_english_hls_d6188d7e3625356_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Durham vs Northamptonshire", Durham vs Northamptonshire (SKY CRICKET HD)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Durham vs Northamptonshire", Durham vs Northamptonshire (SKY SPORT NZ)
+https://cdn9859.shop/skynz3.m3u8

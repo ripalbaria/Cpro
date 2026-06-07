@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-07 11:39 AM IST
+# UPDATED: 2026-06-07 03:02 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,8 +23,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out
 https://cdn9859.shop/willoweng.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18dcce799d8be1fd40dff349f86d5029:d6620e35186ca29a3faae9aa89baa28c
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3djfpe7xo0/out/v1/6321fdd0236346c6979f20fb0ee1c309/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=81f0262e5a1b7c382ba1114e4ad061eb:824d4e6bf5bb20818f449d9628668ede
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7cafnduuey/out/v1/d4802616af6f42e091f768d43b451d20/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=18dcce799d8be1fd40dff349f86d5029:d6620e35186ca29a3faae9aa89baa28c

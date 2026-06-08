@@ -1,18 +1,22 @@
 #EXTM3U
-# UPDATED: 2026-06-08 11:43 PM IST
+# UPDATED: 2026-06-09 02:01 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e967d85b71069b53f669d01147eb4fe7:84fc41d86b014d86f482273701368a08
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bjb3rebncn/out/v1/3958bc3f59ef4466b0ac999ed02bf327/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_key=f0d7f03f56d238007788d3720ba43b53:92d5ed9d45ca277bf955d0114d4eb3bd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6vycgcgdg/out/v1/e3614a5efc5b44799d3ea5a7e7ca3cb8/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e967d85b71069b53f669d01147eb4fe7:84fc41d86b014d86f482273701368a08
-https://ABDFYR5AAAAAAAAMMKGU3VK6I4VJX.ta.emt-cf.live.pv-cdn.net/IAD/5c91f9e3da674790a7c884d4bde9af42/v1/dash/746463508834/willowtvus_live_amzn1_dv_live_csid_24ee01eb-d8fd-4585-9906-f6069ef8033d_us-east-1_iad_dash_h264_none_stereo/live/clients/dash/enc/bjb3rebncn/out/v1/3958bc3f59ef4466b0ac999ed02bf327/cenc.mpd?aws.sessionId=3f2a7e4a-0262-41e4-95b5-6bd46ac7ba23
+#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad30fa5a8dad26fcb91a779bf4b534d6:bb0c3edf05bb94d77a18d3875fc29e34
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/mwkqyr24xt/out/v1/8e01bf4d07444f7c85b9ced17f9f9101/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (TNT SPORTS HD)
 https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - LQ)

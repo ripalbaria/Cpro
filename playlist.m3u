@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-09 02:01 AM IST
+# UPDATED: 2026-06-09 03:43 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -69,7 +69,9 @@ http://193.47.62.59/hls/EEEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64
 https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="Ireland Women vs Bangladesh Women", Ireland Women vs Bangladesh Women ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="Scotland Women vs Pakistan Women", Scotland Women vs Pakistan Women ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

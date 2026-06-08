@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-08 09:00 PM IST
+# UPDATED: 2026-06-08 11:43 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,14 +63,6 @@ http://193.47.62.59/hls/EEEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
 https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="England Women vs Australia Women", England Women vs Australia Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af0af89c98d55d4c290c2739e25d1d48:e5401c3c26d141b545f8513bf153b9fb
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7klzhpqkxr/out/v1/4f1498425da34eebbe94adba7c5306b3/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="England Women vs Australia Women", England Women vs Australia Women (SKY SPORTS MIX)
-https://cdn9859.shop/skymix.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="England Women vs Australia Women", England Women vs Australia Women (LOW QUALITY)
-https://cdn9859.shop/skymixsd.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="Ireland Women vs Bangladesh Women", Ireland Women vs Bangladesh Women ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia ()

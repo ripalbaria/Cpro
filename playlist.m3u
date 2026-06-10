@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-10 05:16 AM IST
+# UPDATED: 2026-06-10 07:25 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -121,33 +121,7 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0906/TAM/master.m
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0906/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9353bfecbe80cb10884221771892b145-1780978200133
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="India A vs Afghanistan A", India A vs Afghanistan A (SonyLiv KAN)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0906/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9353bfecbe80cb10884221771892b145-1780978200133
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="South Africa Women vs New Zealand Women", South Africa Women vs New Zealand Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abd12c233933fd5c6ea3cd2c4fc0fb81:421e5e595a4879f3f41c86816d48bce1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/my3ogq1dih/out/v1/3c592727f2a1426093668f8db81f9e68/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="South Africa Women vs New Zealand Women", South Africa Women vs New Zealand Women (LOW QUALITY)
-http://193.47.62.47/hls/KSSSQqqqqC.m3u8|Referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="Netherlands Women vs Sri Lanka Women", Netherlands Women vs Sri Lanka Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3791743fff0baa803275abff2851bf04:68c469d8483efbefbf8af37e0e24a800
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h9k0od3tkf/out/v1/e5abb366273841c1aebc024cca95f77a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="Netherlands Women vs Sri Lanka Women", Netherlands Women vs Sri Lanka Women (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="Netherlands Women vs Sri Lanka Women", Netherlands Women vs Sri Lanka Women (LOW QUALITY)
-http://193.47.62.59/hls/ZZZZQQ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="India Women vs England Women", India Women vs England Women ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Essex vs Kent", Essex vs Kent (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bbf05dedfc936c01f7ed20e0bd05888:81caa4aa3c154548a2cfe9181f225960
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi2jpx1gff/out/v1/3e14d47403704434abef7ff0e5580b7d/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Essex vs Kent", Essex vs Kent (WILLOW - HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Essex vs Kent", Essex vs Kent (SKY SPORTS HD)
-https://cdn9859.shop/skynz1.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11268/image/dark" group-title="Essex vs Kent", Essex vs Kent (SD SERVER)
-http://193.47.62.47/hls/KSSSQqqqqC.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="West Indies Women vs Australia Women", West Indies Women vs Australia Women ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

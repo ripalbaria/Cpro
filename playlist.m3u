@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-10 10:22 PM IST
+# UPDATED: 2026-06-11 12:57 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -115,15 +115,5 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0906/TAM/master.m
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0906/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9353bfecbe80cb10884221771892b145-1780978200133
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="India A vs Afghanistan A", India A vs Afghanistan A (SonyLiv KAN)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0906/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9353bfecbe80cb10884221771892b145-1780978200133
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="West Indies Women vs Australia Women", West Indies Women vs Australia Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=402390e423c778bf9a0cf61485d1188b:123e7efc50b67411a64980aec500d54d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wb5rrwverb/out/v1/7d659cec19f84403a79adc0a4523a10a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="West Indies Women vs Australia Women", West Indies Women vs Australia Women (SKY CRICKET - AQ)
-https://cdn9859.shop/skycricket.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="West Indies Women vs Australia Women", West Indies Women vs Australia Women (SKY SPORTS MIX)
-https://cdn9859.shop/skymix.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/19911/image/dark" group-title="West Indies Women vs Australia Women", West Indies Women vs Australia Women (SKY TOP EVENT)
-https://cdn9859.shop/skymainevent.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs Sri Lanka Women", England Women vs Sri Lanka Women (CRICFy LIVE)
 ok

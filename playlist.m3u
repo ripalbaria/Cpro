@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-13 03:02 PM IST
+# UPDATED: 2026-06-13 05:00 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -85,6 +85,10 @@ https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (CRICFy LIVE)
 https://fncd.kuvuslov.cymru/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Sri Lanka A vs Afghanistan A", Sri Lanka A vs Afghanistan A (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70221daf8cf553fcd9cc96e9fb29ad09:0c92871fe8a4b47246fc88f06fdd8b1c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/c2emmdznp5/out/v1/4edc02d9f1e94578ae8bf1c85cd71858/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Sri Lanka A vs Afghanistan A", Sri Lanka A vs Afghanistan A (SonyLiv ENG)
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1306/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d67e2577fe610f7fdaa319f3118ebe0a-1781322600105
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Sri Lanka A vs Afghanistan A", Sri Lanka A vs Afghanistan A (SonyLiv HIN)
@@ -114,4 +118,8 @@ ok
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10" group-title="EUT20 Belgium 2026", EUT20 Belgium 2026 (PREMIER SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10" group-title="EUT20 Belgium 2026", EUT20 Belgium 2026 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76b8253340c80879220f3aa01efae459:64a7048ed198268af54abf9e6cf1af33
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/q3pnqvfmbc/out/v1/193e9e282c594ad5934160dd19380677/cenc-sd.mpd

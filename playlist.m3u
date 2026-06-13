@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-13 05:17 AM IST
+# UPDATED: 2026-06-13 07:26 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -112,4 +112,6 @@ ok
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs South Africa Women", Australia Women vs South Africa Women (CRICFy LIVE)
 ok
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="West Indies Women vs New Zealand Women", West Indies Women vs New Zealand Women (CRICFy LIVE)
+ok
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10" group-title="EUT20 Belgium 2026", EUT20 Belgium 2026 (CRICFy LIVE)
 ok

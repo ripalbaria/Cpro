@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-14 07:35 AM IST
+# UPDATED: 2026-06-14 12:24 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,26 +59,30 @@ https://cdn9859.shop/skynz5.m3u8
 https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6533caaa83becafb78d9d04589e03d3e:8545a6ba4560da78f2f34f7393913fb9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gilgmkgjpm/out/v1/f3abf1b2f3fb497ba7207eb19d8b692b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=4cc02d3e3453ed638b9fb5ca7e40e900:6fe6e8ec36824b2601ef31c8e7d362b4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fwvr1kscll/out/v1/de61158b11db46ed846d744520262bfa/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (T SPORTS HD)
-https://tvsen7.aynaott.com/tsportsfhd/index.m3u8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (SKY SPORT NZ)
+https://cdn9859.shop/skynz4.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (FOX CRICKET HD)
+https://cdn9859.shop/foxcricket.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f65710427066f4416278b875351c6fad:bd964ef04ee2cdd2ae7ebe74189583d9
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/bq9bgyzzhj/out/v1/3aea89b0ce744a288252dfafe888262b/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (TNT SPORTS HD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (CRICFy LIVE)
-https://fncd.kuvuslov.cymru/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Sri Lanka A vs India A", Sri Lanka A vs India A (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70221daf8cf553fcd9cc96e9fb29ad09:0c92871fe8a4b47246fc88f06fdd8b1c

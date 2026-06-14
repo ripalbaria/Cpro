@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-14 11:12 PM IST
+# UPDATED: 2026-06-15 12:25 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -105,33 +105,3 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/team/129960/image" group-title="New Zealand Women vs Sri Lanka Women", New Zealand Women vs Sri Lanka Women (SKY SPORT NZ)
 https://cdn9859.shop/skynz2.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Pakistan Women", India Women vs Pakistan Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fcbc6104335e2d7392733fb19c6496f0:2a24fe5795cb9ac1016c8e6cb187f3a1
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bv9fvzbb0x/out/v1/2d48cdbaca0f4cc3a996c9dc7905c336/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Pakistan Women", India Women vs Pakistan Women (PRIME VIDEO - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Pakistan Women", India Women vs Pakistan Women (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Pakistan Women", India Women vs Pakistan Women (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=171c4539a8653c515e927b82ecabc2a0:4436fc9a03a14035bb6abccdb3020c94
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oqs1e78oje/out/v1/5fee0665212c492088570362037805bc/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Pakistan Women", India Women vs Pakistan Women (SKY SPORT NZ)
-https://tmaxapp.site/skynz2.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Pakistan Women", India Women vs Pakistan Women (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Pakistan Women", India Women vs Pakistan Women (SD SERVER)
-http://193.47.62.55/hls/ggggQ.m3u8|referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10" group-title="EUT20 Belgium 2026", EUT20 Belgium 2026 (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d5793c4bde078572d02f68c7e6a6d57:8f33d60f603d5db9286e69f6fc222bdd
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3mk9efwr2g/out/v1/a27ed143f76c42718136754b9a15e84d/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNxZVQMVNQWIoTz_1uQ-C1uUTkkMOr6fuX7Fp6a2ncQ&s=10" group-title="EUT20 Belgium 2026", EUT20 Belgium 2026 (PREMIER SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd

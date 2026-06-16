@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-16 05:57 PM IST
+# UPDATED: 2026-06-16 10:58 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -99,11 +99,17 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi1506/TAM/master.m
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1506/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b5f1e5a3f61955a3b9284f5f97aea383-1781495400095
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (SonyLiv KAN)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1506/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b5f1e5a3f61955a3b9284f5f97aea383-1781495400095
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="New Zealand Women vs Sri Lanka Women", New Zealand Women vs Sri Lanka Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="New Zealand Women vs Sri Lanka Women", New Zealand Women vs Sri Lanka Women (SKY CRICKET - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="New Zealand Women vs Sri Lanka Women", New Zealand Women vs Sri Lanka Women (SKY SPORT NZ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (SKY SPORT NZ)
 https://cdn9859.shop/skynz2.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (WILLOW HD)
+https://tmaxapp.site/willoweng.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (SKY MAIN EVENT)
+https://tmaxapp.site/skymainevent.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (LOW SERVER)
+http://193.47.62.41/hls/GMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/

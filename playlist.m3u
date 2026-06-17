@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-17 05:29 PM IST
+# UPDATED: 2026-06-17 08:49 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -83,56 +83,60 @@ https://tmaxapp.site/foxcricket.m3u8
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (TAPMAD - BD)
 https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781683507~acl=/hls/*~hmac=d8a88c9a81eba0fe50eff0c1b247f9aa40213d46020f539cf6cc5ae07f98714e
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs Sri Lanka A", Afghanistan A vs Sri Lanka A (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1b8627d4ab12c6f6a4e8c8ad0434eb3:4c7504084721bca94d1b2b59d15b580a
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hsiljorpng/out/v1/47598b7e5cb4418eb9623e0a9807fc1b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (WILLOW HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs Sri Lanka A", Afghanistan A vs Sri Lanka A (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (WILLOW - LQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs Sri Lanka A", Afghanistan A vs Sri Lanka A (WILLOW - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72e8f53f2777f35635a5ae013f4e1a11:75377dce0ff9c7ebff8bcfebb8948eac
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/yxs62g3uvk/out/v1/2dc3a5e6537b46cda64ff54251a9d98f/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (SonyLiv ENG)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs Sri Lanka A", Afghanistan A vs Sri Lanka A (SonyLiv ENG)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi1706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (SonyLiv HIN)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs Sri Lanka A", Afghanistan A vs Sri Lanka A (SonyLiv HIN)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1706/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (SonyLiv TAM)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs Sri Lanka A", Afghanistan A vs Sri Lanka A (SonyLiv TAM)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1706/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (SonyLiv TEL)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs Sri Lanka A", Afghanistan A vs Sri Lanka A (SonyLiv TEL)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi1706/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs India A", Afghanistan A vs India A (SonyLiv KAN)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan A vs Sri Lanka A", Afghanistan A vs Sri Lanka A (SonyLiv KAN)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1706/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="West Indies Women vs Scotland Women", West Indies Women vs Scotland Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e105d1907dd526a294052967cfdb3ea:0995990f3a3ca62ea8021d8ed42af211
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grljlmgmf4/out/v1/94a58c7403a244c3b74cbaf78f67062c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (WILLOW ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="West Indies Women vs Scotland Women", West Indies Women vs Scotland Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e105d1907dd526a294052967cfdb3ea:0995990f3a3ca62ea8021d8ed42af211
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/grljlmgmf4/out/v1/94a58c7403a244c3b74cbaf78f67062c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (LOW SERVER)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="West Indies Women vs Scotland Women", West Indies Women vs Scotland Women (LOW SERVER)
 http://193.47.62.41/hls/EEEEDD.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (PRIME ENG - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/h2wngvadsp/out/v1/2f0a0df306dc417789487320edc53f99/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (PRIME HIN - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd06c5f8a305d276a7a90e22ca55b884:8aeca08488bac7d802700e8954b53ba1
+https://ABKGL2EAAAAAAAAMPKOHFK7GR5BD6.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/dbhxwvjlme/out/v1/8d64368150bc4bc998f66c15d3bd28bb/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51c54ab51edd063e6e6c15a29f9b9024:2cec63300673ac2cb060ec8f5c55f048
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d0e986nu2c/out/v1/a60fddbab6274bd5bbd8b1b8d3df7921/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2f930e839e54bcf012e1ea679ab3305e:e967ef6bb2f4f0bc815976d60f489d97
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vvdiu7zexg/out/v1/d32dba602fbc4f748445f7fc26fd7b29/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f930e839e54bcf012e1ea679ab3305e:e967ef6bb2f4f0bc815976d60f489d97
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vvdiu7zexg/out/v1/d32dba602fbc4f748445f7fc26fd7b29/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (WILLOW - HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (SKY SPORT NZ)
-https://cdn9859.shop/skynz2.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (WILLOW HD)
-https://tmaxapp.site/willoweng.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (SKY MAIN EVENT)
-https://tmaxapp.site/skymainevent.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (LOW SERVER)
-http://193.47.62.41/hls/GMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (SD SERVER)
+http://193.47.62.41/hls/EEEEDD.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Pakistan Women", South Africa Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247

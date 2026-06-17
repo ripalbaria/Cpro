@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-17 05:22 AM IST
+# UPDATED: 2026-06-17 07:39 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -113,3 +113,35 @@ https://tmaxapp.site/willoweng.m3u8
 https://tmaxapp.site/skymainevent.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (LOW SERVER)
 http://193.47.62.41/hls/GMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51c54ab51edd063e6e6c15a29f9b9024:2cec63300673ac2cb060ec8f5c55f048
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d0e986nu2c/out/v1/a60fddbab6274bd5bbd8b1b8d3df7921/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (WILLOW - HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (SKY SPORT NZ)
+https://cdn9859.shop/skynz2.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (WILLOW HD)
+https://tmaxapp.site/willoweng.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (SKY MAIN EVENT)
+https://tmaxapp.site/skymainevent.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="India Women vs Netherlands Women", India Women vs Netherlands Women (LOW SERVER)
+http://193.47.62.41/hls/GMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Pakistan Women", South Africa Women vs Pakistan Women (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Pakistan Women", South Africa Women vs Pakistan Women (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Pakistan Women", South Africa Women vs Pakistan Women (WILLOW HD)
+https://tmaxapp.site/willoweng.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Pakistan Women", South Africa Women vs Pakistan Women (SKY SPORT NZ)
+https://tmaxapp.site/skynz2.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Pakistan Women", South Africa Women vs Pakistan Women (SKY MAIN EVENT)
+https://tmaxapp.site/skymainevent.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Pakistan Women", South Africa Women vs Pakistan Women (FOX CRICKET HD)
+https://tmaxapp.site/foxcricket.m3u8

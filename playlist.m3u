@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-18 07:55 PM IST
+# UPDATED: 2026-06-18 11:07 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -107,12 +107,12 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi1706/TEL/master.m
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1706/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="West Indies Women vs Scotland Women", West Indies Women vs Scotland Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e105d1907dd526a294052967cfdb3ea:0995990f3a3ca62ea8021d8ed42af211
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grljlmgmf4/out/v1/94a58c7403a244c3b74cbaf78f67062c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=43f4ac4090920734149c0e549ff9d486:1bd632eab51f492e5e045ca368b1f64a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n54nrd5ppa/out/v1/c31222582f8649b7b686831c8a4b786f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="West Indies Women vs Scotland Women", West Indies Women vs Scotland Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e105d1907dd526a294052967cfdb3ea:0995990f3a3ca62ea8021d8ed42af211
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/grljlmgmf4/out/v1/94a58c7403a244c3b74cbaf78f67062c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=43f4ac4090920734149c0e549ff9d486:1bd632eab51f492e5e045ca368b1f64a
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n54nrd5ppa/out/v1/c31222582f8649b7b686831c8a4b786f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="West Indies Women vs Scotland Women", West Indies Women vs Scotland Women (LOW SERVER)
 http://193.47.62.41/hls/EEEEDD.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="New Zealand Women vs Ireland Women", New Zealand Women vs Ireland Women (PRIME ENG - AQ)

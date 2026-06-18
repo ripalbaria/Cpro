@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-18 12:33 PM IST
+# UPDATED: 2026-06-18 04:45 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -25,18 +25,18 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out
 https://in-mc-fblive.fancode.com/mumbai/142977_english_hls_6f073467f892321_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9e709324dc4e063e75716a34e19e864:ef4a3cd6a46f996d03049512b382df1c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6a4shgqrai/out/v1/f19645623bb248488700f7bbca20b4ea/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=513d389521a73afdd3cf0a74e53f3b2f:392f7f7d2e451631e1075b20ce61f901
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvhgrxe0zw/out/v1/d336867052f04861bc67d2c567f31596/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9e709324dc4e063e75716a34e19e864:ef4a3cd6a46f996d03049512b382df1c
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6a4shgqrai/out/v1/f19645623bb248488700f7bbca20b4ea/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=513d389521a73afdd3cf0a74e53f3b2f:392f7f7d2e451631e1075b20ce61f901
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvhgrxe0zw/out/v1/d336867052f04861bc67d2c567f31596/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY MAIN EVENT)
 https://tmaxapp.site/skymainevent.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/England_1706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=43e83f80052c15e3bc52a4c9271b9000-1781688600198
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/criclive1806/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7f079e348ed8c2ddca9951078fcb1e6b-1781775000189
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (LOW SERVER)
 http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (WILLOW - AQ)

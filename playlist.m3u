@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-20 01:40 AM IST
+# UPDATED: 2026-06-20 02:48 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -169,13 +169,9 @@ https://tmaxapp.site/willoweng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a44a95bce19615ad3a641824e353097e:f8e0bdff4dc12ca3ce9b68ae08cb9441
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zmgyzr5xuo/out/v1/93c03a46b4d146e7b642dd62bd3b3216/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Los Angeles Knight Riders vs San Francisco Unicorns", Los Angeles Knight Riders vs San Francisco Unicorns (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Los Angeles Knight Riders vs San Francisco Unicorns", Los Angeles Knight Riders vs San Francisco Unicorns (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a44a95bce19615ad3a641824e353097e:f8e0bdff4dc12ca3ce9b68ae08cb9441
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zmgyzr5xuo/out/v1/93c03a46b4d146e7b642dd62bd3b3216/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Los Angeles Knight Riders vs San Francisco Unicorns", Los Angeles Knight Riders vs San Francisco Unicorns (START SPORTS - AQ)
 http://starhub.pro/live/Anthony2/Anthony123/124284.ts
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Los Angeles Knight Riders vs San Francisco Unicorns", Los Angeles Knight Riders vs San Francisco Unicorns (SKY MAIN EVENT)
-https://tmaxapp.site/skymainevent.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Los Angeles Knight Riders vs San Francisco Unicorns", Los Angeles Knight Riders vs San Francisco Unicorns (SKY SPORTS HD)
-http://starhub.pro/live/Anthony2/Anthony123/124269.ts
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Los Angeles Knight Riders vs San Francisco Unicorns", Los Angeles Knight Riders vs San Francisco Unicorns (WILLOW - LQ)
-https://tmaxapp.site/willoweng.m3u8

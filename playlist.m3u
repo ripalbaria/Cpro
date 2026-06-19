@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-20 02:48 AM IST
+# UPDATED: 2026-06-20 03:58 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -123,15 +123,15 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (LOW QUALITY)
 http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="New Zealand Women vs Ireland Women", New Zealand Women vs Ireland Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs Scotland Women", England Women vs Scotland Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0afe9f50c05f661952ff7e909d94309b:6e0443d0a98cb590f0dac249665deacc
 https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lye3zqw9p9/out/v1/0f6caef5184d4b21b7f81103f6ef5a23/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="New Zealand Women vs Ireland Women", New Zealand Women vs Ireland Women (WILLOW - HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs Scotland Women", England Women vs Scotland Women (WILLOW - HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="New Zealand Women vs Ireland Women", New Zealand Women vs Ireland Women (SKY CRICKET - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs Scotland Women", England Women vs Scotland Women (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

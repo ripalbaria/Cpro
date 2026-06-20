@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-20 11:31 AM IST
+# UPDATED: 2026-06-20 03:04 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,10 +23,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/dtdvdzh9l8/out
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - IN)
 https://in-mc-fblive.fancode.com/mumbai/142977_english_hls_6f073467f892321_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66e98dedb7c76f19ea06a5e9f50766a5:b947bb6b7ecb1e994335fff94c29eb3e
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tmb2rgzvpz/out/v1/6f88c3a0b0f04ce9b6c82e4499427edb/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW ALT)
@@ -41,16 +37,18 @@ https://dai.google.com/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8?hdnea=exp=1
 http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=458e0f22edc0799b9c33656bb9e202a1:4af50d29813b200a8f1687da4573b155
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ztb9jtlusq/out/v1/80da27cef04449a5abf3bea2c70e19cd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd?|
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=458e0f22edc0799b9c33656bb9e202a1:4af50d29813b200a8f1687da4573b155
-https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ztb9jtlusq/out/v1/80da27cef04449a5abf3bea2c70e19cd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (SKY SPORT NZ)
+https://tmaxapp.site/skynz4.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (TNT SPORTS HD)
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (WILLOW HD)
@@ -59,6 +57,16 @@ https://tmaxapp.site/willoweng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
 https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (HOTSTAR - ENG)
+https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (HOTSTAR - HIN)
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (HOTSTAR - TAM)
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (HOTSTAR - TEL)
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="India vs Afghanistan", India vs Afghanistan (TAPMAD - BD)
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Bangladesh vs Australia", Bangladesh vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1544c349ebb47984ba648348b5eb4664:b5aa349bbd609812fe85c2cc4b732d27
@@ -135,39 +143,39 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a686ce424ebbc8a6112c3d61cdc4e812:f111c0142c7443610553201ab44c1c3f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ohmn4cljxi/out/v1/0a5b331b601d4e53895af3e401bc4289/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=36d3c540acc063a248ef7fc725a1b828:ae593b3c9f1c55cf4a819d2409051273
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (PRIME VIDEO - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3ccac291380a79f116310bb6f16a503:40408c987032f3f5b50675429c770818
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/niwgdo1k8c/out/v1/9ad6b47e0d03436f95d24f8dc04e5c32/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=36d3c540acc063a248ef7fc725a1b828:ae593b3c9f1c55cf4a819d2409051273
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (SKY SPORT NZ)
+https://tmaxapp.site/skynz5.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (SKY SPORT NZ)
-https://tmaxapp.site/skynz2.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (WILLOW - LQ)
-https://tmaxapp.site/willoweng.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Netherlands Women", Australia Women vs Netherlands Women (LOW SERVER)
-http://193.47.62.41/hls/EEEEDD.m3u8|referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Seattle Orcas vs Washington Freedom", Seattle Orcas vs Washington Freedom (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Washington Freedom vs MI New York", Washington Freedom vs MI New York (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84904b9e8f527b72dd1566f8f2e00160:cda148bac3de81fe928d814a3d957477
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhukhaxuw2/out/v1/df964fc528f04e98a83831bbcb88bb16/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Seattle Orcas vs Washington Freedom", Seattle Orcas vs Washington Freedom (SKY CRICKET - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Washington Freedom vs MI New York", Washington Freedom vs MI New York (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Seattle Orcas vs Washington Freedom", Seattle Orcas vs Washington Freedom (WILLOW ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Washington Freedom vs MI New York", Washington Freedom vs MI New York (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84904b9e8f527b72dd1566f8f2e00160:cda148bac3de81fe928d814a3d957477
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rhukhaxuw2/out/v1/df964fc528f04e98a83831bbcb88bb16/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Seattle Orcas vs Washington Freedom", Seattle Orcas vs Washington Freedom (START SPORTS - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Washington Freedom vs MI New York", Washington Freedom vs MI New York (START SPORTS - AQ)
 http://starhub.pro/live/Anthony2/Anthony123/124284.ts
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Seattle Orcas vs Washington Freedom", Seattle Orcas vs Washington Freedom (SKY MAIN EVENT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Washington Freedom vs MI New York", Washington Freedom vs MI New York (SKY MAIN EVENT)
 https://tmaxapp.site/skymainevent.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Seattle Orcas vs Washington Freedom", Seattle Orcas vs Washington Freedom (SKY SPORT NZ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Washington Freedom vs MI New York", Washington Freedom vs MI New York (SKY SPORT NZ)
 https://tmaxapp.site/skynz9.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Seattle Orcas vs Washington Freedom", Seattle Orcas vs Washington Freedom (WILLOW HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Washington Freedom vs MI New York", Washington Freedom vs MI New York (WILLOW HD)
 https://tmaxapp.site/willoweng.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Texas Super Kings vs San Francisco Unicorns", Texas Super Kings vs San Francisco Unicorns (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

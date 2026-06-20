@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-20 05:02 PM IST
+# UPDATED: 2026-06-20 06:40 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -121,20 +121,22 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/cricodi1906/TEL/master.
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/cricodi1906/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13575b5660aa876c53d68a9e97776e93-1781843400127
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43f4ac4090920734149c0e549ff9d486:1bd632eab51f492e5e045ca368b1f64a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n54nrd5ppa/out/v1/c31222582f8649b7b686831c8a4b786f/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#KODIPROP:inputstream.adaptive.license_key=434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (PRIME VIDEO - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43f4ac4090920734149c0e549ff9d486:1bd632eab51f492e5e045ca368b1f64a
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n54nrd5ppa/out/v1/c31222582f8649b7b686831c8a4b786f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (SKY SPORT NZ)
+https://tmaxapp.site/skynz5.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (LOW QUALITY)
-http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/
+#KODIPROP:inputstream.adaptive.license_key=434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs Scotland Women", England Women vs Scotland Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0afe9f50c05f661952ff7e909d94309b:6e0443d0a98cb590f0dac249665deacc

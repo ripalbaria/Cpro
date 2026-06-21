@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-21 09:48 PM IST
+# UPDATED: 2026-06-21 11:28 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -39,35 +39,35 @@ https://tmaxapp.site/skymainevent.m3u8
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Eng_vs_N2106/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=32163d9111cc6c6278e7c147d84ff746-1782034201589
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (LOW SERVER)
 http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (PRIME ENGLISH - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (PRIME ENGLISH - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (PRIME HINDI - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (PRIME HINDI - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd06c5f8a305d276a7a90e22ca55b884:8aeca08488bac7d802700e8954b53ba1
 https://abkgl2eaaaaaaaampkohfk7gr5bd6.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/dbhxwvjlme/out/v1/8d64368150bc4bc998f66c15d3bd28bb/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (SKY CRICKET - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (WILLOW ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (SKY MAIN EVENT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (SKY MAIN EVENT)
 https://tmaxapp.site/skymainevent.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (SKY SPORT NZ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (SKY SPORT NZ)
 https://tmaxapp.site/skynz3.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (FOX CRICFY HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (FOX CRICFY HD)
 https://tmaxapp.site/foxcricket.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (WILLOW HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs India Women", South Africa Women vs India Women (SKY SPORTS PLUS)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs Pakistan Women", Australia Women vs Pakistan Women (SKY SPORTS PLUS)
 https://tmaxapp.site/skyplussd.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="New Zealand Women vs Scotland Women", New Zealand Women vs Scotland Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

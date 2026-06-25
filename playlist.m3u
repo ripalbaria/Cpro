@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-25 07:23 AM IST
+# UPDATED: 2026-06-25 11:23 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,21 +95,21 @@ https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 http://starhub.pro/live/Anthony2/Anthony123/124284.ts
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Seattle Orcas vs Washington Freedom", Seattle Orcas vs Washington Freedom (WILLOW HD)
 https://tmaxapp.site/willoweng.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Texas Super Kings vs San Francisco Unicorns", Texas Super Kings vs San Francisco Unicorns (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="MI New York vs Texas Super Kings", MI New York vs Texas Super Kings (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b09b6bbd3b089527100e2208d2b26ce0:a12c35aa0a4654870dfe921e168fd368
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nn1mbqcek0/out/v1/1b6cc824cef14f4494e8af6b853b5c13/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Texas Super Kings vs San Francisco Unicorns", Texas Super Kings vs San Francisco Unicorns (SKY CRICKET - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="MI New York vs Texas Super Kings", MI New York vs Texas Super Kings (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Texas Super Kings vs San Francisco Unicorns", Texas Super Kings vs San Francisco Unicorns (WILLOW - ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="MI New York vs Texas Super Kings", MI New York vs Texas Super Kings (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b09b6bbd3b089527100e2208d2b26ce0:a12c35aa0a4654870dfe921e168fd368
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nn1mbqcek0/out/v1/1b6cc824cef14f4494e8af6b853b5c13/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Texas Super Kings vs San Francisco Unicorns", Texas Super Kings vs San Francisco Unicorns (START SPORTS)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="MI New York vs Texas Super Kings", MI New York vs Texas Super Kings (START SPORTS)
 http://starhub.pro/live/Anthony2/Anthony123/124284.ts
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Texas Super Kings vs San Francisco Unicorns", Texas Super Kings vs San Francisco Unicorns (SKY SPORT NZ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="MI New York vs Texas Super Kings", MI New York vs Texas Super Kings (SKY SPORT NZ)
 https://tmaxapp.site/skynz2.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Texas Super Kings vs San Francisco Unicorns", Texas Super Kings vs San Francisco Unicorns (WILLOW HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="MI New York vs Texas Super Kings", MI New York vs Texas Super Kings (WILLOW HD)
 https://tmaxapp.site/willoweng.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Ireland vs India", Ireland vs India ()
 ok

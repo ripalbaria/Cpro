@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-27 03:28 AM IST
+# UPDATED: 2026-06-27 04:30 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,23 +53,23 @@ https://tmaxapp.site/skymainevent.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs New Zealand Women", England Women vs New Zealand Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffcc00004008873e754e8e743a32900:1f9207b15bbd497222b3a3013781db49
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rdehfonok6/out/v1/a9ac9104d73a4538ac1d6ef58c37d801/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (WILLOW ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs New Zealand Women", England Women vs New Zealand Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffcc00004008873e754e8e743a32900:1f9207b15bbd497222b3a3013781db49
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rdehfonok6/out/v1/a9ac9104d73a4538ac1d6ef58c37d801/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (SKY MAIN EVENT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs New Zealand Women", England Women vs New Zealand Women (SKY MAIN EVENT)
 https://tmaxapp.site/skymainevent.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (SKY SPORT NZ)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs New Zealand Women", England Women vs New Zealand Women (SKY SPORT NZ)
 https://tmaxapp.site/skynz4.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (WILLOW HD)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs New Zealand Women", England Women vs New Zealand Women (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (CRICFy LOW)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="England Women vs New Zealand Women", England Women vs New Zealand Women (CRICFy LOW)
 http://193.47.62.42/hls/tfffqQQQ.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey

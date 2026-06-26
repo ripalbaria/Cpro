@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-26 09:04 PM IST
+# UPDATED: 2026-06-26 10:50 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13,6 +13,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ac9a949be51e3bac478a2b6b89fd53e:1fab3b9de1c50dd740e473d439e15fce
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9l2vb6syd/out/v1/aa21c8df2e9d4f42828895734934385a/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (TNT SPORTS HD)
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW HD)
+https://tmaxapp.site/willoweng.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e
@@ -51,24 +55,20 @@ https://tmaxapp.site/skymainevent.m3u8
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b35978c7b6988c16a493e67cb35e3ed7:78cb4762e924126a02e0d19a3c7d5203
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zxv9btuhk4/out/v1/18a0b7d0d0054b728bc322e5ab14058a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
+#KODIPROP:inputstream.adaptive.license_key=6ffcc00004008873e754e8e743a32900:1f9207b15bbd497222b3a3013781db49
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rdehfonok6/out/v1/a9ac9104d73a4538ac1d6ef58c37d801/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b35978c7b6988c16a493e67cb35e3ed7:78cb4762e924126a02e0d19a3c7d5203
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zxv9btuhk4/out/v1/18a0b7d0d0054b728bc322e5ab14058a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (SKY MAIN EVENT)
-https://tmaxapp.site/skymainevent.m3u8
+#KODIPROP:inputstream.adaptive.license_key=6ffcc00004008873e754e8e743a32900:1f9207b15bbd497222b3a3013781db49
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rdehfonok6/out/v1/a9ac9104d73a4538ac1d6ef58c37d801/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (SKY SPORT NZ)
-https://tmaxapp.site/skynz1.m3u8
+https://tmaxapp.site/skynz4.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (CRICFy LIVE)
-https://tmaxapp.site/willoweng.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Sri Lanka Women vs Scotland Women", Sri Lanka Women vs Scotland Women (CRICFy LOW)
+http://193.47.62.42/hls/tfffqQQQ.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33

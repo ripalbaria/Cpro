@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-27 01:04 PM IST
+# UPDATED: 2026-06-27 03:18 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32,9 +32,11 @@ https://tmaxapp.site/skymainevent.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY SPORT NZ)
 https://tmaxapp.site/skynz1.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/England_2606/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d891c613654604447b138ed563dc3e48-1782466200219
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bd93df851991f163df797f8a338779ce-1782552600172
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (FOX CRICKET HD)
 https://tmaxapp.site/foxcricket.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (LOW SERVER)
+http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="West Indies Women vs Ireland Women", West Indies Women vs Ireland Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84719bf3c1f899410a57fcf00a2577be:1a1f22f8044984aa60511cf8771ed65a
@@ -73,28 +75,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 http://193.47.62.42/hls/tfffqQQQ.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (PRIME ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e647180c0a0a36d6a4a7528c2523bca1:960aa4eb16e6067b55a01d16062aaa70
-https://ABMXTS6AAAAAAAAMKXB6KHGNM2AJK.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/cfydpvdsta/out/v1/7910d7d4114049488aaaa4416deccfd4/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (PRIME HINDI - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e56a9d11b147afc0dc2efb282dea2e1:16f395cf7a05885a77803050b7b56b2b
-https://ABMXTS6AAAAAAAAMKXB6KHGNM2AJK.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/istbo7qzsm/out/v1/8d64368150bc4bc998f66c15d3bd28bb/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cc8c1b85136caec66e38fe67fa96eb7:6118e9dfbcc8ef7ebbdc16892624ce33
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmnd2wk12a/out/v1/c1c5dfe36aeb4547b8b50d5ad96c7a7e/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (SKY SPORT NZ)
-https://tmaxapp.site/skynz2.m3u8
+#KODIPROP:inputstream.adaptive.license_key=15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (SKY SPORTS PLUS)
+https://tmaxapp.site/skyplussd.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (CRICFy LIVE)
-https://tmaxapp.site/willoweng.m3u8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e25378e4d6aed1276bb47cd17a71db0f:86b24c899205229d3bb820f72a3f3cd4

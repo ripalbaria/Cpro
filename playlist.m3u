@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-27 03:18 PM IST
+# UPDATED: 2026-06-27 04:46 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,14 +19,14 @@ https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1036.m3u8
 https://tmaxapp.site/willoweng.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY MAIN EVENT)
 https://tmaxapp.site/skymainevent.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY SPORT NZ)
@@ -77,6 +77,10 @@ http://193.47.62.42/hls/tfffqQQQ.m3u8|referer=http://www.fawanews.sc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (PRIME VIDEO - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55806bd61c68b919268cabc711f865a4:4f2263fe5c80a8ba31a0ccabc749bac3
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykfpji6hax/out/v1/88c972e29cef47709f02240b3aebcc96/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1

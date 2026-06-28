@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-29 12:27 AM IST
+# UPDATED: 2026-06-29 01:37 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -83,22 +83,18 @@ https://tmaxapp.site/skyplussd.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Bangladesh Women", South Africa Women vs Bangladesh Women (Bangla Commentary)
 https://pastebin.com/raw/cX9Fe4zF?e=.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc736ed6f946b2dc2306251f44cc0859:be6032330791ba97bfeace844ce2abb6
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iwul0rynej/out/v1/81a7c51f0dcb41c7bf837c02449b46c8/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc736ed6f946b2dc2306251f44cc0859:be6032330791ba97bfeace844ce2abb6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwul0rynej/out/v1/81a7c51f0dcb41c7bf837c02449b46c8/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (START SPORTS)
 http://starhub.pro/live/Anthony2/Anthony123/124284.ts
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY SPORT NZ)
 https://tmaxapp.site/skynz4.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW HD)
 https://tmaxapp.site/willoweng.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc736ed6f946b2dc2306251f44cc0859:be6032330791ba97bfeace844ce2abb6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwul0rynej/out/v1/81a7c51f0dcb41c7bf837c02449b46c8/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (TAPMAD HD)

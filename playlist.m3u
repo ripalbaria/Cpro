@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-28 07:07 AM IST
+# UPDATED: 2026-06-28 11:29 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -119,7 +119,17 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi2606/TAM/master.m
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2606/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Ireland vs India", Ireland vs India (SonyLiv - KAN)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2606/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh ()
-ok
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (TNT SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FANCODE - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FOX CRICKET HD)
+https://tmaxapp.site/foxcricket.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (T SPORTS - AQ)
+http://starhub.pro/live/Anthony2/Anthony123/52500.ts
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India ()
 ok

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-06-28 02:20 PM IST
+# UPDATED: 2026-06-28 04:25 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -23,22 +23,22 @@ https://sgzero.mokakdaoni.me/proxy/wb.php/https://livevideos.cricbuzz.com/hls/li
 https://in-mc-fblive.fancode.com/mumbai/142978_english_hls_84812121a137931_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY MAIN EVENT)
 https://tmaxapp.site/skymainevent.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SKY SPORT NZ)
 https://tmaxapp.site/skynz1.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SonyLiv)
-https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bd93df851991f163df797f8a338779ce-1782552600172
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (FOX CRICKET HD)
 https://tmaxapp.site/foxcricket.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (SonyLiv)
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/Englandv2806/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=09f9bfc321221509b5e2c7e93812482c-1782639001927
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/24317/image/dark" group-title="England vs New Zealand", England vs New Zealand (LOW SERVER)
 http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs India Women", Australia Women vs India Women (WILLOW - AQ)
@@ -59,22 +59,22 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://tmaxapp.site/skyplussd.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Bangladesh Women", South Africa Women vs Bangladesh Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Bangladesh Women", South Africa Women vs Bangladesh Women (PRIME VIDEO - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55806bd61c68b919268cabc711f865a4:4f2263fe5c80a8ba31a0ccabc749bac3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykfpji6hax/out/v1/88c972e29cef47709f02240b3aebcc96/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=321beaffa646cda1512b2e09eb51d670:da91d675986084c80c0e2013d1efb085
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qen7i3mgzj/out/v1/d8b801ea1477401b9759bd7aa9fccd86/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Bangladesh Women", South Africa Women vs Bangladesh Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15cb6a46b28fc380faab795e4ade11c7:bc0a81fd5fd0c056f0e25bea5a9deef1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpfokpwebt/out/v1/3c0e5eba7c4944298dc46b564a3226e1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Bangladesh Women", South Africa Women vs Bangladesh Women (SKY SPORT NZ)
+https://tmaxapp.site/skynz4.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Bangladesh Women", South Africa Women vs Bangladesh Women (SKY SPORTS PLUS)
 https://tmaxapp.site/skyplussd.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Bangladesh Women", South Africa Women vs Bangladesh Women (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="South Africa Women vs Bangladesh Women", South Africa Women vs Bangladesh Women (Bangla Commentary)
+https://pastebin.com/raw/cX9Fe4zF?e=.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc736ed6f946b2dc2306251f44cc0859:be6032330791ba97bfeace844ce2abb6
@@ -120,7 +120,9 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi2606/TEL/master.m
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Ireland vs India", Ireland vs India (SonyLiv - KAN)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2606/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=80da10c806e4622d7b59afb32d4ef546-1782474600122
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (TAPMAD - AQ)
-https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (TAPMAD HD)
+https://pastebin.com/raw/U2LaqQne?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FANCODE - BD)
 https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FANCODE - IN)

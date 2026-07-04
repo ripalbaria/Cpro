@@ -1,14 +1,18 @@
 #EXTM3U
-# UPDATED: 2026-07-04 07:34 PM IST
+# UPDATED: 2026-07-04 08:49 PM IST
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93835f4c237ce7d7d4256fb2107a2ac0:8e84e97526061deed4c6ddc9a59041bc
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/mjbrguo2ra/out/v1/376bdfb0a66e4fffb2ad20f800ae73d9/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
@@ -17,10 +21,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93835f4c237ce7d7d4256fb2107a2ac0:8e84e97526061deed4c6ddc9a59041bc
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/mjbrguo2ra/out/v1/376bdfb0a66e4fffb2ad20f800ae73d9/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - BD)
-https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171805~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/*~Signature=Ac2BFenuXhfRr1QY9bI_UpFencoe2k9ZEmcu8OIz2rbhe2UEOs7Izkub3T5yvQD313WArA2EjuuxikLxRzLRZ5xg4aYH|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs England Women", Australia Women vs England Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b686f89fa608fc0bb8fc7b21b3c98ffd:9e87208b1511dcbd6d4b54b89252c3d6
@@ -81,14 +81,14 @@ https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3340fb32568e2b78910762e4d7454993:1c3bf53d188425d2e105e8b1df15236b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qtq2yrmgxq/out/v1/c9f90a4d66634748a5345d9f418680d2/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3340fb32568e2b78910762e4d7454993:1c3bf53d188425d2e105e8b1df15236b
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qtq2yrmgxq/out/v1/c9f90a4d66634748a5345d9f418680d2/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (LOW SERVER)
 http://193.47.62.42/hls/NAAAQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 1 - IN)

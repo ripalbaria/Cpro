@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-05 08:09 PM IST
+# UPDATED: 2026-07-05 09:20 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,6 +15,8 @@ https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (SD SERVER)
+http://193.47.62.42/hls/HAHAHAEEQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs England Women", Australia Women vs England Women (PRIME VIDEO - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1106840b0996d072db21884983f407:772273c40b9c10b28b43b777beac27eb
@@ -37,6 +39,18 @@ https://ABBWIKLAAAAAAAAMPTEU6ZSHBMC3U.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e1be00ea3a93a9d237b369004ef27:cccada06b88b88edbc9d89daf5693c0e
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/0u92uacao7/out/v1/bc1252bd57ad4eae9ecedf1c034ab31d/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs England Women", Australia Women vs England Women (HOTSTAR - ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1783253614~exp=1783275214~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=17b2b592b93c5ab73bfabc738dc9042930b5d52316335ceaae0e4d051c0871a6
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs England Women", Australia Women vs England Women (HOTSTAR - HIN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1783253614~exp=1783275214~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=55ce85f66fde1ca3635af90013625a7f4c69054b85da47059540e4549333a40b
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs England Women", Australia Women vs England Women (HOTSTAR - TAM)
+https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8|cookie=hdntl=exp=1783283204~acl=%2f*~id=327cc2f8aeb1e70f89799f0744968cc8~data=hdntl~hmac=f4a105a0b18819b071cd1b2f61758552cae673f9bfc44614a6bb9627a7826650&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11183/image" group-title="Australia Women vs England Women", Australia Women vs England Women (HOTSTAR - TEL)
+https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8|cookie=hdntl=exp=1783283204~acl=%2f*~id=327cc2f8aeb1e70f89799f0744968cc8~data=hdntl~hmac=f4a105a0b18819b071cd1b2f61758552cae673f9bfc44614a6bb9627a7826650&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=afe6afa236086ee3d09cec1ea950edcf:d3fc59f530c58c45f64c3b341ab679ef

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-06 01:33 AM IST
+# UPDATED: 2026-07-06 02:46 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,16 +19,16 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out
 http://193.47.62.42/hls/HAHAHAEEQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=afe6afa236086ee3d09cec1ea950edcf:d3fc59f530c58c45f64c3b341ab679ef
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qgqowqeowi/out/v1/0ba7e4a01b204e779292901411d813d1/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=9c051a327f33e194c3c57cf1a449ab42:7d5a3b07f2cdd416370942aac2b0b300
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/theggi4tik/out/v1/64f36745ccd14dffb0ec4c7f09f87cd9/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=afe6afa236086ee3d09cec1ea950edcf:d3fc59f530c58c45f64c3b341ab679ef
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qgqowqeowi/out/v1/0ba7e4a01b204e779292901411d813d1/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=9c051a327f33e194c3c57cf1a449ab42:7d5a3b07f2cdd416370942aac2b0b300
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/theggi4tik/out/v1/64f36745ccd14dffb0ec4c7f09f87cd9/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (LOW SERVER)
-http://193.47.62.40/hls/NAAAQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/ZAZAZAZ.m3u8|Referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (HOTSTAR - IN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092

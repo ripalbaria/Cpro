@@ -1,10 +1,10 @@
 #EXTM3U
-# UPDATED: 2026-07-07 09:43 PM IST
+# UPDATED: 2026-07-07 11:48 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5df9c4a814b8bba853105dfbb4fe32f1:04f15dd237095b154b948fa539571f65
-https://otte.cache.aiv-cdn.net/iad-nitro/enc/nbjz1xbeak/out/v1/7654012e2361470d8e55b9ad71b6c2ce/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/enc/nbjz1xbeak/out/v1/7654012e2361470d8e55b9ad71b6c2ce/cenc.mpd?|
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
@@ -57,14 +57,14 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_ba
 https://in-mc-fblive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3340fb32568e2b78910762e4d7454993:1c3bf53d188425d2e105e8b1df15236b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qtq2yrmgxq/out/v1/c9f90a4d66634748a5345d9f418680d2/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=632b06f50e561ccfc3473ae057177d70:1fd0877cfa85e2617ab00f14b4fb66fe
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tcgcz1g3fk/out/v1/33a4bce588914c258fd9300022b50846/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3340fb32568e2b78910762e4d7454993:1c3bf53d188425d2e105e8b1df15236b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qtq2yrmgxq/out/v1/c9f90a4d66634748a5345d9f418680d2/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=632b06f50e561ccfc3473ae057177d70:1fd0877cfa85e2617ab00f14b4fb66fe
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tcgcz1g3fk/out/v1/33a4bce588914c258fd9300022b50846/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (LOW SERVER)
 http://193.47.62.42/hls/yoooQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 1 - IN)
@@ -72,20 +72,6 @@ https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1783468
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 3 - IN)
 https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783468988~acl=/*~id=04883445300713251857105652349602~hmac=598bcaebc52919dbb1266104a27862bd08950b042d3c4d7d67c6199e352d794f
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 4 - IN)
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
+https://dishmt.slivcdn.com/hls/live/2011747/TEN4HD/master.m3u8?hdnea=exp=1783468988~acl=/*~id=04883445300713251857105652349602~hmac=598bcaebc52919dbb1266104a27862bd08950b042d3c4d7d67c6199e352d794f
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 5 - IN)
-https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (HOTSTAR - ENG)
-http://absicka6aqaaaaayo3xqmdo6eqwy3.live-ssai-cf-mum-ace.cdn.hotstar.com/cmaf/live/2108387/inallow-indveng-2026/eng/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (HOTSTAR - HIN)
-http://live12p-ssai-akt-mum.cdn.hotstar.com/cmaf/live/2108404/inallow-indveng-2026/hin/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (HOTSTAR - TAM)
-https://live-jiol.cdn.hotstar.com/cmaf/live/2024712/inallow-indveng-2026/tam/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (HOTSTAR - TEL)
-http://live13mp-ssai-akt-mum.cdn.hotstar.com/out/v1/tel/1540072901_telugu4k_2ed37c3d/inallow-indveng-2026_cmaf_hls_unencrypted/master-a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (HOTSTAR - KAN)
-http://live-ssai-jiol-mum.cdn.hotstar.com/cmaf/live/2024718/inallow-indveng-2026/kan/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (HOTSTAR - BEN)
-http://live-ssai-jiol-mum.cdn.hotstar.com/cmaf/live/2024715/inallow-indveng-2026/ben/1540072901/15mindvrm019d7a56f6b69447b3996c55585d254b8104july2026/master_a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (HOTSTAR - HAR)
-http://live13mp-ssai-akt-mum.cdn.hotstar.com/out/v1/har/1540072901_haryanvi4k_16879225/inallow-indveng-2026_cmaf_hls_unencrypted/master-a.m3u8?a=ns&ttl=86400&hdnea=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040|Cookie=hdntl=exp=1783257449~acl=%2f*~id=d91d493ccfa3676ac5d0ffb26a5a511e~data=hdntl~hmac=dd1c76d047ea0cd37392da6402df7aaa6c9e210afc96a02126c082d3e91f0040&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+https://dishmt.slivcdn.com/hls/live/2020591/TEN5HD/master.m3u8?hdnea=exp=1783468988~acl=/*~id=04883445300713251857105652349602~hmac=598bcaebc52919dbb1266104a27862bd08950b042d3c4d7d67c6199e352d794f

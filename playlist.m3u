@@ -1,22 +1,28 @@
 #EXTM3U
-# UPDATED: 2026-07-07 07:20 PM IST
+# UPDATED: 2026-07-07 09:43 PM IST
 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5df9c4a814b8bba853105dfbb4fe32f1:04f15dd237095b154b948fa539571f65
+https://otte.cache.aiv-cdn.net/iad-nitro/enc/nbjz1xbeak/out/v1/7654012e2361470d8e55b9ad71b6c2ce/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd?|
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780573506~acl=/hls/?|Referer=tapmad.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (TNT SPORTS HD)
+https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e72d5dea1088f20b0ac3b4656eb01cc:82f1469507593ffd516e1a47bf4cf4fb
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/8hs8syzrjo/out/v1/db826a78a690406e9f6ba32f4fb7f8db/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (FANCODE - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (LOW SERVER)
-http://193.47.62.42/hls/HAHAHAEEQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=479836020f135345282c7df1779a6cfa:759c4f7cc4bf3e69c4ccd32c3b8220bc
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/wikjiafdml/out/v1/6974d66884654dc78615d457791b7b1a/cenc-sd.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs Sri Lanka", West Indies vs Sri Lanka (TAPMAD HD)
+https://pastebin.com/raw/U2LaqQne?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb8cf0e21e70f08b3e452c850169cb84:491be72c0df90dc471578aabea2d9570
@@ -53,8 +59,6 @@ https://in-mc-fblive.fancode.com/mumbai/143400_english_hls_a55273fc7252729_1ta-d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3340fb32568e2b78910762e4d7454993:1c3bf53d188425d2e105e8b1df15236b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qtq2yrmgxq/out/v1/c9f90a4d66634748a5345d9f418680d2/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (WILLOW ALT)
@@ -62,11 +66,11 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q
 #KODIPROP:inputstream.adaptive.license_key=3340fb32568e2b78910762e4d7454993:1c3bf53d188425d2e105e8b1df15236b
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qtq2yrmgxq/out/v1/c9f90a4d66634748a5345d9f418680d2/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (LOW SERVER)
-http://193.47.62.42/hls/NAAAQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.42/hls/yoooQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 1 - IN)
-https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1783468988~acl=/*~id=04883445300713251857105652349602~hmac=598bcaebc52919dbb1266104a27862bd08950b042d3c4d7d67c6199e352d794f
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 3 - IN)
-https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783468988~acl=/*~id=04883445300713251857105652349602~hmac=598bcaebc52919dbb1266104a27862bd08950b042d3c4d7d67c6199e352d794f
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 4 - IN)
 https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1783213737~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=d30b9953514701cbdaf0a876281277d8120f97942820a6ee5cbe35031a5a807a|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1782917788547
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 5 - IN)

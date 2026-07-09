@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-09 10:08 PM IST
+# UPDATED: 2026-07-09 11:53 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -40,7 +40,7 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9d942f08fa157e355701dd5d6f0bd32:32b949d60fd1fd73002e0286a5225ead
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/dtyyswyqxt/out/v1/6706270f291145aaa388903d32c6cd6f/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/dtyyswyqxt/out/v1/6706270f291145aaa388903d32c6cd6f/cenc.mpd?|
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SKY SPORT NZ)
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SKY MAIN EVENT)
@@ -53,6 +53,8 @@ https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=17836
 https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1783654759~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=248eb41103c6143461848cf0f909137167ab9ac9317c2121fafd2e760e5249e3|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1783611559313
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (SONY TEN 4 - IN)
 https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1783654759~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=248eb41103c6143461848cf0f909137167ab9ac9317c2121fafd2e760e5249e3|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1783611559313
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (TAPMAD - BD)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="England Women vs India Women", England Women vs India Women (CRICFy LIVE)

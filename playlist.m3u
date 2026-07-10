@@ -1,6 +1,14 @@
 #EXTM3U
-# UPDATED: 2026-07-11 12:48 AM IST
+# UPDATED: 2026-07-11 02:16 AM IST
 
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df7bf85307a0a06a40746d3f2467505:64149eb6b7db7ee312dd7bf60e4cd4e9
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6qyiqdrzf/out/v1/6641897c1e754a3ebafc39756ff0babd/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67967efb38fb5d10a2ec5528cef3d9f0:89c0a7f23cd114c69da9f5e350829f7e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/akrg4bzn4b/out/v1/82ee5e950d6a4c9f8b4b3b59b1491b3b/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY SPORT NZ)
@@ -87,5 +95,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Ireland Women vs West Indies Women", Ireland Women vs West Indies Women (FANCODE - IN)
 https://in-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Indiana Pacers vs Cleveland Cavaliers", Indiana Pacers vs Cleveland Cavaliers (CRICFy LIVE )
+https://chatgpt.hereisman.net/playlist/53160/load-playlist?|Referer=https://gooz.aapmains.net 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Indiana Pacers vs Cleveland Cavaliers", Indiana Pacers vs Cleveland Cavaliers (SKY ACTION HD)
+https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Indiana Pacers vs Cleveland Cavaliers", Indiana Pacers vs Cleveland Cavaliers (HD SERVER)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Indiana Pacers vs Cleveland Cavaliers", Indiana Pacers vs Cleveland Cavaliers (CRICFy NBA )
+https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click

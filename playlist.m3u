@@ -1,10 +1,6 @@
 #EXTM3U
-# UPDATED: 2026-07-10 05:24 AM IST
+# UPDATED: 2026-07-10 06:50 AM IST
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c26394eb92979de1a8813480ae1733a0:601360d2b1220ba314f33ca2f2e32327
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/k4aprgoaq2/out/v1/d9a0052415804d92baa8712e4b7c7910/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY SPORT NZ)

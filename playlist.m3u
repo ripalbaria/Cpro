@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-12 03:41 PM IST
+# UPDATED: 2026-07-12 04:53 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -84,7 +84,7 @@ https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="England Women vs India Women", England Women vs India Women (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="England Women vs India Women", England Women vs India Women (SonyLiv)
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000299/cricodi1207/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2326f29b1e6d716eb66ca54013a53311-1783848600184
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="England Women vs India Women", England Women vs India Women (LOW SERVER)

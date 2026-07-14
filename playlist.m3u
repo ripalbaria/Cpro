@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-14 02:51 PM IST
+# UPDATED: 2026-07-14 04:29 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -31,28 +31,28 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_ba
 https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a63f817e48857c820181f7a22e8a1b4:e53140d61b7bb8c1697316c1ee7ddac8
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (WILLOW ALT)
+#KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (FOXCRIC - AQ)
+https://hugh.cdn.rumble.cloud/live/mu10xuf3/slot-37/zta4-vncc/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a63f817e48857c820181f7a22e8a1b4:e53140d61b7bb8c1697316c1ee7ddac8
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SKY SPORT NZ)
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+#KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SKY MAIN EVENT)
 https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SKY SPORT NZ)
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (LOW SERVER)
-http://193.47.62.42/hls/FBBBQQQQQQQ.m3u8|Referer=http://www.fawanews.sc/
+http://193.47.62.44/hls/zzzz.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SONY TEN 1 - IN)
-https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SONY TEN 2 - IN)
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1777645864~acl=%2f*~id=b27d2482-0287-42d8-af15-470397faa7ed~data=hdntl~hmac=c89db728ca24f0307a0f968f96d718a00ec965d9f77c66c401254f4d5c97c69b/master_3500.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SONY TEN 3 - IN)
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1783800057~acl=/*~id=86e9774078e3c2ecd9ffa0bed9c78f04-1783756853945~hmac=d44c91ce6e9cb985bd62fd2b51efe516ac712b8eaf890aa72df20df90ae5b751
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SONY TEN 4 - IN)
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1783800057~acl=/*~id=86e9774078e3c2ecd9ffa0bed9c78f04-1783756853945~hmac=d44c91ce6e9cb985bd62fd2b51efe516ac712b8eaf890aa72df20df90ae5b751
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72

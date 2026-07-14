@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-14 04:29 PM IST
+# UPDATED: 2026-07-14 05:38 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,8 +35,8 @@ https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-d
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cc53mv1f5j/out/v1/5a8e934d90344844ab860c36adb3b615/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (FOXCRIC - AQ)
-https://hugh.cdn.rumble.cloud/live/mu10xuf3/slot-37/zta4-vncc/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
@@ -45,6 +45,8 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SKY SPORT NZ)
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (FOX CRICKET HD)
+https://hugh.cdn.rumble.cloud/live/mu10xuf3/slot-37/zta4-vncc/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (LOW SERVER)
 http://193.47.62.44/hls/zzzz.m3u8|referer=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs Indiaa", England vs Indiaa (SONY TEN 1 - IN)

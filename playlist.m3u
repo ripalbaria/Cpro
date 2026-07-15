@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-16 01:12 AM IST
+# UPDATED: 2026-07-16 02:10 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -81,6 +81,8 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Minnesota Timberwolves vs Indiana Pacers", Minnesota Timberwolves vs Indiana Pacers (CRICFy LIVE )
 https://chatgpt.hereisman.net/playlist/53375/load-playlist?|Referer=https://gooz.aapmains.net 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Minnesota Timberwolves vs Indiana Pacers", Minnesota Timberwolves vs Indiana Pacers (CRICFy NBA )
+https://pul-tenm.gkykp.com/live/hd-en-2-3923422.m3u8?txSecret=fd9cdf8900cca670d174efd80f59fa6b&txTime=6A592EE0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Minnesota Timberwolves vs Indiana Pacers", Minnesota Timberwolves vs Indiana Pacers (CRICFy HD)
 https://hls.live123.fans/live/3923422.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Minnesota Timberwolves vs Indiana Pacers", Minnesota Timberwolves vs Indiana Pacers (HD SERVER)

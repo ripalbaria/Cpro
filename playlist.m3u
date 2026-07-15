@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-15 03:02 PM IST
+# UPDATED: 2026-07-15 04:43 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,20 +15,18 @@ https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8
 https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FANCODE - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (T SPORTS HD)
 http://tv.cloudcdn.me/live/00:1A:79:31:34:0E/SN_1697176355/48010.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FANCODE - BD)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143402_english.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FANCODE - IN)
-https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8
+https://in-mc-pdlive.fancode.cim/mumbai/143403_english_hls_4b9e3a65fb80219_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="England vs India", England vs India (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad

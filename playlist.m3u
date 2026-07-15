@@ -1,10 +1,14 @@
 #EXTM3U
-# UPDATED: 2026-07-16 02:10 AM IST
+# UPDATED: 2026-07-16 03:05 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a369094e70cfd3f88b7950ba71ff4c9b:e9cae08aed9155d2c53a168fad1caecc
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gt3qlkgd61/out/v1/79abba722e7447fe8ee02668537dfb94/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=007e2e674f82de21623b314b5908693d:929841d213cb7c94e592037bac2fc67f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=007e2e674f82de21623b314b5908693d:929841d213cb7c94e592037bac2fc67f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (SKY SPORT NZ)

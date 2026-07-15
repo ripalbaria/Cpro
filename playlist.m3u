@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-15 11:47 PM IST
+# UPDATED: 2026-07-16 01:12 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,21 +73,15 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Ireland Women vs West Indies Women", Ireland Women vs West Indies Women (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Ireland Women vs West Indies Women", Ireland Women vs West Indies Women (FANCODE - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Ireland Women vs West Indies Women", Ireland Women vs West Indies Women (LOW SERVER)
-http://162.251.160.53:8089/WIvsIRE/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Jaffna Kings vs Galle Gallants", Jaffna Kings vs Galle Gallants ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Kandy Royals vs Dambulla Sixers", Kandy Royals vs Dambulla Sixers ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Colombo Kaps", Galle Gallants vs Colombo Kaps ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Minnesota Timberwolves vs Indiana Pacers", Minnesota Timberwolves vs Indiana Pacers ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Minnesota Timberwolves vs Indiana Pacers", Minnesota Timberwolves vs Indiana Pacers (CRICFy LIVE )
+https://chatgpt.hereisman.net/playlist/53375/load-playlist?|Referer=https://gooz.aapmains.net 
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Minnesota Timberwolves vs Indiana Pacers", Minnesota Timberwolves vs Indiana Pacers (CRICFy HD)
+https://hls.live123.fans/live/3923422.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/10415/image/dark" group-title="Minnesota Timberwolves vs Indiana Pacers", Minnesota Timberwolves vs Indiana Pacers (HD SERVER)
+https://edgestream1.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center

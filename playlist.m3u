@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-17 06:15 PM IST
+# UPDATED: 2026-07-17 07:51 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -79,8 +79,14 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (LOW SERVER)
 http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Jaffna Kings vs Galle Gallants", Jaffna Kings vs Galle Gallants ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Jaffna Kings vs Galle Gallants", Jaffna Kings vs Galle Gallants (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Jaffna Kings vs Galle Gallants", Jaffna Kings vs Galle Gallants (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Kandy Royals vs Dambulla Sixers", Kandy Royals vs Dambulla Sixers ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Colombo Kaps", Galle Gallants vs Colombo Kaps ()
@@ -89,25 +95,19 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Southern Brave vs Welsh Fire", Southern Brave vs Welsh Fire ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Surrey Women vs The Blaze", Surrey Women vs The Blaze (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8efc5bd1b46fbad5b750c23aa68aebe0:0299a8f4b7b0a3e8b982759da11d21bc
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0vew3ebksl/out/v1/709195011cde44b0a6531cba049a4b81/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Surrey Women vs The Blaze", Surrey Women vs The Blaze (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Surrey Women vs The Blaze", Surrey Women vs The Blaze (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8efc5bd1b46fbad5b750c23aa68aebe0:0299a8f4b7b0a3e8b982759da11d21bc
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0vew3ebksl/out/v1/709195011cde44b0a6531cba049a4b81/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Surrey Women vs The Blaze", Surrey Women vs The Blaze (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Surrey Women vs The Blaze", Surrey Women vs The Blaze (SKY SPORT NZ)
-https://tmaxapp.site/8wirwjs76erftg/skysport5nz.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Surrey Women vs The Blaze", Surrey Women vs The Blaze (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/Criclive1707/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=956a1bd6587caf67e00712f03e67603a-1784281800142
+#KODIPROP:inputstream.adaptive.license_key=d2eded8e44db0e42c1c5fac0265b60f6:4513301debe078fd4819d024061f1cff
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bkqfq1h7u2/out/v1/a9a7ab282acd477096de79e190bc780c/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2eded8e44db0e42c1c5fac0265b60f6:4513301debe078fd4819d024061f1cff
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bkqfq1h7u2/out/v1/a9a7ab282acd477096de79e190bc780c/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (SKY SPORT NZ)
 https://tmaxapp.site/8wirwjs76erftg/skysport5nz.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (SonyLiv)
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Criclive1707/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13a037545f681564081be32493e2bbf7-1784293800104

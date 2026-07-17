@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-17 10:24 PM IST
+# UPDATED: 2026-07-17 11:23 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,19 +95,19 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Southern Brave vs Welsh Fire", Southern Brave vs Welsh Fire ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="The Blaze vs Durham Women", The Blaze vs Durham Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2eded8e44db0e42c1c5fac0265b60f6:4513301debe078fd4819d024061f1cff
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bkqfq1h7u2/out/v1/a9a7ab282acd477096de79e190bc780c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (SKY CRICKET - AQ)
+#KODIPROP:inputstream.adaptive.license_key=31cb90e7adf14d62c40cb7d85d37d6ac:d100b18a1937455db4ca2b3dcb5bd317
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="The Blaze vs Durham Women", The Blaze vs Durham Women (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (WILLOW - ALT)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="The Blaze vs Durham Women", The Blaze vs Durham Women (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2eded8e44db0e42c1c5fac0265b60f6:4513301debe078fd4819d024061f1cff
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bkqfq1h7u2/out/v1/a9a7ab282acd477096de79e190bc780c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (TAPMAD - AQ)
+#KODIPROP:inputstream.adaptive.license_key=31cb90e7adf14d62c40cb7d85d37d6ac:d100b18a1937455db4ca2b3dcb5bd317
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="The Blaze vs Durham Women", The Blaze vs Durham Women (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (SKY SPORT NZ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="The Blaze vs Durham Women", The Blaze vs Durham Women (SKY SPORT NZ)
 https://tmaxapp.site/8wirwjs76erftg/skysport5nz.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="Hampshire Women vs Durham Women", Hampshire Women vs Durham Women (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Criclive1707/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=13a037545f681564081be32493e2bbf7-1784293800104
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/25590/image/dark" group-title="The Blaze vs Durham Women", The Blaze vs Durham Women (SonyLiv)
+https://dai.google.com/ssai/event/O1T1FsBGRG-E3tKfjU-jnw/master.m3u8?hdnea=exp=1784349017~acl=/*~id=b62cdb64795972a49c2bb9473adba3f9-1784305800213~hmac=27b8a34b5ec330bfdeb8594b3d4004f429cf302c893d2bf17afa22a455a5e25e|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=eaa5ca4c091bb23b480d9c0b6f0a3122-1784309400172

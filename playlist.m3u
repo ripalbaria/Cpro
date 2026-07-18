@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-18 08:39 PM IST
+# UPDATED: 2026-07-18 09:37 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/20583/image" group-title="Major League Cricket", Major League Cricket (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -87,6 +87,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Colombo Kaps", Galle Gallants vs Colombo Kaps (FANCODE - IN)
+https://in-mc-pdlive.fancode.com/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Colombo Kaps", Galle Gallants vs Colombo Kaps (FANCODE - BD)
+https://bd-mc-pdlive.fancode.com/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="MI London vs Sunrisers Leeds", MI London vs Sunrisers Leeds ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Southern Brave vs Welsh Fire", Southern Brave vs Welsh Fire ()

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-19 05:39 PM IST
+# UPDATED: 2026-07-19 07:17 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11191/image" group-title="Zimbabwe vs Bangladesh", Zimbabwe vs Bangladesh (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -41,18 +41,14 @@ https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=17844
 https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2af5031d717117b3abe01558b78e2df5:a971f2b0740eeb1d1ef3e0f2936db73b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2af5031d717117b3abe01558b78e2df5:a971f2b0740eeb1d1ef3e0f2936db73b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (TNT SPORTS HD)
 https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (FANCODE - LQ)
@@ -61,21 +57,19 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (LOW SERVER)
 http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="West Indies vs New Zealand", West Indies vs New Zealand (FANCODE - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="MI London vs Sunrisers Leeds", MI London vs Sunrisers Leeds ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Southern Brave vs Welsh Fire", Southern Brave vs Welsh Fire ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Colombo Kaps vs Kandy Royals", Colombo Kaps vs Kandy Royals ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Jaffna Kings", Dambulla Sixers vs Jaffna Kings (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Colombo Kaps vs Kandy Royals", Colombo Kaps vs Kandy Royals (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Jaffna Kings", Dambulla Sixers vs Jaffna Kings (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_key=c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Colombo Kaps vs Kandy Royals", Colombo Kaps vs Kandy Royals (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Jaffna Kings", Dambulla Sixers vs Jaffna Kings (FANCODE - IND)
-https://in-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Jaffna Kings", Dambulla Sixers vs Jaffna Kings (FANCODE - BD)
-https://bd-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd

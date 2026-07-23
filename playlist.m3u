@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-23 05:00 PM IST
+# UPDATED: 2026-07-23 06:41 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Zimbabwe vs India", Zimbabwe vs India (FANCODE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,7 +16,7 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Zimbabwe vs India", Zimbabwe vs India (FANCODE - HIN)
-https://in-mc-pdlive.fancode.com/mumbai/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/143351_hindi_dash_1596_1drmta-di_h264/index.mpd?|drmScheme=clearkey&drmLicense=b396d10488d746a9a03b30e90ae145b7:76a58c079cc1be5ec8432b5b35d411c8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Zimbabwe vs India", Zimbabwe vs India (FANCODE - ENG)
 https://in-mc-flive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Zimbabwe vs India", Zimbabwe vs India (FANCODE - BD)

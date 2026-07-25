@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-25 11:36 PM IST
+# UPDATED: 2026-07-26 01:00 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Zimbabwe vs India", Zimbabwe vs India (FANCODE ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -77,18 +77,6 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://in-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (FANCODE - BD)
 https://bd-mc-pdlive.fancode.com/mumbai/4247438_english_hls_409d14a5796247_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Colombo Kaps", Dambulla Sixers vs Colombo Kaps (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Colombo Kaps", Dambulla Sixers vs Colombo Kaps (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Colombo Kaps", Dambulla Sixers vs Colombo Kaps (FANCODE - IN)
-https://in-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Colombo Kaps", Dambulla Sixers vs Colombo Kaps (FANCODE - BD)
-https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs MI London", Welsh Fire vs MI London (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd556956ecc559386bded0a96b25450c:d796fd9f63bd9676b575aa461fad6d35

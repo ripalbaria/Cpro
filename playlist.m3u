@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-25 09:44 PM IST
+# UPDATED: 2026-07-25 10:43 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Zimbabwe vs India", Zimbabwe vs India (FANCODE ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -89,34 +89,18 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://in-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Dambulla Sixers vs Colombo Kaps", Dambulla Sixers vs Colombo Kaps (FANCODE - BD)
 https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Southern Brave", Sunrisers Leeds vs Southern Brave (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ca745f55a0a0baab8fb2003248ab338:5d535450d386aa85f170b94bc1ae4529
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6vbgnyq7tk/out/v1/ad1f664435bf4736adb9c94ffa2aada0/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Southern Brave", Sunrisers Leeds vs Southern Brave (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ca745f55a0a0baab8fb2003248ab338:5d535450d386aa85f170b94bc1ae4529
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6vbgnyq7tk/out/v1/ad1f664435bf4736adb9c94ffa2aada0/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Southern Brave", Sunrisers Leeds vs Southern Brave (TAPMAD - AQ)
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Southern Brave", Sunrisers Leeds vs Southern Brave (FOX CRICKET HD)
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Southern Brave", Sunrisers Leeds vs Southern Brave (SonyLiv)
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs MI London", Welsh Fire vs MI London (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=dd556956ecc559386bded0a96b25450c:d796fd9f63bd9676b575aa461fad6d35
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfinvhk5he/out/v1/a2cc1989ec8a47a5b3a7ad0f7cb688e3/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs MI London", Welsh Fire vs MI London (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs MI London", Welsh Fire vs MI London (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=dd556956ecc559386bded0a96b25450c:d796fd9f63bd9676b575aa461fad6d35
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yfinvhk5he/out/v1/a2cc1989ec8a47a5b3a7ad0f7cb688e3/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs MI London", Welsh Fire vs MI London (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs MI London", Welsh Fire vs MI London (SKY SPORT NZ)
-https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs MI London", Welsh Fire vs MI London (FOX CRICKET HD)
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs MI London", Welsh Fire vs MI London (LOW SERVER)

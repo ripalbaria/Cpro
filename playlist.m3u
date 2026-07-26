@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-26 06:12 PM IST
+# UPDATED: 2026-07-26 07:43 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Zimbabwe vs India", Zimbabwe vs India (FANCODE ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,65 +37,69 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b90a33753b53e16bf32dfa95ccf6f191:e57aae6516f9227f7c21e20b34266bb6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/balosrv5xe/out/v1/4a08fbcca65d48fcb324bd2205eb727e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b90a33753b53e16bf32dfa95ccf6f191:e57aae6516f9227f7c21e20b34266bb6
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/balosrv5xe/out/v1/4a08fbcca65d48fcb324bd2205eb727e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (LOW SERVER)
-http://tvsen5.aynascope.net/willowhd/index.m3u8
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (FANCODE - IN)
-https://in-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8
+https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (FANCODE - BD)
-https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (FOX CRICKET HD)
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
+#KODIPROP:inputstream.adaptive.license_key=b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (LOW SERVER)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84417eca78ea581d939c2727a93ff140:f7d946779c6fdbcbd784944a3bbcf5f8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m14q6di0dr/out/v1/7a352d1daed04ebba98507e14081d8b6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84417eca78ea581d939c2727a93ff140:f7d946779c6fdbcbd784944a3bbcf5f8
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m14q6di0dr/out/v1/7a352d1daed04ebba98507e14081d8b6/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=42f2a5ec4571d78625673b5a9c8edd70:4110a77aa27300964b63cdb99b4d69e6
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/olepqibg6g/out/v1/7a937563adfa4008adc4f4cfcb75d51f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://livecf.fancode.com/4247431_english_hls_2e615b273261719_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (FANCODE - BD)
-https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Kandy Royals vs Jaffna Kings", Kandy Royals vs Jaffna Kings (WILLOW - AQ)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/san_francisco_unicorns_vs_perth_scorchers_xi_4247431_english.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Dambulla Sixers", Galle Gallants vs Dambulla Sixers (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Kandy Royals vs Jaffna Kings", Kandy Royals vs Jaffna Kings (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_key=d8575cbe0b673985c268bcc0c68b6d45:175e263ff54564cfd91c23ee8ee89eda
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ar5vpxijr/out/v1/679fbcd854064c98b175d2efe064b7cc/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Dambulla Sixers", Galle Gallants vs Dambulla Sixers (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Kandy Royals vs Jaffna Kings", Kandy Royals vs Jaffna Kings (FANCODE - IN)
-https://in-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Kandy Royals vs Jaffna Kings", Kandy Royals vs Jaffna Kings (FANCODE - BD)
-https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Dambulla Sixers", Galle Gallants vs Dambulla Sixers ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Birmingham Phoenix", Manchester Super Giants vs Birmingham Phoenix ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#KODIPROP:inputstream.adaptive.license_key=d8575cbe0b673985c268bcc0c68b6d45:175e263ff54564cfd91c23ee8ee89eda
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ar5vpxijr/out/v1/679fbcd854064c98b175d2efe064b7cc/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Dambulla Sixers", Galle Gallants vs Dambulla Sixers (FANCODE - IN)
+https://livecf.fancode.com/4246713_english_hls_17e2efa8db87720_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Galle Gallants vs Dambulla Sixers", Galle Gallants vs Dambulla Sixers (FANCODE - BD)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/galle_gallants_vs_dambulla_sixers_4246713_english.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Birmingham Phoenix", Manchester Super Giants vs Birmingham Phoenix (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Birmingham Phoenix", Manchester Super Giants vs Birmingham Phoenix (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Birmingham Phoenix", Manchester Super Giants vs Birmingham Phoenix (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Birmingham Phoenix", Manchester Super Giants vs Birmingham Phoenix (SonyLiv)
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785093647~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=77e8b2bb89df1e5833f317816f1a6edbf4f54c0c88d59c3e5d28cae2398bd46f
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Birmingham Phoenix", Manchester Super Giants vs Birmingham Phoenix (FOX CRICKET HD)
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Birmingham Phoenix", Manchester Super Giants vs Birmingham Phoenix (SKY SPORT NZ)
+https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs London Spirit", Trent Rockets vs London Spirit ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

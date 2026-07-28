@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-29 03:59 AM IST
+# UPDATED: 2026-07-29 04:58 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,14 +49,16 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 http://193.47.62.42/hls/HFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2362e3bf14adb50a0b1ba098370e0e3c:244ff12a1f95220b55f82d806ed579ea
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j63vrmdvzq/out/v1/967ab88162da4df987d30ca6d319a0e1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=335bcb24eec08af3381f7760a8b30677:2e60ec1b499b7bf3e933c42d1652a6ad
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0hvovu6iu/out/v1/43a63da307494cceba0f9d42be0439c7/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2362e3bf14adb50a0b1ba098370e0e3c:244ff12a1f95220b55f82d806ed579ea
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j63vrmdvzq/out/v1/967ab88162da4df987d30ca6d319a0e1/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=335bcb24eec08af3381f7760a8b30677:2e60ec1b499b7bf3e933c42d1652a6ad
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0hvovu6iu/out/v1/43a63da307494cceba0f9d42be0439c7/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (LOW SERVER)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (FANCODE - IN)
+https://dai-fancode.pages.dev/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Manchester Super Giants", Sunrisers Leeds vs Manchester Super Giants (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6615ff061d534480dfcc882d7d109368:ddd6d8d903e12981d3b18801c9adc188

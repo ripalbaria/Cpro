@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-07-30 02:14 PM IST
+# UPDATED: 2026-07-30 04:20 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,5 +63,9 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Caracas F.C. vs Independiente Santa Fe", Caracas F.C. vs Independiente Santa Fe ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10" group-title="Asian Legends League T20", Asian Legends League T20 ()
-ok
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10" group-title="Asian Legends League T20", Asian Legends League T20 (TAPMAD - AQ)
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10" group-title="Asian Legends League T20", Asian Legends League T20 (FANCODE - IN)
+https://dai-fancode.pages.dev/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10" group-title="Asian Legends League T20", Asian Legends League T20 (FANCODE - BD)
+https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8

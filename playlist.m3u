@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-01 07:42 PM IST
+# UPDATED: 2026-08-01 08:46 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -77,10 +77,6 @@ https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e2cbf56a418b8dd25fb41a5fd73c40:05d87ed2bacb50ec4312ee5f53d5363b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0d543o5wv/out/v1/52a921583f1e4a57b620e8435d15f164/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs Welsh Fire", Birmingham Phoenix vs Welsh Fire (CRICBUZZ FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://astro-cricket-proxy-3.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2504/default_ott.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs Welsh Fire", Birmingham Phoenix vs Welsh Fire (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e2cbf56a418b8dd25fb41a5fd73c40:05d87ed2bacb50ec4312ee5f53d5363b

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-02 03:45 AM IST
+# UPDATED: 2026-08-02 04:40 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -45,38 +45,24 @@ https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea
 http://193.47.62.190/hls/YQQQA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4540ae7c9fa1fdf44f640eb126f673aa:9c43a05073a939f0204d3f8d7ab1463d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ykqii0d04e/out/v1/2f126662741b4da4a098f46a4cf61344/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=07f2640f8a3856c0fdcadfbff1e7eb10:873e8c27c02047309afc3ad23748b6cc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/906wxs4bc5/out/v1/70f815efba1f4a909d07b92a66b6f493/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4540ae7c9fa1fdf44f640eb126f673aa:9c43a05073a939f0204d3f8d7ab1463d
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykqii0d04e/out/v1/2f126662741b4da4a098f46a4cf61344/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=07f2640f8a3856c0fdcadfbff1e7eb10:873e8c27c02047309afc3ad23748b6cc
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/906wxs4bc5/out/v1/70f815efba1f4a909d07b92a66b6f493/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (SKY SPORT NZ)
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10" group-title="Global Super League", Global Super League (FOX SPORTS HD)
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10" group-title="Asian Legends League T20", Asian Legends League T20 (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10" group-title="Asian Legends League T20", Asian Legends League T20 (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4248193_english_hls_4f8bd291d112318_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="London Spirit vs Southern Brave", London Spirit vs Southern Brave (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bdd07ceca3769b85a9cbfa924dd5e2e:3ee633478b4e15bdef412f8a12536265
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ezczw9wsc7/out/v1/69aca75960d8487ab5a86a23418b3531/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="London Spirit vs Southern Brave", London Spirit vs Southern Brave (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="London Spirit vs Southern Brave", London Spirit vs Southern Brave (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1bdd07ceca3769b85a9cbfa924dd5e2e:3ee633478b4e15bdef412f8a12536265
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ezczw9wsc7/out/v1/69aca75960d8487ab5a86a23418b3531/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="London Spirit vs Southern Brave", London Spirit vs Southern Brave (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="London Spirit vs Southern Brave", London Spirit vs Southern Brave (FOX CRICKET HD)
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="London Spirit vs Southern Brave", London Spirit vs Southern Brave (LOW SERVER)
-http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Jaffna Kings vs Dambulla Sixers", Jaffna Kings vs Dambulla Sixers ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Sunrisers Leeds", Trent Rockets vs Sunrisers Leeds ()

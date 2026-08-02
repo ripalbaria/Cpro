@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-02 02:10 PM IST
+# UPDATED: 2026-08-02 03:48 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -27,22 +27,26 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs
 http://193.47.62.192/hls/SOOOQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsp8wdw6zx/out/v1/8ec8b80ae2894df596d5f8458985ac07/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (SKY CRICKET - AQ)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsp8wdw6zx/out/v1/8ec8b80ae2894df596d5f8458985ac07/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (TAPMAD - AQ)
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8|referer=https://tapmad.com
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (SKY SPORT NZ)
+https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (FOX CRICKET HD)
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (SonyLiv)
-https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785601231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b4bb1f37b01e2cf27775a96353ab7f725df994e7562f6dd2cc555713dfc5f302
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (LOW SERVER)
-http://193.47.62.190/hls/YQQQA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+https://sonydaimenew.akamaized.net/hls/live//2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785700667~acl=/*~id=13573232039797740448193093055663~hmac=12736d13be76fcce2ba622fe0e4a7b89ed4a7a9cf8fc2992838d2c9e4c816926|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10" group-title="Asian Legends League T20", Asian Legends League T20 (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10" group-title="Asian Legends League T20", Asian Legends League T20 (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4248193_english_hls_4f8bd291d112318_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Jaffna Kings vs Dambulla Sixers", Jaffna Kings vs Dambulla Sixers ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Sunrisers Leeds", Trent Rockets vs Sunrisers Leeds ()

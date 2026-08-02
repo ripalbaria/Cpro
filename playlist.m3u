@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-02 11:58 PM IST
+# UPDATED: 2026-08-03 01:12 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -57,3 +57,11 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension
 https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785700667~acl=/*~id=13573232039797740448193093055663~hmac=12736d13be76fcce2ba622fe0e4a7b89ed4a7a9cf8fc2992838d2c9e4c816926|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="MI London vs Manchester Super Giants", MI London vs Manchester Super Giants (LOW SERVER)
 http://193.47.62.190/hls/TJJJAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Jaffna Kings vs Galle Gallants", Jaffna Kings vs Galle Gallants ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Colombo Kaps vs Kandy Royals", Colombo Kaps vs Kandy Royals ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Indonesia vs Vietnam", Indonesia vs Vietnam ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

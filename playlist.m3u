@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-03 07:29 PM IST
+# UPDATED: 2026-08-03 09:53 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,5 +53,3 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Indonesia vs Vietnam", Indonesia vs Vietnam (LOW SERVER)
-http://193.47.62.190/hls/NNNNAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/

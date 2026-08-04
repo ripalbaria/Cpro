@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-04 06:41 AM IST
+# UPDATED: 2026-08-04 09:57 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -51,23 +51,13 @@ https://dai-fancode.pages.dev/mumbai/4248195_english_hls_cb68ac446465541_1ta-di_
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Colombo Kaps vs Kandy Royals", Colombo Kaps vs Kandy Royals ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave (SKY SPORT NZ)
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave (FOX CRICKET HD)
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave (SonyLiv)
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785786641~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=711c048e122274ac23c3ffb39a3b0766085ec4be25684362bb23825053d4b4b2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs Southern Brave", Welsh Fire vs Southern Brave (LOW SERVER)
-http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs London Spirit", Sunrisers Leeds vs London Spirit ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Ireland vs Afghanistan", Ireland vs Afghanistan ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

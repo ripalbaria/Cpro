@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-05 06:30 AM IST
+# UPDATED: 2026-08-05 09:55 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,24 +35,6 @@ http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Colombo Kaps vs Kandy Royals", Colombo Kaps vs Kandy Royals ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs London Spirit", Sunrisers Leeds vs London Spirit (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs London Spirit", Sunrisers Leeds vs London Spirit (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs London Spirit", Sunrisers Leeds vs London Spirit (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs London Spirit", Sunrisers Leeds vs London Spirit (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs London Spirit", Sunrisers Leeds vs London Spirit (FOX CRICKET HD)
-http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs London Spirit", Sunrisers Leeds vs London Spirit (SonyLiv)
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785873047~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55d04982c4e5201688218f9b7c26b1540df19a25e187d3004a8a214aed750d79|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs London Spirit", Sunrisers Leeds vs London Spirit (LOW SERVER)
-http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix ()

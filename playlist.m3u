@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-05 09:03 PM IST
+# UPDATED: 2026-08-05 10:37 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="West Indies vs Pakistan", West Indies vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,28 +49,24 @@ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Colombo Kaps vs Kandy Royals", Colombo Kaps vs Kandy Royals (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4246725_english_hls_4970c22efa72931_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78ec9284132de7187cc62a368550a8b5:a0dc714d18448877d9664df9e34962ab
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rr2bvlgfda/out/v1/d1ee1f03673145d29d1e4a403288787f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire (SKY CRICKET - AQ)
+#KODIPROP:inputstream.adaptive.license_key=d2d3c4f07d795ca038af64432ae866ca:e122279e79133f6c1a5c8996c598150f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xcdlizqkde/out/v1/08668ec117274d65ba50e8e7ba00c31d/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire (WILLOW - ALT)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78ec9284132de7187cc62a368550a8b5:a0dc714d18448877d9664df9e34962ab
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rr2bvlgfda/out/v1/d1ee1f03673145d29d1e4a403288787f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire (TAPMAD - AQ)
+#KODIPROP:inputstream.adaptive.license_key=d2d3c4f07d795ca038af64432ae866ca:e122279e79133f6c1a5c8996c598150f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xcdlizqkde/out/v1/08668ec117274d65ba50e8e7ba00c31d/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire (SKY SPORT NZ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix (SKY SPORT NZ)
 https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire (FOX CRICKET HD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix (FOX CRICKET HD)
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire (SonyLiv)
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785957645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bb4f7fc241f16140e4dd1030531bc668fe6a8fb128ee1574b16f96f294540405|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Welsh Fire", Manchester Super Giants vs Welsh Fire (LOW SERVER)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix (LOW SERVER)
 http://193.47.62.190/hls/AIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Birmingham Phoenix", Trent Rockets vs Birmingham Phoenix ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Ireland vs Afghanistan", Ireland vs Afghanistan (WILLOW - AQ)

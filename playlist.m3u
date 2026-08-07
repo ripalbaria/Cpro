@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-07 04:58 PM IST
+# UPDATED: 2026-08-07 05:36 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29,6 +29,8 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Ireland vs Afghanistan", Ireland vs Afghanistan (HD SERVER)
+http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs Sunrisers Leeds", Birmingham Phoenix vs Sunrisers Leeds ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="MI London vs Trent Rockets", MI London vs Trent Rockets ()
@@ -37,5 +39,5 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League ()
 ok
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Singapore vs Indonesia", Singapore vs Indonesia ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Singapore vs Indonesia", Singapore vs Indonesia (LOW SERVER)
+http://193.47.62.190/hls/AVVVVAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/

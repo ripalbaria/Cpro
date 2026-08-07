@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-07 11:37 PM IST
+# UPDATED: 2026-08-08 12:41 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -68,4 +68,6 @@ https://cast.zlive.st/p/auto-sky-sport-7-nz-0/index.m3u8?|referer=https://zlive.
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (HD SERVER)
 https://cast.zlive.st/p/auto-tnt-sports-2-0/index.m3u8?|referer=https://zlive.st/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Southern Brave vs Manchester Super Giants", Southern Brave vs Manchester Super Giants ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Jaffna Kings vs Galle Gallants", Jaffna Kings vs Galle Gallants ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

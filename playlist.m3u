@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-07 09:01 PM IST
+# UPDATED: 2026-08-07 09:59 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,5 +53,3 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:0E:14:DE&stream=809397&exte
 https://dai-fancode.pages.dev/mumbai/4246731_english_hls_398dd7c86577540_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoZlb6Sy8wYeauCRmlU-hqecNkyzkY6l3yrQ-KXyqiA&s=10" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League ()
 ok
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/602/image/dark" group-title="Singapore vs Indonesia", Singapore vs Indonesia (LOW SERVER)
-http://193.47.62.190/hls/AVVVVAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/

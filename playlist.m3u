@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-09 10:10 AM IST
+# UPDATED: 2026-08-09 11:02 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,3 +37,15 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Welsh Fire", Sunrisers Leeds vs Welsh Fire ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="London Spirit vs Birmingham Phoenix", London Spirit vs Birmingham Phoenix ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Scotland vs United Arab Emirates", Scotland vs United Arab Emirates ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Trent Rockets vs Southern Brave", Trent Rockets vs Southern Brave ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

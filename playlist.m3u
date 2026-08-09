@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-09 04:46 PM IST
+# UPDATED: 2026-08-09 05:20 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -45,10 +45,14 @@ https://dai-fancode.pages.dev/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (CHELSEA TV HD)
+https://chatgpt.hereisman.net/playlist/54401/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (SPORT TV HD)
 https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (HD SERVER)
 https://t7.ultrastream.vip/sporttv3/index.m3u8?|Referer=https://foottime.top/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (LOW SERVER)
+http://193.47.62.192/hls/RRRRRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Welsh Fire", Sunrisers Leeds vs Welsh Fire ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="London Spirit vs Birmingham Phoenix", London Spirit vs Birmingham Phoenix ()

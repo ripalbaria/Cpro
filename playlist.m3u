@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-09 05:20 PM IST
+# UPDATED: 2026-08-09 05:49 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -41,16 +41,16 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (CBS SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (HUB SPORTS - AQ)
+https://admin2.paradilux.store/hub.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (CHELSEA TV HD)
 https://chatgpt.hereisman.net/playlist/54401/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (SportyNET HD)
+https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (HD SERVER)
+https://live2.jxa76.com/live/sd-6MwarCdWqameKTHh15_540p.m3u8?txSecret=1ed4291524c10c61ba376495cd3983ad&txTime=19FE7AA7BB2
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (SPORT TV HD)
 https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (HD SERVER)
-https://t7.ultrastream.vip/sporttv3/index.m3u8?|Referer=https://foottime.top/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/853/image/dark" group-title="Johor Darul Tazim vs Chelsea", Johor Darul Tazim vs Chelsea (LOW SERVER)
 http://193.47.62.192/hls/RRRRRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Sunrisers Leeds vs Welsh Fire", Sunrisers Leeds vs Welsh Fire ()

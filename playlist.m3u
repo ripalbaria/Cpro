@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-12 10:01 PM IST
+# UPDATED: 2026-08-12 11:06 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,23 +49,19 @@ https://dai-fancode.pages.dev/mumbai/4248286_english_hls_c15d148d2e71126_1ta-di_
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Independiente Santa Fe vs River Plate", Independiente Santa Fe vs River Plate ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs London Spirit", Welsh Fire vs London Spirit (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs MI London", Birmingham Phoenix vs MI London (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4eafd178f8f4fe3ade4b7b4f46f2aa0a:bb2edfa85640210506bb61468a4b3bed
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs London Spirit", Welsh Fire vs London Spirit (SKY CRICKET - AQ)
+#KODIPROP:inputstream.adaptive.license_key=3b084d3dc2d9165a4dfbb5a79bedb6a3:29393c86bdcbec79889d4a8927444828
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gylzfyopl1/out/v1/9f484b442bd74483ac438ae11a000d00/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs MI London", Birmingham Phoenix vs MI London (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs London Spirit", Welsh Fire vs London Spirit (WILLOW - ALT)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs MI London", Birmingham Phoenix vs MI London (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4eafd178f8f4fe3ade4b7b4f46f2aa0a:bb2edfa85640210506bb61468a4b3bed
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9rokl1wh8s/out/v1/cd3a0fdd2b524f959983860e305bfc62/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs London Spirit", Welsh Fire vs London Spirit (SKY SPORT NZ)
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs London Spirit", Welsh Fire vs London Spirit (FOX CRICKET HD)
+#KODIPROP:inputstream.adaptive.license_key=3b084d3dc2d9165a4dfbb5a79bedb6a3:29393c86bdcbec79889d4a8927444828
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gylzfyopl1/out/v1/9f484b442bd74483ac438ae11a000d00/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs MI London", Birmingham Phoenix vs MI London (FOX CRICKET HD)
 http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Welsh Fire vs London Spirit", Welsh Fire vs London Spirit (LOW SERVER)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs MI London", Birmingham Phoenix vs MI London (LOW SERVER)
 http://193.47.62.190/hls/UZZZddA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Birmingham Phoenix vs MI London", Birmingham Phoenix vs MI London ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Scotland vs Canada", Scotland vs Canada ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

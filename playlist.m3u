@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-14 10:37 PM IST
+# UPDATED: 2026-08-14 11:31 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16717/image" group-title="The Hundred Women", The Hundred Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,6 +73,8 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b15cdaf34362e1491ef3ae071e7e893d:166810dd6b122c4219b4901eb5d1a218
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Sunrisers Leeds", Manchester Super Giants vs Sunrisers Leeds (SKY SPORT NZ)
+https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Sunrisers Leeds", Manchester Super Giants vs Sunrisers Leeds (SonyLiv)
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786747834~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd209e8205d4477b0593a9303445df79e5242e29b439efec010ddb1006ec5b03
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Manchester Super Giants vs Sunrisers Leeds", Manchester Super Giants vs Sunrisers Leeds (LOW SERVER)

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-18 08:47 PM IST
+# UPDATED: 2026-08-18 09:22 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -69,5 +69,3 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 https://rdcstream.life/live/espn1/index.m3u8?|Referer=https://bolodechocolate.fit/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="Independiente Rivadavia vs Fluminense", Independiente Rivadavia vs Fluminense (SPORT TV HD)
 https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="Deportes Tolima vs Independiente del Valle", Deportes Tolima vs Independiente del Valle ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

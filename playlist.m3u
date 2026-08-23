@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-23 09:27 AM IST
+# UPDATED: 2026-08-23 09:59 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,30 +37,28 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 https://dai-fancode.pages.dev/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0braugdism/out/v1/58c7cad63d844b4c94b136f6b4246e25/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00b68aef8a09b82e87e42bd5876ca5ec:15c0ccd0e9cf51a0f35dcac34d033b66
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/duujom9bx6/out/v1/ac9cbe66d447429e897e4f8bcb846166/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (TEN SPORTS HD)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
+#KODIPROP:inputstream.adaptive.license_key=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0braugdism/out/v1/58c7cad63d844b4c94b136f6b4246e25/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - English)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000383/cricodi1908/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1c1c00ae41ea24dbd163c05a0c704e8a-1787109001074
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2308/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Hindi)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000300/cricodi1908/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1c1c00ae41ea24dbd163c05a0c704e8a-1787109001074
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2308/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Telugu)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000377/cricodi1908/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1c1c00ae41ea24dbd163c05a0c704e8a-1787109001074
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2308/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Tamil)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000380/cricodi1908/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1c1c00ae41ea24dbd163c05a0c704e8a-1787109001074
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2308/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Kannada)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1908/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1c1c00ae41ea24dbd163c05a0c704e8a-1787109001074
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2308/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (LOW SERVER)
-http://193.47.62.40/hls/ORRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.41/hls/edddaAAAAAAAa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="England vs Pakistan", England vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8

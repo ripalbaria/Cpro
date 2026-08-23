@@ -1,26 +1,22 @@
 #EXTM3U
-# UPDATED: 2026-08-23 05:23 AM IST
+# UPDATED: 2026-08-23 05:56 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdwk6pwhmo/out/v1/a23136e223be4bf0898f0f69ffc84155/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdwk6pwhmo/out/v1/a23136e223be4bf0898f0f69ffc84155/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (FOX CRICKET HD)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (TEN SPORTS HD)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (LOW SERVER)
-http://193.47.62.192/hls/DIIID.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.59/hls/DIIID.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c6419cad044ff267410bb76fdf63b64:e48d9fab72e98d5b23ef0f1556472607
@@ -91,12 +87,12 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master
 http://193.47.62.194/hls/QQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7644b0bd567d0adfd6e12ab85c73728c:83c67bcfbb7efb3d133232f5aa8ebe1a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ezr2c1po7a/out/v1/a6096ea9c42f4bd0b61e7c9380c28b67/cenc.mpd
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=628e4d3e30759987ca8fca298ec986b7:3e5fb5c2ce0bbc826f5f3b59ed4b5ac9
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/v10nki1baz/out/v1/bfcbde4547ab41b58a23f5042dd0994b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7644b0bd567d0adfd6e12ab85c73728c:83c67bcfbb7efb3d133232f5aa8ebe1a
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ezr2c1po7a/out/v1/a6096ea9c42f4bd0b61e7c9380c28b67/cenc.mpd
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (T SPORTS HD)
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (FANCODE - IN)

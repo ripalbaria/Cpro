@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-23 09:59 AM IST
+# UPDATED: 2026-08-23 10:31 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13,8 +13,6 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (FOX CRICKET HD)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (TEN SPORTS HD)
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Australia vs Bangladesh", Australia vs Bangladesh (LOW SERVER)
 http://193.47.62.59/hls/DIIID.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (WILLOW - AQ)
@@ -47,6 +45,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b18ee1fa4688bbfc61b3203a803c90d:d1559280fce999fc6f4f17301e62045d
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0braugdism/out/v1/58c7cad63d844b4c94b136f6b4246e25/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (TEN SPORTS HD)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - English)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2308/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c7cda4b5aa5796b852c47ba8cfc8127c-1787455801133
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Hindi)

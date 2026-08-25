@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-25 09:50 AM IST
+# UPDATED: 2026-08-25 10:29 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -73,12 +73,12 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master
 http://193.47.62.194/hls/QQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15010fa30093beac2e578df8378772e9:0dac32f908c5058b372ab09fae57b343
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2610defcad4585d40173657829b132a6:53a3d3a93952f54247b411e1b06eefed
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubse8txudr/out/v1/1f133d3c622b48938e229302019408fa/cenc.mpd
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=15010fa30093beac2e578df8378772e9:0dac32f908c5058b372ab09fae57b343
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ivbq7ejwu/out/v1/c63ce3f0cde54334b2c107c735a77b32/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2610defcad4585d40173657829b132a6:53a3d3a93952f54247b411e1b06eefed
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ubse8txudr/out/v1/1f133d3c622b48938e229302019408fa/cenc.mpd
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (T SPORTS HD)
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (WILLOW HD)
@@ -86,7 +86,7 @@ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4248429_english_hls_24899e8d9112809_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+https://dai-fancode.pages.dev/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs United Arab Emirates Women", Sri Lanka Women vs United Arab Emirates Women ()

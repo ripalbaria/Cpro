@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-26 08:45 AM IST
+# UPDATED: 2026-08-26 09:37 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19,16 +19,16 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m
 https://dai-fancode.pages.dev/mumbai/4248291_english_hls_bfd158f3d725309_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qc3g1qukb/out/v1/0c2c7c41bdd54fcc9cc086a83b28e5f5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uco516bnrm/out/v1/18af9eadf25d4479b5b3238fed0b27d4/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qc3g1qukb/out/v1/0c2c7c41bdd54fcc9cc086a83b28e5f5/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uco516bnrm/out/v1/18af9eadf25d4479b5b3238fed0b27d4/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (FOX CRICKET HD)
@@ -36,17 +36,17 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (TEN SPORTS HD)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - English)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
+https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi2608/ENG/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Hindi)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2508/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
+https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi2608/HIN/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Telugu)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2508/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
+https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2608/TEL/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Tamil)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2508/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
+https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2608/TAM/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (SonyLiv - Kannada)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2508/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
+https://sonymtmnew.akamaized.net/hls/live/2037143/cricodi2608/KAN/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Sri Lanka vs India", Sri Lanka vs India (LOW SERVER )
-http://193.47.62.44/hls/ZEZEZE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+http://193.47.62.59/hls/IGGGAAaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="England vs Pakistan", England vs Pakistan (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8
@@ -73,12 +73,8 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master
 http://193.47.62.194/hls/QQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3135d0a72c3ea3170425888a64bc272:e0d6515b5400358ef79a4637ac2f8671
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i62ybobyvi/out/v1/3484fdc786484db59cb3b9c0f76e9688/cenc.mpd
-#EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3135d0a72c3ea3170425888a64bc272:e0d6515b5400358ef79a4637ac2f8671
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/i62ybobyvi/out/v1/3484fdc786484db59cb3b9c0f76e9688/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1490ba3f3331b1e7fea0dfbd1790bdd5:92acc11924510236bf2b78041dd68058
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vbp4lxv0zh/out/v1/156797e66b2046538c4b5f2186b7d711/cenc.mpd
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -91,3 +87,5 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League ()
 ok
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="River Plate vs Independiente Santa Fe", River Plate vs Independiente Santa Fe ()
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

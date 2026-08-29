@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-29 06:47 PM IST
+# UPDATED: 2026-08-29 10:44 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,30 +47,24 @@ https://ml-pull-hwc.myco.io/PTPL2025/hls/index.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (FANCODE - IN)
 https://in-mc-flive.fancode.com/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787806268~_GO=Generated~acl=/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/*~Signature=ARB3KG28LEUcaZYVqxtsLOhtMAoMYPNaCHxieJnckN28ngwdIRo64nayBKdpOsZj91phb7SgW0Xim-iIUWuXtVg70BkP|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs United Arab Emirates Women", Sri Lanka Women vs United Arab Emirates Women ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29909175882bb66557e51b765266c822:920b51ab82b6b1250aba897885467ca3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f20e918e5df972da367108f52fa3a15c:26732c94fca0c367578472f85f15b90e
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zkueearjie/out/v1/0f433738f98b428cba6bcc6ba44e072b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29909175882bb66557e51b765266c822:920b51ab82b6b1250aba897885467ca3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f20e918e5df972da367108f52fa3a15c:26732c94fca0c367578472f85f15b90e
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zkueearjie/out/v1/0f433738f98b428cba6bcc6ba44e072b/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="Indianapolis Colts vs Detroit Lions", Indianapolis Colts vs Detroit Lions ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="South Africa vs Zimbabwe", South Africa vs Zimbabwe (FANCODE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="South Africa vs Zimbabwe", South Africa vs Zimbabwe (FANCODE - IN)
-https://in-mc-flive.fancode.com/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/1080p.m3u8?hdntl=Expires=1788089558~_GO=Generated~acl=/mumbai/4248458_english_hls_6de3572bca56210_1ta-di_h264/*~Signature=ARB3KG0spis7cigRbpb9Bcw5N5T3Ar6nwvf0Yc7CBhWd1frFTQJ4WE6LO4O1zDtkuQXDVt01tnPHuJCTleyhDKBT7_4N
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="Indianapolis Colts vs Detroit Lions", Indianapolis Colts vs Detroit Lions (CRICFy LIVE)
+https://chatgpt.hereisman.net/playlist/55455/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9465/image/dark" group-title="Indianapolis Colts vs Detroit Lions", Indianapolis Colts vs Detroit Lions (HD QUALITY)
+https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Bangladesh Women vs Indonesia Women", Bangladesh Women vs Indonesia Women ()

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-28 10:17 PM IST
+# UPDATED: 2026-08-29 06:15 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,30 +47,6 @@ https://tvsen7.aynascope.net/Sports1/index.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://styxsports.b-cdn.net/styxsports-public/tours/1787045529768-11144625.webp" group-title="Top End T20 Series", Top End T20 Series (FANCODE - IN)
 https://in-mc-flive.fancode.com/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/1080p.m3u8?hdntl=Expires=1787806268~_GO=Generated~acl=/mumbai/4248442_english_hls_9dcd9a24b148467_1ta-di_h264/*~Signature=ARB3KG28LEUcaZYVqxtsLOhtMAoMYPNaCHxieJnckN28ngwdIRo64nayBKdpOsZj91phb7SgW0Xim-iIUWuXtVg70BkP|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79d85379d6ccd159978086e33696b902:58a756d824c66a703f9428ecda61343a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwgsujboav/out/v1/61297a7dfc0d4996a60588fb99bf81fa/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79d85379d6ccd159978086e33696b902:58a756d824c66a703f9428ecda61343a
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hwgsujboav/out/v1/61297a7dfc0d4996a60588fb99bf81fa/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (T SPORTS HD)
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (SonyLiv - English)
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (SonyLiv - Hindi)
-https://dai.google.com/ssai/event/aGNPcotmQHS93Wy7COJ5dQ/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (SonyLiv - Tamil)
-https://dai.google.com/ssai/event/gCbFB2FiSbO9XPsh832aaw/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (SonyLiv - Telugu)
-https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2808/TEL/master.m3u8?hdnea=exp=1787969443~acl=/*~id=bf1f6ae219b742c64ad441a8441309d5-1787926200294~hmac=f1c210841ee5e99f3a1dd5c97a58bfa7adc9496fb07f97cedeb08c2feaae69ad|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bf1f6ae219b742c64ad441a8441309d5-1787926200294
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Thailand Women vs Hong Kong C.", Thailand Women vs Hong Kong C. (SonyLiv - Kannada)
-https://sonymtmnew.akamaized.net/hls/live/2037143/cricodi2808/KAN/master.m3u8?hdnea=exp=1787969443~acl=/*~id=bf1f6ae219b742c64ad441a8441309d5-1787926200294~hmac=f1c210841ee5e99f3a1dd5c97a58bfa7adc9496fb07f97cedeb08c2feaae69ad|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bf1f6ae219b742c64ad441a8441309d5-1787926200294
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs United Arab Emirates Women", Sri Lanka Women vs United Arab Emirates Women ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (WILLOW - AQ)

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-08-30 06:31 PM IST
+# UPDATED: 2026-08-30 10:54 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -35,20 +35,36 @@ https://dai.google.com/ssai/event/BGeiS6N2TkKrvT0V9rigmQ/master.m3u8
 http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6afd168c09734b602c18c4c6cb58e60:60a6851b08dc064f65be90aa4fd9688f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dzjxsxlbjy/out/v1/4f071655efe64f86ae57e299712c3470/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=12d42b084c3e2e520bf1d4ce39f94e1c:a73efb7179d1f74ff001477be565230c
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2qnzynykdr/out/v1/15f75ac63e3c41c7ac314439b01a2adb/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6afd168c09734b602c18c4c6cb58e60:60a6851b08dc064f65be90aa4fd9688f
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dzjxsxlbjy/out/v1/4f071655efe64f86ae57e299712c3470/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=12d42b084c3e2e520bf1d4ce39f94e1c:a73efb7179d1f74ff001477be565230c
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2qnzynykdr/out/v1/15f75ac63e3c41c7ac314439b01a2adb/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="European T20 Premier League", European T20 Premier League (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women ()
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6aa3d669577f1f94e7a235efed36fff5:13a909e97536492a83f5229b2d22867b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6aa3d669577f1f94e7a235efed36fff5:13a909e97536492a83f5229b2d22867b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women (SonyLiv - English)
+https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi3008/ENG/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women (SonyLiv - Hindi)
+https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi3008/HIN/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women (SonyLiv - Tamil)
+https://sonymtmnew.akamaized.net/hls/live/2037143/cricodi3008/TAM/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women (SonyLiv - Telugu)
+https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi3008/TEL/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Thailand Women", India Women vs Thailand Women (SonyLiv - Kannada)
+https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi3008/KAN/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Bangladesh Women vs Indonesia Women", Bangladesh Women vs Indonesia Women ()
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="Namibia vs Zimbabwe", Namibia vs Zimbabwe (CRICFy LIVE)

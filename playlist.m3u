@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-09-02 08:35 PM IST
+# UPDATED: 2026-09-03 12:07 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -63,26 +63,6 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m
 http://193.47.62.41/hls/R777Q.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="Namibia vs Zimbabwe", Namibia vs Zimbabwe (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Indonesia Women", Sri Lanka Women vs Indonesia Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2742087a88dea969b5ece23a12ebd3d:ecf606a690163ef1f4a59bfc8ffacff3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qakii0966h/out/v1/126e3a7da95544e788abfeaba16bcc26/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Indonesia Women", Sri Lanka Women vs Indonesia Women (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2742087a88dea969b5ece23a12ebd3d:ecf606a690163ef1f4a59bfc8ffacff3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qakii0966h/out/v1/126e3a7da95544e788abfeaba16bcc26/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Indonesia Women", Sri Lanka Women vs Indonesia Women (T SPORTS HD)
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Indonesia Women", Sri Lanka Women vs Indonesia Women (SonyLiv - English)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0209/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Indonesia Women", Sri Lanka Women vs Indonesia Women (SonyLiv - Hindi)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0209/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Indonesia Women", Sri Lanka Women vs Indonesia Women (SonyLiv - Tamil)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0209/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Indonesia Women", Sri Lanka Women vs Indonesia Women (SonyLiv - Telugu)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0209/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Indonesia Women", Sri Lanka Women vs Indonesia Women (SonyLiv - Kannada)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0209/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=35bc1dcaafab1ab1dab4bdf06369dcb5-1788358204541
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="India Women vs Hong Kong C.", India Women vs Hong Kong C. (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="Namibia vs South Africa", Namibia vs South Africa (CRICFy LIVE)

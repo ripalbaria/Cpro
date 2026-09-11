@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-09-11 11:38 PM IST
+# UPDATED: 2026-09-12 02:24 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,23 +53,3 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b8b2e5fc6b2ff6a1becfaa770e0807f:0f7f907364870c16af43744cb481f6a3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oswqp2gsrk/out/v1/ddb2c1e928dc4a54b8e9db919be1d39a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (TAMASHA - AQ)
-https://cdn05khi-n.tamashaweb.com:8087/jazzauth/wac2026-svod-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDI2IDI6MjY6MzUgUE0maGFzaF92YWx1ZT1PSkdDa0NiUjFDdzY0WlVER1pRU2pnPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (SonyLiv - English)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1109/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=30eeb655cf610058ff29ea6c4c15e3da-1789137004133
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (SonyLiv - Hindi)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi1109/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=30eeb655cf610058ff29ea6c4c15e3da-1789137004133
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (SonyLiv - Tamil)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1109/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=30eeb655cf610058ff29ea6c4c15e3da-1789137004133
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (SonyLiv - Telugu)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi1109/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=30eeb655cf610058ff29ea6c4c15e3da-1789137004133
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Sri Lanka Women vs Pakistan Women", Sri Lanka Women vs Pakistan Women (SonyLiv - Kannada)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1109/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=30eeb655cf610058ff29ea6c4c15e3da-1789137004133

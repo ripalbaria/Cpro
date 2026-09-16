@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-09-16 07:53 PM IST
+# UPDATED: 2026-09-16 11:44 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -91,3 +91,5 @@ https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800
 https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (LOW SERVER)
 http://193.47.62.59/hls/IVVVAAAAA.m3u8|referer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/384/image/dark" group-title="Flamengo vs Independiente del Valle", Flamengo vs Independiente del Valle (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

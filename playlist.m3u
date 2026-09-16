@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-09-16 06:06 AM IST
+# UPDATED: 2026-09-16 10:42 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -91,13 +91,3 @@ https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800
 https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (LOW SERVER)
 http://193.47.62.59/hls/IVVVAAAAA.m3u8|referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Vasco da Gama vs Independiente Santa Fe", Vasco da Gama vs Independiente Santa Fe (beIN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Vasco da Gama vs Independiente Santa Fe", Vasco da Gama vs Independiente Santa Fe (SPORT TV HD)
-https://tmaxapp.site/pt658svs/sporttv2.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Vasco da Gama vs Independiente Santa Fe", Vasco da Gama vs Independiente Santa Fe (beIN ARABIC HD)
-https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/480/image/dark" group-title="Vasco da Gama vs Independiente Santa Fe", Vasco da Gama vs Independiente Santa Fe (beIN SPORTS HD)
-https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8

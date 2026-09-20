@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-09-20 06:53 AM IST
+# UPDATED: 2026-09-20 11:57 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11167/image" group-title="CPL Caribbean Premier League", CPL Caribbean Premier League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -61,13 +61,25 @@ https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
 http://193.47.62.44/hls/JYYYAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Kansas City Chiefs vs Indianapolis Colts", Kansas City Chiefs vs Indianapolis Colts (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Pakistan Women vs Sri Lanka Women", Pakistan Women vs Sri Lanka Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Pakistan Women vs Sri Lanka Women", Pakistan Women vs Sri Lanka Women (PTV SPORTS HD)
-https://baila-lentoo.pages.dev/nwp/809398.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41af1e2d71a5921c8c32ea209f3e1846:5d8a2cf9110731f4f0bf40833f0c98cc
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k9yu7gqx4l/out/v1/802932ae129a4f7db700113d6598b50f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (SonyLiv - English)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (SonyLiv - Hindi)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2009/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (SonyLiv - Tamil)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2009/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (SonyLiv - Telugu)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2009/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Bangladesh Women vs India Women", Bangladesh Women vs India Women (SonyLiv - Kannada)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2009/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=97b32d3d0c70078a3949b563b0563681-1789878600651
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Japan vs India", Japan vs India (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="FC Twente vs PSV Eindhoven", FC Twente vs PSV Eindhoven (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

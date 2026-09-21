@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-09-21 12:36 PM IST
+# UPDATED: 2026-09-21 07:30 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -21,8 +21,10 @@ https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8
 http://193.47.62.44/hls/JYYYAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Japan vs India", Japan vs India (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (PTV SPORTS - AQ)
+https://baila-lentoo.pages.dev/nwp/373120.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Pakistan Women vs Bangladesh Women", Pakistan Women vs Bangladesh Women (TAMASHA PRO - AQ)
+https://cdn04khi-n.tamashaweb.com:8087/jazzauth/AG-SVOD-A-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDI2IDI6Mzg6MDIgQU0maGFzaF92YWx1ZT1IcjY1NVJWMitqejduaEZGdmpMWjhBPT0mdmFsaWRtaW51dGVzPTYw
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11159/image/dark" group-title="Sri Lanka Women vs India Women", Sri Lanka Women vs India Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="South Africa vs Australia", South Africa vs Australia (CRICFy LIVE)

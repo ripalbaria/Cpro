@@ -1,22 +1,6 @@
 #EXTM3U
-# UPDATED: 2026-09-27 06:38 PM IST
+# UPDATED: 2026-09-27 11:12 PM IST
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/criclive2709/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4109ebeb58107b229ea1db02ec2fbff0-1790499902207
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="England vs Sri Lanka", England vs Sri Lanka (LOW SERVER)
-http://193.47.62.55/hls/bbbbbAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="South Africa vs Australia", South Africa vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731
@@ -75,5 +59,17 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Bangladesh vs Malaysia", Bangladesh vs Malaysia (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Houston Texans", Indianapolis Colts vs Houston Texans (FOX NFL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c6f23b8e4d7e5ed7341453556acf1ed:1db14fd2b94f341089a0b1487ae9950d
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wzxywmyitl/out/v1/a527ca4593cb42a4addee49a27fe550c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Houston Texans", Indianapolis Colts vs Houston Texans (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+https://chatgpt.hereisman.net/playlist/57259/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Houston Texans", Indianapolis Colts vs Houston Texans (CRICFy NFL )
+https://chatgpt.hereisman.net/playlist/57272/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Houston Texans", Indianapolis Colts vs Houston Texans (HD QUALITY)
+https://edgestream2.pro/hls/qsdnajbq32.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Houston Texans", Indianapolis Colts vs Houston Texans (LOW QUALITY)
+http://193.47.62.59/hls/KZZZV.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/37824/image" group-title="Malaysia vs Indonesia", Malaysia vs Indonesia ()
+k

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-09-28 01:05 PM IST
+# UPDATED: 2026-09-28 09:25 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="South Africa vs Australia", South Africa vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,7 +55,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.m
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Bangladesh vs Malaysia", Bangladesh vs Malaysia (WILLOW - AQ)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/37824/image" group-title="Malaysia vs Indonesia", Malaysia vs Indonesia ()
-k
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Zimbabwe vs DR Congo", Zimbabwe vs DR Congo (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Zimbabwe vs DR Congo", Zimbabwe vs DR Congo (CRICFy LIVE )
+https://live.vivo155.com/live/sd-1-4642699.m3u8?txSecret=9bbcbc419229754a3c74fdefd9f5db11&txTime=6ABA9F55|Referer=https://player.787200.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Zimbabwe vs DR Congo", Zimbabwe vs DR Congo (HD SERVER )
+https://www.rtmpcdn.com/live/8162559c-7b2c-4f12-af04-93655690c205.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Zimbabwe vs DR Congo", Zimbabwe vs DR Congo (LOW SERVER)
+http://193.47.62.44/hls/H666QQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/

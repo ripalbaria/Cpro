@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-10-01 07:02 AM IST
+# UPDATED: 2026-10-01 01:16 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="South Africa vs Australia", South Africa vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -43,15 +43,23 @@ https://livetv.hotstar.com/mp1/gec-india-1540068283/9fdb797729344658957bd7382590
 https://livetv.hotstar.com/mp2/gec-india-1540068325/822fe9161d924f25a8f14d9a4e6f1b34/index.mpd?|cookie=hdntl=exp=1790774268~acl=%2f*~id=fb2f5f328a63970f4bd06992f287a881~data=hdntl~hmac=9d6837cdad16568ee81bf7f4aa208070f10de03a147acd28608f96561423414a&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=ae315fa52d544372a525f8b947a50000:8224183f754244c09664e825535aea4e
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/851/image/dark" group-title="India vs Brazil", India vs Brazil (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Pakistan vs Bangladesh", Pakistan vs Bangladesh (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Pakistan vs Bangladesh", Pakistan vs Bangladesh (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Pakistan vs Bangladesh", Pakistan vs Bangladesh (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG_DXcri3009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=92baf31594e8d0811e9b664501742e7f-1790811002755
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="India vs Sri Lanka", India vs Sri Lanka (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wmfuczzm2n/out/v1/1ea16373acdf454989b707d7b23553e0/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="India vs Sri Lanka", India vs Sri Lanka (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wmfuczzm2n/out/v1/1ea16373acdf454989b707d7b23553e0/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="India vs Sri Lanka", India vs Sri Lanka (SonyLiv - English)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0110/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="India vs Sri Lanka", India vs Sri Lanka (SonyLiv - Hindi)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0110/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="India vs Sri Lanka", India vs Sri Lanka (SonyLiv - Tamil)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0110/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="India vs Sri Lanka", India vs Sri Lanka (SonyLiv - Telugu)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0110/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="India vs Sri Lanka", India vs Sri Lanka (SonyLiv - Kannada)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0110/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark" group-title="Indonesia vs Bangladesh", Indonesia vs Bangladesh (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-10-13 10:31 PM IST
+# UPDATED: 2026-10-14 03:19 AM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="South Africa vs Australia", South Africa vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -109,10 +109,24 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="RB Leipzig vs PSV Eindhoven", RB Leipzig vs PSV Eindhoven (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Oklahoma City Thunder vs Indiana Pacers", Oklahoma City Thunder vs Indiana Pacers (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="RB Leipzig vs PSV Eindhoven", RB Leipzig vs PSV Eindhoven (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1f368d7af874fa0b4d7332a857783c1:1df543243dd7e13cd3fcc51271cff096
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ndlblrubcs/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="RB Leipzig vs PSV Eindhoven", RB Leipzig vs PSV Eindhoven (STAN SPORTS HD)
+https://netanjahu.hls.st/t/34c44eb4f629991388dc51c12ba1f526/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="RB Leipzig vs PSV Eindhoven", RB Leipzig vs PSV Eindhoven (PARAMOUNT+ HD)
+https://netanjahu.hls.st/t/afc0ddad7610bb93aafe3565badf7d11/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="RB Leipzig vs PSV Eindhoven", RB Leipzig vs PSV Eindhoven (DAZN SPORTS HD)
+https://netanjahu.hls.st/t/f68c47c642bcbe7037a4fe454c789867/index.m3u8?|Referer=https://iplayer.is/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="RB Leipzig vs PSV Eindhoven", RB Leipzig vs PSV Eindhoven (HD SERVER )
+https://edgestream7.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="RB Leipzig vs PSV Eindhoven", RB Leipzig vs PSV Eindhoven (CRICFy FAST )
+https://www.rtmpcdn.com/live/29a0a4c3-75e2-4f14-98ee-b47c5ae51f89.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="RB Leipzig vs PSV Eindhoven", RB Leipzig vs PSV Eindhoven (LOW SERVER)
+http://193.47.62.59/hls/FF666.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/2329/image/dark" group-title="Oklahoma City Thunder vs Indiana Pacers", Oklahoma City Thunder vs Indiana Pacers (HD QUALITY)
+https://edgestream6.pro/hls/hfsdqtaxvb67.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="India Women vs Zimbabwe Women", India Women vs Zimbabwe Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Bangladesh vs Zimbabwe", Bangladesh vs Zimbabwe (CRICFy LIVE)

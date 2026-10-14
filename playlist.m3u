@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-10-14 10:50 AM IST
+# UPDATED: 2026-10-14 03:51 PM IST
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="South Africa vs Australia", South Africa vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,20 +95,6 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/ucl-2tap259/master.m3u8|r
 https://gcpcdn2.tamashaweb.com/live/main.m3u8?timeshift=1
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Pakistan vs Sri Lanka", Pakistan vs Sri Lanka (LOW SERVER )
 http://193.47.62.41/hls/krrr.m3u8|referer=http://www.fawanews.sc/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b642c93aae95d414b5cf3b7486da7cd:f349ed601c76da554355e0fcc32f7b9f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b642c93aae95d414b5cf3b7486da7cd:f349ed601c76da554355e0fcc32f7b9f
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Australia Women vs Bangladesh Women", Australia Women vs Bangladesh Women (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4250151_english_hls_e8a263ec8846583_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="India Women vs Zimbabwe Women", India Women vs Zimbabwe Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Bangladesh vs Zimbabwe", Bangladesh vs Zimbabwe (CRICFy LIVE)

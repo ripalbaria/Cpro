@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-10-29 12:45 AM IST
+# UPDATED: 2026-10-29 04:43 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="South Africa vs Australia", South Africa vs Australia (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -125,8 +125,6 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4250358_english_hls_96367dc67f52533_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Philadelphia 76ers", Indiana Pacers vs Philadelphia 76ers (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Melbourne Renegades Women vs Sydney Thunder Women", Melbourne Renegades Women vs Sydney Thunder Women (WILLOW - AQ)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Melbourne Stars Women vs Hobart Hurricanes Women", Melbourne Stars Women vs Hobart Hurricanes Women (WILLOW FHD)

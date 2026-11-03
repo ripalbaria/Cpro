@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-11-03 10:53 PM IST
+# UPDATED: 2026-11-04 03:53 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="New Zealand vs India", New Zealand vs India (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -84,4 +84,12 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Pakistan vs Sri Lanka", Pakistan vs Sri Lanka (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Pakistan vs India", Pakistan vs India (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Sri Lanka Under-19 vs Malaysia Under-19", Sri Lanka Under-19 vs Malaysia Under-19 (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Bangladesh Under-19 vs Afghanistan Under-19", Bangladesh Under-19 vs Afghanistan Under-19 (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs United Arab Emirates Under-19", Pakistan Under-19 vs United Arab Emirates Under-19 (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Nepal Under-19", India Under-19 vs Nepal Under-19 (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

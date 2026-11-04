@@ -1,14 +1,14 @@
 #EXTM3U
-# UPDATED: 2026-11-04 07:58 AM IST
+# UPDATED: 2026-11-04 11:00 PM IST
 
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="New Zealand vs India", New Zealand vs India (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef90352c28904be995275bc47f74c04:af5e36ddef7584474601c19b4ae5935a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="New Zealand vs India", New Zealand vs India (PRIME ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db4b3e1da015cf0f03c2a5f4b9ee8433:964bab777741f2b59adedcbbcd463374
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnz2tp3cz2/out/v1/57dea44e09564aa7b769ebdc51f9a42f/cenc.mpd
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="New Zealand vs India", New Zealand vs India (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef90352c28904be995275bc47f74c04:af5e36ddef7584474601c19b4ae5935a
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="New Zealand vs India", New Zealand vs India (PRIME HINDI - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=952fb91696308da86bee7cd24edf0b58:bf359214ab3ac848738bdf014ace21b3
@@ -77,8 +77,6 @@ https://sp-original.pages.dev/liveop2.m3u8
 https://dai-fancode.pages.dev/mumbai/4250367_english_hls_7df9a62f5588246_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="PSV Eindhoven vs Club Brugge KV", PSV Eindhoven vs Club Brugge KV (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Hobart Hurricanes Women vs Melbourne Renegades Women", Hobart Hurricanes Women vs Melbourne Renegades Women (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Pakistan vs Sri Lanka", Pakistan vs Sri Lanka (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Pakistan vs India", Pakistan vs India (CRICFy LIVE)
@@ -90,4 +88,14 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs United Arab Emirates Under-19", Pakistan Under-19 vs United Arab Emirates Under-19 (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Nepal Under-19", India Under-19 vs Nepal Under-19 (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Memphis Grizzlies vs Indiana Pacers", Memphis Grizzlies vs Indiana Pacers (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Abu Dhabi T10 League", Abu Dhabi T10 League ()
+ok
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Adelaide Strikers Women vs Brisbane Heat Women", Adelaide Strikers Women vs Brisbane Heat Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Sydney Thunder Women vs Perth Scorchers Women", Sydney Thunder Women vs Perth Scorchers Women (CRICFy LIVE)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Melbourne Stars Women vs Sydney Sixers Women", Melbourne Stars Women vs Sydney Sixers Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

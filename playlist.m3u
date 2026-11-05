@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-11-05 04:15 AM IST
+# UPDATED: 2026-11-05 08:19 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="New Zealand vs India", New Zealand vs India (PRIME ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,28 +75,6 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://sp-original.pages.dev/liveop2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League (FANCODE - IN)
 https://dai-fancode.pages.dev/mumbai/4250367_english_hls_7df9a62f5588246_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="PSV Eindhoven vs Club Brugge KV", PSV Eindhoven vs Club Brugge KV (PARAMOUNT+ - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fb49bd892b824f28fad679dd7ad71e8c:cd9842c07299c799b409629ba7ac0a98
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d1ous3srq7/out/v1/6c950f35b0fc453a92532bb355de70e1/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="PSV Eindhoven vs Club Brugge KV", PSV Eindhoven vs Club Brugge KV (SonyLiv PRIME - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334c272e7990a300f968c6842e0b31aa:17f15f267b0d4773dc441eb88fb10636
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3th6vjorn/out/v1/7a9ccc6d6f1e4fc3abe851fac45936a2/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="PSV Eindhoven vs Club Brugge KV", PSV Eindhoven vs Club Brugge KV (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c912a6919c685ebd52c139fe14542a93:d49e2a62049ae3b71b79ebb9db44510b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r9udn69u5v/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="PSV Eindhoven vs Club Brugge KV", PSV Eindhoven vs Club Brugge KV (DAZN DE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4b4702e7e9301c95458ffb46b6caf9f:7f37e9920a2bf4752a83d26bc48b81ed
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k0a1eycdh3/out/v1/ed168d6fa20248819a7748ec0057e615/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="PSV Eindhoven vs Club Brugge KV", PSV Eindhoven vs Club Brugge KV (SonyLiv )
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="PSV Eindhoven vs Club Brugge KV", PSV Eindhoven vs Club Brugge KV (HD SERVER )
-https://www.rtmpcdn.com/live/7b9a2bbe-a88f-4ae5-8237-8e23b030d3a5.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/7/image/dark" group-title="PSV Eindhoven vs Club Brugge KV", PSV Eindhoven vs Club Brugge KV (LOW SERVER )
-http://193.47.62.50/hls/z777AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Pakistan vs Sri Lanka", Pakistan vs Sri Lanka (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="Pakistan vs India", Pakistan vs India (CRICFy LIVE)
@@ -110,7 +88,11 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Nepal Under-19", India Under-19 vs Nepal Under-19 (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Memphis Grizzlies vs Indiana Pacers", Memphis Grizzlies vs Indiana Pacers (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+https://chatgpt.hereisman.net/playlist/59270/load-playlist-multi?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Memphis Grizzlies vs Indiana Pacers", Memphis Grizzlies vs Indiana Pacers (HD QUALITY )
+https://www.rtmpcdn.com/live/75e5e6c1-a120-4b11-a758-3223c0981a0b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Memphis Grizzlies vs Indiana Pacers", Memphis Grizzlies vs Indiana Pacers (LOW QUALITY)
+http://193.47.62.44/hls/EEEEA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Abu Dhabi T10 League", Abu Dhabi T10 League ()
 ok
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Adelaide Strikers Women vs Brisbane Heat Women", Adelaide Strikers Women vs Brisbane Heat Women (CRICFy LIVE)

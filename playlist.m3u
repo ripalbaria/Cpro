@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-11-08 01:26 PM IST
+# UPDATED: 2026-11-08 08:07 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="New Zealand vs India", New Zealand vs India (PRIME ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,70 +71,18 @@ https://dai-fancode.pages.dev/mumbai/4249855_english_hls_62f97a03e897115_1ta-di_
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Abu Dhabi T10 League", Abu Dhabi T10 League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b107afb9c4f0fc911437a899bcccaf7c:56fb9ff0fd62018a100332cd35bdd207
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tt7bt6wnxg/out/v1/865dd41533dc426eb8cd944c1454c6e7/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Abu Dhabi T10 League", Abu Dhabi T10 League (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b107afb9c4f0fc911437a899bcccaf7c:56fb9ff0fd62018a100332cd35bdd207
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tt7bt6wnxg/out/v1/865dd41533dc426eb8cd944c1454c6e7/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="Abu Dhabi T10 League", Abu Dhabi T10 League (A SPORTS HD)
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Perth Scorchers Women vs Melbourne Stars Women", Perth Scorchers Women vs Melbourne Stars Women (WILLOW - AQ)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="SC Cambuur vs PSV Eindhoven", SC Cambuur vs PSV Eindhoven (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41b0e855ff51711a08ab8e4ccf1d0ba1:e849d0113e5fe023ff48664f3dc76b02
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Perth Scorchers Women vs Melbourne Stars Women", Perth Scorchers Women vs Melbourne Stars Women (SKY CRICKET - AQ)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Perth Scorchers Women vs Melbourne Stars Women", Perth Scorchers Women vs Melbourne Stars Women (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=41b0e855ff51711a08ab8e4ccf1d0ba1:e849d0113e5fe023ff48664f3dc76b02
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Perth Scorchers Women vs Melbourne Stars Women", Perth Scorchers Women vs Melbourne Stars Women (TAPMAD - AQ)
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="Perth Scorchers Women vs Melbourne Stars Women", Perth Scorchers Women vs Melbourne Stars Women (FANCODE - IN)
-https://dai-fancode.pages.dev/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="United Arab Emirates Under-19 vs Nepal Under-19", United Arab Emirates Under-19 vs Nepal Under-19 (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f638f10e9bee65a698926a527722e332:a9f519367caf419607f6705e3d767935
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="United Arab Emirates Under-19 vs Nepal Under-19", United Arab Emirates Under-19 vs Nepal Under-19 (SonyLiv PRIME - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08bb45494843dfb2a89da2899fe3999f:4571346ca311bca08a61fe9e76779029
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pklmckneea/out/v1/0f99435eda984497aa21d65b9f5410e1/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="United Arab Emirates Under-19 vs Nepal Under-19", United Arab Emirates Under-19 vs Nepal Under-19 (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f638f10e9bee65a698926a527722e332:a9f519367caf419607f6705e3d767935
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8wxsmuwvra/out/v1/06f2368f16e8470b8593cb77dcad31fe/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="United Arab Emirates Under-19 vs Nepal Under-19", United Arab Emirates Under-19 vs Nepal Under-19 (SonyLiv)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=85ef8820deb1a8ca78a9ba5573f23156-1794113401685
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (WILLOW - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb402b40b2aa0cceeb399dc8a3cfb6f1:8f089d69677070e893da78d9ba7c35b6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (SonyLiv PRIME - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a41a1afa54961a0cfafd5e7b2b550ce:f6d9a39542f275e5e2e73f20c6c97de9
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aungdo94je/out/v1/7962d6bd2f904cf09661de99039e97a9/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb402b40b2aa0cceeb399dc8a3cfb6f1:8f089d69677070e893da78d9ba7c35b6
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zjxcvjdkli/out/v1/adfe504a6e6a4cfda0234885b08f72a6/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (TEN SPORTS HD)
-https://live.msnetworks.net/ten-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (PTV SPORTS HD)
-https://live.msnetworks.net/ptv-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (SonyLiv - English)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0811/ENG/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (SonyLiv - Hindi)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0811/HIN/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (SonyLiv - Tamil)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0811/TAM/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (SonyLiv - Telugu)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0811/TEL/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="India Under-19 vs Pakistan Under-19", India Under-19 vs Pakistan Under-19 (SonyLiv - Kannada)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0811/KAN/master.m3u8?hdnea=exp=1794151400~acl=/*~id=83485597329850560748911921963862~hmac=dedd1d27f507fe870504fa2a72119ae09adb01c2a48aad4dffd47968defeab18
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="SC Cambuur vs PSV Eindhoven", SC Cambuur vs PSV Eindhoven (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Dallas Cowboys", Indianapolis Colts vs Dallas Cowboys (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Sri Lanka Under-19 vs Afghanistan Under-19", Sri Lanka Under-19 vs Afghanistan Under-19 (CRICFy LIVE)

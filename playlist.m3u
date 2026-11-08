@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-11-08 03:53 AM IST
+# UPDATED: 2026-11-08 07:03 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="New Zealand vs India", New Zealand vs India (PRIME ENG - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -92,6 +92,8 @@ https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tear
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37/image/dark" group-title="SC Cambuur vs PSV Eindhoven", SC Cambuur vs PSV Eindhoven (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/132/image/dark" group-title="Indiana Pacers vs Denver Nuggets", Indiana Pacers vs Denver Nuggets (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a45cb8acf350bdb0c35922eb5af8de6d:f2df42245409b3a47911be8b1c3d1996
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1aagvfnsui/out/v1/57618322df494789a3bca56b1fd83c93/cenc.mpd
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Dallas Cowboys", Indianapolis Colts vs Dallas Cowboys (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

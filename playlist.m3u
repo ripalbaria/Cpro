@@ -1,14 +1,14 @@
 #EXTM3U
-# UPDATED: 2026-11-14 07:14 AM IST
+# UPDATED: 2026-11-14 01:31 PM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan vs Zimbabwe", Afghanistan vs Zimbabwe (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan vs Zimbabwe", Afghanistan vs Zimbabwe (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b21487d48dba161df1dbcb2709e78ac5:495d4dfd655791c39933461c3751bde3
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j7kojz9zjq/out/v1/364b343c25d549ebade260951e5ae871/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9373c3f08c6578544e0ea1999e95418b:10a7f6e8177486dfca9bb5696779dd02
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x8iyqzo7wh/out/v1/8c628f2f334e46a683092f62d2659733/cenc.mpd
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan vs Zimbabwe", Afghanistan vs Zimbabwe (A SPORTS HD)
 https://live.msnetworks.net/a-sports/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan vs Zimbabwe", Afghanistan vs Zimbabwe (FANCODE - IN )
@@ -85,14 +85,14 @@ https://in-mc-flive.fancode.com/mumbai/4250640_english_hls_531bf4661e7063_1ta-di
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="WBBL Women Big Bash League", WBBL Women Big Bash League (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fc4968fb4dec837fa5be62f9c463cf04:0b7d70bbf114543bc92193021ccc0b23
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hvu7hcu7jb/out/v1/7b0a48f368404321a8ce552b7a092d91/cenc.mpd
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="WBBL Women Big Bash League", WBBL Women Big Bash League (SKY CRICKET - AQ)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="WBBL Women Big Bash League", WBBL Women Big Bash League (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fc4968fb4dec837fa5be62f9c463cf04:0b7d70bbf114543bc92193021ccc0b23
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hvu7hcu7jb/out/v1/7b0a48f368404321a8ce552b7a092d91/cenc.mpd
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="WBBL Women Big Bash League", WBBL Women Big Bash League (TAPMAD - AQ)
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?|Referer=https://tapmad.com/
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark" group-title="WBBL Women Big Bash League", WBBL Women Big Bash League (WILLOW HD)
@@ -141,11 +141,31 @@ https://sony247channels.akamaized.net/hls/live/2020434/TEN2HD/hdntl=exp=17945993
 https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/hdntl=exp=1794599360~acl=%2f*~id=604ae0099f5c31fa16beacf7fc54ca00-1794512959613~data=hdntl~hmac=5e50939d3a3c88a2fe492f884252c6a6b488cfdafee0aa37946249f73ae60228/master_3500.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="New Zealand vs India", New Zealand vs India (SONY TEN 4 - IN)
 https://sony247channels.akamaized.net/hls/live/2020589/ten4kannada/hdntl=exp=1794599360~acl=%2f*~id=604ae0099f5c31fa16beacf7fc54ca00-1794512959613~data=hdntl~hmac=5e50939d3a3c88a2fe492f884252c6a6b488cfdafee0aa37946249f73ae60228/master_3500.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="India vs Bhutan", India vs Bhutan (CRICFy LIVE)
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (CRICFy LIVE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (SonyLiv PRIME - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (SonyLiv - ENG)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (SonyLiv - HIN)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (SonyLiv - TAM)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1411/TAM/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (SonyLiv - TEL)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1411/TEL/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="Pakistan Under-19 vs India Under-19", Pakistan Under-19 vs India Under-19 (SonyLiv - KAN)
+https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1411/KAN/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark" group-title="India vs Bhutan", India vs Bhutan (HD SERVER)
+https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Pakistan Women vs Netherlands Women", Pakistan Women vs Netherlands Women (ICC TV - AQ)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="Thailand Women vs Zimbabwe Women", Thailand Women vs Zimbabwe Women (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8

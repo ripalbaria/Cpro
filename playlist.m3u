@@ -1,5 +1,5 @@
 #EXTM3U
-# UPDATED: 2026-11-15 10:16 PM IST
+# UPDATED: 2026-11-16 02:52 AM IST
 
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11190/image" group-title="Afghanistan vs Zimbabwe", Afghanistan vs Zimbabwe (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -149,5 +149,17 @@ https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="New Zealand vs India", New Zealand vs India (SONY GLOBAL)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Miami Dolphins", Indianapolis Colts vs Miami Dolphins (NFL GAMEPASS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d0ab8cb43e1d45824f03492325b9d9:4e1fce1669c13fbfe4dc64be96391df8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vytnkohxt5/out/v1/6181c6768150423bbfa85b75d5fcd89b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Miami Dolphins", Indianapolis Colts vs Miami Dolphins (CRICFy LIVE)
+https://chatgpt.hereisman.net/playlist/60185/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Miami Dolphins", Indianapolis Colts vs Miami Dolphins (CRICFy NFL )
+https://chatgpt.hereisman.net/playlist/60159/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Miami Dolphins", Indianapolis Colts vs Miami Dolphins (HD SERVER )
+https://chatgpt.hereisman.net/playlist/60183/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark" group-title="Indianapolis Colts vs Miami Dolphins", Indianapolis Colts vs Miami Dolphins (LOW SERVER )
+http://193.47.62.59/hls/VIIIIA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark" group-title="Zimbabwe vs Equatorial Guinea", Zimbabwe vs Equatorial Guinea (CRICFy LIVE)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
